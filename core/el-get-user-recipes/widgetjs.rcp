@@ -1,0 +1,7 @@
+(:name widgetjs
+:auto-generated t
+:type elpa
+:description "Widgetjs mode"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (makey js2-mode js2-refactor s)
+)

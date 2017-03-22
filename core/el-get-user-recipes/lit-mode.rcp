@@ -1,0 +1,6 @@
+(:name lit-mode
+:auto-generated t
+:type elpa
+:description "Major mode for lit"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

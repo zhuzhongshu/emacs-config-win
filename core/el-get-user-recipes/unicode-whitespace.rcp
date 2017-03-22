@@ -1,0 +1,7 @@
+(:name unicode-whitespace
+:auto-generated t
+:type elpa
+:description "teach whitespace-mode about fancy characters"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (ucs-utils list-utils persistent-soft pcache)
+)

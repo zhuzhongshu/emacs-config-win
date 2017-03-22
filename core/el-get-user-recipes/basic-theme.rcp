@@ -1,0 +1,7 @@
+(:name basic-theme
+:auto-generated t
+:type elpa
+:description "Minimalistic light color theme"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24)
+)

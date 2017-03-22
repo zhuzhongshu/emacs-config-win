@@ -1,0 +1,7 @@
+(:name helm-notmuch
+:auto-generated t
+:type elpa
+:description "Search emails with Notmuch and Helm"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (helm notmuch)
+)

@@ -1,0 +1,8 @@
+(:name lispy
+:auto-generated t
+:type elpa
+:description "vi-like Paredit"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (ace-window iedit swiper hydra zoutline)
+:minimum-emacs-version (24 1)
+)

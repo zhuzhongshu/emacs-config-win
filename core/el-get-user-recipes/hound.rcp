@@ -1,0 +1,7 @@
+(:name hound
+:auto-generated t
+:type elpa
+:description "Display hound search results in a compilation window"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (request cl-lib)
+)

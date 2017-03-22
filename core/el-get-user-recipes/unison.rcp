@@ -1,0 +1,7 @@
+(:name unison
+:auto-generated t
+:type elpa
+:description "sync with Unison"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24 1)
+)

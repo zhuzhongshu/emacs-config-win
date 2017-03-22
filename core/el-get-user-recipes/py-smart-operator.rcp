@@ -1,0 +1,7 @@
+(:name py-smart-operator
+:auto-generated t
+:type elpa
+:description "smart-operator for python-mode"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (s)
+)

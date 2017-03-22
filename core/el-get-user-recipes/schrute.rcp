@@ -1,0 +1,7 @@
+(:name schrute
+:auto-generated t
+:type elpa
+:description "Help you remember there is a better way to do something."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24 3)
+)

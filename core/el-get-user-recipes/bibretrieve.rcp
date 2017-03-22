@@ -1,0 +1,8 @@
+(:name bibretrieve
+:auto-generated t
+:type elpa
+:description "Retrieving BibTeX entries from the web"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (auctex)
+:minimum-emacs-version (24 3)
+)

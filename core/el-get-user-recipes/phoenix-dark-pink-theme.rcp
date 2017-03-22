@@ -1,0 +1,6 @@
+(:name phoenix-dark-pink-theme
+:auto-generated t
+:type elpa
+:description "Originally a port of the Sublime Text 2 theme"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

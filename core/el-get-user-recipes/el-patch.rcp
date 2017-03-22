@@ -1,0 +1,7 @@
+(:name el-patch
+:auto-generated t
+:type elpa
+:description "Future-proof your Emacs Lisp customizations!"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (25)
+)

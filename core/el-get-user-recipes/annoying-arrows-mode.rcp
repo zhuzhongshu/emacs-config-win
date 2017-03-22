@@ -1,0 +1,7 @@
+(:name annoying-arrows-mode
+:auto-generated t
+:type elpa
+:description "Ring the bell if using arrows too much"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (cl-lib)
+)

@@ -1,0 +1,7 @@
+(:name auto-complete-pcmp
+:auto-generated t
+:type elpa
+:description "Provide auto-complete sources using pcomplete results"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (auto-complete log4e yaxception)
+)

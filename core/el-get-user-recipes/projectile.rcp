@@ -1,0 +1,8 @@
+(:name projectile
+:auto-generated t
+:type elpa
+:description "Manage and navigate projects in Emacs easily"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (pkg-info)
+:minimum-emacs-version (24 1)
+)

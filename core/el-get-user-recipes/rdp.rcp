@@ -1,0 +1,6 @@
+(:name rdp
+:auto-generated t
+:type elpa
+:description "Recursive Descent Parser library"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

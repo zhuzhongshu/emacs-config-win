@@ -1,0 +1,7 @@
+(:name cask
+:auto-generated t
+:type elpa
+:description "Cask: Project management for Emacs package development"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (s dash f epl shut-up cl-lib package-build)
+)

@@ -1,0 +1,6 @@
+(:name dakrone-theme
+:auto-generated t
+:type elpa
+:description "dakrone's custom dark theme"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

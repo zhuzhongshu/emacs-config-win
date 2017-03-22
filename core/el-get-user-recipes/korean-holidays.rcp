@@ -1,0 +1,6 @@
+(:name korean-holidays
+:auto-generated t
+:type elpa
+:description "Korean holidays for calendar."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

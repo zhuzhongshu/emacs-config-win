@@ -1,0 +1,6 @@
+(:name fifo-class
+:auto-generated t
+:type elpa
+:description "First in first out abstract class"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

@@ -1,0 +1,7 @@
+(:name helm-bbdb
+:auto-generated t
+:type elpa
+:description "Helm interface for bbdb"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (helm bbdb)
+)

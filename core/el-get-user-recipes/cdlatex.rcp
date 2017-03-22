@@ -1,0 +1,6 @@
+(:name cdlatex
+:auto-generated t
+:type elpa
+:description "Fast input methods for LaTeX environments and math"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

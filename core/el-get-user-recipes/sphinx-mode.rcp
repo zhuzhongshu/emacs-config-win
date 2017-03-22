@@ -1,0 +1,6 @@
+(:name sphinx-mode
+:auto-generated t
+:type elpa
+:description "Minor mode providing sphinx support."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

@@ -1,0 +1,7 @@
+(:name test-c
+:auto-generated t
+:type elpa
+:description "quickly test c code"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24 3)
+)

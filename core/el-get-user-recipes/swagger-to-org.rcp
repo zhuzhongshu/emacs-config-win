@@ -1,0 +1,8 @@
+(:name swagger-to-org
+:auto-generated t
+:type elpa
+:description "Convert a swagger.json file into an org-mode file"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (cl-lib json)
+:minimum-emacs-version (24)
+)

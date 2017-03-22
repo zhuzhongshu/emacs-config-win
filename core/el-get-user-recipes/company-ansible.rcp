@@ -1,0 +1,8 @@
+(:name company-ansible
+:auto-generated t
+:type elpa
+:description "A company back-end for ansible"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (company)
+:minimum-emacs-version (24 4)
+)

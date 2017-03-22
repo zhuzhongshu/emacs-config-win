@@ -1,0 +1,8 @@
+(:name helm-open-github
+:auto-generated t
+:type elpa
+:description "Utilities of Opening Github Page"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (helm-core gh)
+:minimum-emacs-version (24 4)
+)

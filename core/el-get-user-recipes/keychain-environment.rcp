@@ -1,0 +1,6 @@
+(:name keychain-environment
+:auto-generated t
+:type elpa
+:description "load keychain environment variables"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

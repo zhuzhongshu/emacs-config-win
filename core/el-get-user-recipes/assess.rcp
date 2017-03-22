@@ -1,0 +1,8 @@
+(:name assess
+:auto-generated t
+:type elpa
+:description "Test support functions"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (m-buffer dash)
+:minimum-emacs-version (24 4)
+)

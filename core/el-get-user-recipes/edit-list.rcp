@@ -1,0 +1,6 @@
+(:name edit-list
+:auto-generated t
+:type elpa
+:description "edit a single list"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

@@ -1,0 +1,8 @@
+(:name github-clone
+:auto-generated t
+:type elpa
+:description "Fork and clone github repos"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (gh magit)
+:minimum-emacs-version (24 4)
+)

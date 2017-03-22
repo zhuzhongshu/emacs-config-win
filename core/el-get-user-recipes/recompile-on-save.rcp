@@ -1,0 +1,7 @@
+(:name recompile-on-save
+:auto-generated t
+:type elpa
+:description "Trigger recompilation on file save."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (dash cl-lib)
+)

@@ -1,0 +1,7 @@
+(:name sly-repl-ansi-color
+:auto-generated t
+:type elpa
+:description "Add ANSI colors support to the sly mrepl."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (sly cl-lib)
+)

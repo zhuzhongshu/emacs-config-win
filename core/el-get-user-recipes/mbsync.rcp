@@ -1,0 +1,6 @@
+(:name mbsync
+:auto-generated t
+:type elpa
+:description "run mbsync to fetch mails"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

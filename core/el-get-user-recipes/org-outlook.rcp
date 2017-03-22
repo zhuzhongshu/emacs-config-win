@@ -1,0 +1,6 @@
+(:name org-outlook
+:auto-generated t
+:type elpa
+:description "Outlook org"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

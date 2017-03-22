@@ -1,0 +1,7 @@
+(:name gnu-apl-mode
+:auto-generated t
+:type elpa
+:description "Integrate GNU APL with Emacs"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24)
+)

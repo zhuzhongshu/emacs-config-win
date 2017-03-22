@@ -1,0 +1,7 @@
+(:name commander
+:auto-generated t
+:type elpa
+:description "Emacs command line parser"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (s dash cl-lib f)
+)

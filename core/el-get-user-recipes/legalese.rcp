@@ -1,0 +1,6 @@
+(:name legalese
+:auto-generated t
+:type elpa
+:description "Add legalese to your program files"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

@@ -1,0 +1,8 @@
+(:name dokuwiki
+:auto-generated t
+:type elpa
+:description "Edit Remote DokuWiki Pages Using XML-RPC"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (xml-rpc)
+:minimum-emacs-version (24 3)
+)

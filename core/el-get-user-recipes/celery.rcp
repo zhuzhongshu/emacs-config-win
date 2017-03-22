@@ -1,0 +1,8 @@
+(:name celery
+:auto-generated t
+:type elpa
+:description "a minor mode to draw stats from celery and more?"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (dash-functional s deferred)
+:minimum-emacs-version (24)
+)

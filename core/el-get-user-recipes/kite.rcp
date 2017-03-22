@@ -1,0 +1,7 @@
+(:name kite
+:auto-generated t
+:type elpa
+:description "WebKit inspector front-end"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (json websocket)
+)

@@ -1,0 +1,6 @@
+(:name green-screen-theme
+:auto-generated t
+:type elpa
+:description "A nice color theme for those who miss green CRTs"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

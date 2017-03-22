@@ -1,0 +1,8 @@
+(:name paperless
+:auto-generated t
+:type elpa
+:description "A major mode for sorting and filing PDF documents."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (f s cl-lib)
+:minimum-emacs-version (24 4)
+)

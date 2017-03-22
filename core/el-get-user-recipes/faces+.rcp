@@ -1,0 +1,6 @@
+(:name faces+
+:auto-generated t
+:type elpa
+:description "Extensions to `faces.el'."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

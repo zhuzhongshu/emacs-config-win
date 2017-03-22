@@ -1,0 +1,6 @@
+(:name finder+
+:auto-generated t
+:type elpa
+:description "Extensions to standard library finder.el"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

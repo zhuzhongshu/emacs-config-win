@@ -1,0 +1,7 @@
+(:name epl
+:auto-generated t
+:type elpa
+:description "Emacs Package Library"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (cl-lib)
+)

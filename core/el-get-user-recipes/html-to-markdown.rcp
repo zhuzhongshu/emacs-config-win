@@ -1,0 +1,7 @@
+(:name html-to-markdown
+:auto-generated t
+:type elpa
+:description "HTML to Markdown converter written in Emacs-lisp."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (cl-lib)
+)

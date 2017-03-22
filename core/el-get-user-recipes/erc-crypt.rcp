@@ -1,0 +1,7 @@
+(:name erc-crypt
+:auto-generated t
+:type elpa
+:description "Symmetric Encryption for ERC"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (cl-lib)
+)

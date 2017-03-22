@@ -1,0 +1,7 @@
+(:name git-link
+:auto-generated t
+:type elpa
+:description "Get the GitHub/Bitbucket/GitLab URL for a buffer location"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (cl-lib)
+)

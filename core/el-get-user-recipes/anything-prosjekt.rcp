@@ -1,0 +1,7 @@
+(:name anything-prosjekt
+:auto-generated t
+:type elpa
+:description "Anything integration for prosjekt."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (prosjekt anything)
+)

@@ -1,0 +1,7 @@
+(:name evil-opener
+:auto-generated t
+:type elpa
+:description "opening urls as buffers in evil"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (evil opener)
+)

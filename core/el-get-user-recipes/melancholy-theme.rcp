@@ -1,0 +1,6 @@
+(:name melancholy-theme
+:auto-generated t
+:type elpa
+:description "A dark theme for dark minds"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

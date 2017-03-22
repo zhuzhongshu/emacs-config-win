@@ -1,0 +1,7 @@
+(:name fiplr
+:auto-generated t
+:type elpa
+:description "Fuzzy Search for Files in Projects"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (grizzl cl-lib)
+)

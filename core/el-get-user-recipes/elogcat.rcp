@@ -1,0 +1,7 @@
+(:name elogcat
+:auto-generated t
+:type elpa
+:description "logcat interface"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (s dash)
+)

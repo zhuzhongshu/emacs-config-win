@@ -1,0 +1,7 @@
+(:name lenlen-theme
+:auto-generated t
+:type elpa
+:description "a solarized-based kawaii light theme"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (color-theme-solarized)
+)

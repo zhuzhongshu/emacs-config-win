@@ -1,0 +1,8 @@
+(:name circe-notifications
+:auto-generated t
+:type elpa
+:description "Add desktop notifications to Circe."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (circe alert)
+:minimum-emacs-version (24 4)
+)

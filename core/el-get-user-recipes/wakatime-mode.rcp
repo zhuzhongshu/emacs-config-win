@@ -1,0 +1,6 @@
+(:name wakatime-mode
+:auto-generated t
+:type elpa
+:description "Automatic time tracking extension for WakaTime"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

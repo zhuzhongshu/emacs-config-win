@@ -1,0 +1,7 @@
+(:name image-dired+
+:auto-generated t
+:type elpa
+:description "Image-dired extensions"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (cl-lib)
+)

@@ -1,0 +1,8 @@
+(:name origami
+:auto-generated t
+:type elpa
+:description "Flexible text folding"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (s dash)
+:minimum-emacs-version (24)
+)

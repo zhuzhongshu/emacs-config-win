@@ -1,0 +1,8 @@
+(:name term-cmd
+:auto-generated t
+:type elpa
+:description "Send commands from programs running in term.el."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (dash f)
+:minimum-emacs-version (24 0)
+)

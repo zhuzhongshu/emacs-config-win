@@ -1,0 +1,7 @@
+(:name apiwrap
+:auto-generated t
+:type elpa
+:description "api-wrapping tools"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (25)
+)

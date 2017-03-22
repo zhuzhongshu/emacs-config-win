@@ -1,0 +1,8 @@
+(:name markdown-edit-indirect
+:auto-generated t
+:type elpa
+:description "Edit markdown code block in a separate buffer"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (markdown-mode edit-indirect)
+:minimum-emacs-version (24 3)
+)

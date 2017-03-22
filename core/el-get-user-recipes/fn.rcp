@@ -1,0 +1,8 @@
+(:name fn
+:auto-generated t
+:type elpa
+:description "Concise anonymous functions for Emacs Lisp"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (cl-lib dash dash-functional)
+:minimum-emacs-version (24)
+)

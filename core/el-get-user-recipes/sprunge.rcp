@@ -1,0 +1,7 @@
+(:name sprunge
+:auto-generated t
+:type elpa
+:description "Upload pastes to sprunge.us"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (request cl-lib)
+)

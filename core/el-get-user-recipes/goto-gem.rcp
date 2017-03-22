@@ -1,0 +1,7 @@
+(:name goto-gem
+:auto-generated t
+:type elpa
+:description "Open dired in gem directory"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (s)
+)

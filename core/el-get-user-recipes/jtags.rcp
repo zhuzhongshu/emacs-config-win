@@ -1,0 +1,6 @@
+(:name jtags
+:auto-generated t
+:type elpa
+:description "enhanced tags functionality for Java development"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

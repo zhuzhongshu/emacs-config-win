@@ -1,0 +1,7 @@
+(:name evil-god-state
+:auto-generated t
+:type elpa
+:description "use god-mode keybindings in evil-mode"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (evil god-mode)
+)

@@ -1,0 +1,7 @@
+(:name ac-slime
+:auto-generated t
+:type elpa
+:description "An auto-complete source using slime completions"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (auto-complete slime cl-lib)
+)

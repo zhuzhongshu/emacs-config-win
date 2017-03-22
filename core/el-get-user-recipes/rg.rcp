@@ -1,0 +1,7 @@
+(:name rg
+:auto-generated t
+:type elpa
+:description "A ripgrep frontend, similar to built in grep.el."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (cl-lib s)
+)

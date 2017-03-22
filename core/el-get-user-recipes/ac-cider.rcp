@@ -1,0 +1,7 @@
+(:name ac-cider
+:auto-generated t
+:type elpa
+:description "Clojure auto-complete sources using CIDER"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (cider auto-complete cl-lib)
+)

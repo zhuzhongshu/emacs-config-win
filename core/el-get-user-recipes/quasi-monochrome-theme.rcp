@@ -1,0 +1,6 @@
+(:name quasi-monochrome-theme
+:auto-generated t
+:type elpa
+:description "Quasi Monochrome theme"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

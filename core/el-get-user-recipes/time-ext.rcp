@@ -1,0 +1,6 @@
+(:name time-ext
+:auto-generated t
+:type elpa
+:description "more function for time/date"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

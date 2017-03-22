@@ -1,0 +1,7 @@
+(:name ansi
+:auto-generated t
+:type elpa
+:description "Turn string into ansi strings"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (s dash)
+)

@@ -1,0 +1,7 @@
+(:name flyspell-correct-helm
+:auto-generated t
+:type elpa
+:description "correcting words with flyspell via helm interface"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (flyspell-correct helm)
+)

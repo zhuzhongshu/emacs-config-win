@@ -1,0 +1,7 @@
+(:name neotree
+:auto-generated t
+:type elpa
+:description "A tree plugin like NerdTree for Vim"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (cl-lib)
+)

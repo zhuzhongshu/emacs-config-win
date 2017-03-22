@@ -1,0 +1,7 @@
+(:name company-bibtex
+:auto-generated t
+:type elpa
+:description "Company completion for bibtex keys"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (company cl-lib parsebib)
+)

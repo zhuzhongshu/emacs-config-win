@@ -1,0 +1,6 @@
+(:name fuzzy-match
+:auto-generated t
+:type elpa
+:description "fuzzy matching"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

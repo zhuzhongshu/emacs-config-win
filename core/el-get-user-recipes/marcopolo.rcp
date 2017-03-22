@@ -1,0 +1,7 @@
+(:name marcopolo
+:auto-generated t
+:type elpa
+:description "Emacs client to the Docker HUB/Registry API"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (s dash pkg-info request)
+)

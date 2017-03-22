@@ -1,0 +1,7 @@
+(:name nameframe-projectile
+:auto-generated t
+:type elpa
+:description "Nameframe integration with Projectile"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (nameframe projectile)
+)

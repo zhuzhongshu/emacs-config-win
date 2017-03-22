@@ -1,0 +1,7 @@
+(:name test-case-mode
+:auto-generated t
+:type elpa
+:description "unit test front-end"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (fringe-helper)
+)

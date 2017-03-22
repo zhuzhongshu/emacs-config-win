@@ -1,0 +1,8 @@
+(:name flycheck-clojure
+:auto-generated t
+:type elpa
+:description "Flycheck: Clojure support"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (cider flycheck let-alist)
+:minimum-emacs-version (24)
+)

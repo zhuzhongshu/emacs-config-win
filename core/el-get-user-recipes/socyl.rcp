@@ -1,0 +1,7 @@
+(:name socyl
+:auto-generated t
+:type elpa
+:description "Frontend for several search tools"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (s dash pkg-info cl-lib)
+)

@@ -1,0 +1,7 @@
+(:name madhat2r-theme
+:auto-generated t
+:type elpa
+:description "dark color theme that is easy on the eyes"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,8 @@
+(:name org-parser
+:auto-generated t
+:type elpa
+:description "parse org files into structured datatypes."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (dash)
+:minimum-emacs-version (25 1)
+)

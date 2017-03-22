@@ -1,0 +1,8 @@
+(:name helm-emms
+:auto-generated t
+:type elpa
+:description "Emms for Helm."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (helm emms cl-lib)
+:minimum-emacs-version (24 1)
+)

@@ -1,0 +1,6 @@
+(:name nocomments-mode
+:auto-generated t
+:type elpa
+:description "Minor mode that makes comments invisible."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

@@ -1,0 +1,6 @@
+(:name syntactic-close
+:auto-generated t
+:type elpa
+:description "Insert closing delimiter"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

@@ -1,0 +1,7 @@
+(:name helm-perspeen
+:auto-generated t
+:type elpa
+:description "Helm interface for perspeen."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (perspeen helm)
+)

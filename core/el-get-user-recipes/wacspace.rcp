@@ -1,0 +1,7 @@
+(:name wacspace
+:auto-generated t
+:type elpa
+:description "The WACky WorkSPACE manager for emACS"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (dash cl-lib)
+)

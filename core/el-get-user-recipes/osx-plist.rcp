@@ -1,0 +1,6 @@
+(:name osx-plist
+:auto-generated t
+:type elpa
+:description "Apple plist file parser"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

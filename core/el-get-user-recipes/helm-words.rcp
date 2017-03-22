@@ -1,0 +1,6 @@
+(:name helm-words
+:auto-generated t
+:type elpa
+:description "No description available."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

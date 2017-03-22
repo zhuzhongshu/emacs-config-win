@@ -1,0 +1,6 @@
+(:name dim-autoload
+:auto-generated t
+:type elpa
+:description "dim or hide autoload cookie lines"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

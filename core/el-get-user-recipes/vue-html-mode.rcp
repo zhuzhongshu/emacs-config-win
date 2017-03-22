@@ -1,0 +1,6 @@
+(:name vue-html-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing Vue.js templates"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

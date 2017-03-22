@@ -1,0 +1,7 @@
+(:name js2-closure
+:auto-generated t
+:type elpa
+:description "Google Closure dependency manager"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (js2-mode)
+)

@@ -1,0 +1,7 @@
+(:name synosaurus
+:auto-generated t
+:type elpa
+:description "An extensible thesaurus supporting lookup and substitution."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (cl-lib)
+)

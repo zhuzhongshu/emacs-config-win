@@ -1,0 +1,8 @@
+(:name edbi-sqlite
+:auto-generated t
+:type elpa
+:description "Open sqlite files with edbi"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (edbi)
+:minimum-emacs-version (24)
+)

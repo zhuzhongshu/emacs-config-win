@@ -1,0 +1,7 @@
+(:name cl-lib-highlight
+:auto-generated t
+:type elpa
+:description "full cl-lib font-lock highlighting"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (cl-lib)
+)

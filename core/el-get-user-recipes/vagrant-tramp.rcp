@@ -1,0 +1,7 @@
+(:name vagrant-tramp
+:auto-generated t
+:type elpa
+:description "Vagrant method for TRAMP"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (dash)
+)

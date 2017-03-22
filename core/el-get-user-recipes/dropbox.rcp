@@ -1,0 +1,7 @@
+(:name dropbox
+:auto-generated t
+:type elpa
+:description "Emacs backend for dropbox"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (json oauth)
+)

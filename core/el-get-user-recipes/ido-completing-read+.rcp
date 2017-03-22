@@ -1,0 +1,8 @@
+(:name ido-completing-read+
+:auto-generated t
+:type elpa
+:description "A completing-read-function using ido"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (cl-lib)
+:minimum-emacs-version (24 1)
+)

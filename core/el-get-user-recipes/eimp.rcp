@@ -1,0 +1,6 @@
+(:name eimp
+:auto-generated t
+:type elpa
+:description "Emacs Image Manipulation Package"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

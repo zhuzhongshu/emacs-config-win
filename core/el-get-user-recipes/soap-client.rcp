@@ -1,0 +1,7 @@
+(:name soap-client
+:auto-generated t
+:type elpa
+:description "Access SOAP web services"
+:repo ("gnu" . "https://elpa.emacs-china.org/gnu/")
+:depends (cl-lib)
+)

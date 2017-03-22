@@ -1,0 +1,7 @@
+(:name flymake-json
+:auto-generated t
+:type elpa
+:description "A flymake handler for json using jsonlint"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (flymake-easy)
+)

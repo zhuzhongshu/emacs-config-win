@@ -1,0 +1,8 @@
+(:name ssh-agency
+:auto-generated t
+:type elpa
+:description "manage ssh-agent from Emacs"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (dash)
+:minimum-emacs-version (24 4)
+)

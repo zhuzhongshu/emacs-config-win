@@ -1,0 +1,7 @@
+(:name ac-geiser
+:auto-generated t
+:type elpa
+:description "Auto-complete backend for geiser"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (geiser auto-complete)
+)

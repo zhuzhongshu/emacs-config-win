@@ -1,0 +1,8 @@
+(:name emacsql
+:auto-generated t
+:type elpa
+:description "high-level SQL database front-end"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (cl-lib finalize)
+:minimum-emacs-version (24 3)
+)

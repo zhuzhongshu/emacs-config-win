@@ -1,0 +1,7 @@
+(:name company-irony-c-headers
+:auto-generated t
+:type elpa
+:description "Company mode backend for C/C++ header files with Irony"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (cl-lib company irony)
+)

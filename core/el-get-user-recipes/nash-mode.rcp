@@ -1,0 +1,6 @@
+(:name nash-mode
+:auto-generated t
+:type elpa
+:description "Nash major mode"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

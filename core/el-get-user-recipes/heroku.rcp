@@ -1,0 +1,6 @@
+(:name heroku
+:auto-generated t
+:type elpa
+:description "Interface to Heroku apps."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

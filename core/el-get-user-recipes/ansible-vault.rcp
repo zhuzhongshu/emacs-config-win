@@ -1,0 +1,7 @@
+(:name ansible-vault
+:auto-generated t
+:type elpa
+:description "Minor mode for editing ansible vault files"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24 3)
+)

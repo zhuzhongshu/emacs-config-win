@@ -1,0 +1,8 @@
+(:name elixir-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing Elixir files"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (pkg-info)
+:minimum-emacs-version (24)
+)

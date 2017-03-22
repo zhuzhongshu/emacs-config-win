@@ -1,0 +1,7 @@
+(:name flymake-coffee
+:auto-generated t
+:type elpa
+:description "A flymake handler for coffee script"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (flymake-easy)
+)

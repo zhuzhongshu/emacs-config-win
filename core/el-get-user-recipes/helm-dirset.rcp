@@ -1,0 +1,7 @@
+(:name helm-dirset
+:auto-generated t
+:type elpa
+:description "helm sources for multi directories"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (f helm s cl-lib)
+)

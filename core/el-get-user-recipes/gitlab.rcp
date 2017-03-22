@@ -1,0 +1,7 @@
+(:name gitlab
+:auto-generated t
+:type elpa
+:description "Emacs client for Gitlab"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (s dash pkg-info request)
+)

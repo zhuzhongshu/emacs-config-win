@@ -1,0 +1,7 @@
+(:name nvm
+:auto-generated t
+:type elpa
+:description "Manage Node versions within Emacs"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (s dash f dash-functional)
+)

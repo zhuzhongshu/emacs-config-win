@@ -1,0 +1,6 @@
+(:name gtk-pomodoro-indicator
+:auto-generated t
+:type elpa
+:description "A pomodoro indicator for the GTK tray"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

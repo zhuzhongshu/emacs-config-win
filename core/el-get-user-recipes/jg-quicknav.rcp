@@ -1,0 +1,7 @@
+(:name jg-quicknav
+:auto-generated t
+:type elpa
+:description "Quickly navigate the file system to find a file."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (s cl-lib)
+)

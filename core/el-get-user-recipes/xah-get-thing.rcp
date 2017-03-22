@@ -1,0 +1,7 @@
+(:name xah-get-thing
+:auto-generated t
+:type elpa
+:description "get thing or selection at point."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24 1)
+)

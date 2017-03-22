@@ -1,0 +1,6 @@
+(:name eslintd-fix
+:auto-generated t
+:type elpa
+:description "use eslint_d to automatically fix js files"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

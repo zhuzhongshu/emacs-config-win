@@ -1,0 +1,8 @@
+(:name git-gutter-fringe
+:auto-generated t
+:type elpa
+:description "Fringe version of git-gutter.el"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (git-gutter fringe-helper cl-lib)
+:minimum-emacs-version (24)
+)

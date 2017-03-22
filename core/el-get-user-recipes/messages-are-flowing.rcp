@@ -1,0 +1,6 @@
+(:name messages-are-flowing
+:auto-generated t
+:type elpa
+:description "visible indication when composing \"flowed\" emails"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

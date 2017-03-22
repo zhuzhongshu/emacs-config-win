@@ -1,0 +1,7 @@
+(:name swap-regions
+:auto-generated t
+:type elpa
+:description "Swap two regions of text"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24 3)
+)

@@ -1,0 +1,7 @@
+(:name elnode
+:auto-generated t
+:type elpa
+:description "The Emacs webserver."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (web dash noflet s creole fakir db kv)
+)

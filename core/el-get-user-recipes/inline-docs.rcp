@@ -1,0 +1,7 @@
+(:name inline-docs
+:auto-generated t
+:type elpa
+:description "Show inline contextual docs."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24 3)
+)

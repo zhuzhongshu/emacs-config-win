@@ -1,0 +1,7 @@
+(:name love-minor-mode
+:auto-generated t
+:type elpa
+:description "Minor mode for working on L\303\226VE projects"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (lua-mode)
+)

@@ -1,0 +1,8 @@
+(:name async-await
+:auto-generated t
+:type elpa
+:description "Async/Await"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (promise)
+:minimum-emacs-version (25)
+)

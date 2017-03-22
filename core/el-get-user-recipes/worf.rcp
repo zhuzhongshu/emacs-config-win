@@ -1,0 +1,7 @@
+(:name worf
+:auto-generated t
+:type elpa
+:description "A warrior does not press so many keys! (in org-mode)"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (swiper ace-link hydra zoutline)
+)

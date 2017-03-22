@@ -1,0 +1,7 @@
+(:name espuds
+:auto-generated t
+:type elpa
+:description "Ecukes step definitions"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (s dash f)
+)

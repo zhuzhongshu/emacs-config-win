@@ -1,0 +1,7 @@
+(:name vue-mode
+:auto-generated t
+:type elpa
+:description "Major mode for vue component based on web-mode and mmm-mode"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (mmm-mode)
+)

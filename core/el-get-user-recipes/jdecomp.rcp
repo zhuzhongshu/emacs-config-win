@@ -1,0 +1,7 @@
+(:name jdecomp
+:auto-generated t
+:type elpa
+:description "Interface to Java decompilers"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24 5)
+)

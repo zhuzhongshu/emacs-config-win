@@ -1,0 +1,6 @@
+(:name highlight-refontification
+:auto-generated t
+:type elpa
+:description "Visualize font-lock refontification."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

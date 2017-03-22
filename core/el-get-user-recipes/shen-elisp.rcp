@@ -1,0 +1,7 @@
+(:name shen-elisp
+:auto-generated t
+:type elpa
+:description "Shen implementation in Elisp"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24 4)
+)

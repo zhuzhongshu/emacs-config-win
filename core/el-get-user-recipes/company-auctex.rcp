@@ -1,0 +1,7 @@
+(:name company-auctex
+:auto-generated t
+:type elpa
+:description "Company-mode auto-completion for AUCTeX"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (yasnippet company auctex)
+)

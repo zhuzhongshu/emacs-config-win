@@ -1,0 +1,8 @@
+(:name project-shells
+:auto-generated t
+:type elpa
+:description "Manage the shell buffers of each project"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (seq)
+:minimum-emacs-version (24 3)
+)

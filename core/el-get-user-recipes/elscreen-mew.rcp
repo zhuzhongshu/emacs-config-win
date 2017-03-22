@@ -1,0 +1,7 @@
+(:name elscreen-mew
+:auto-generated t
+:type elpa
+:description "ElScreen Add-On for Mew"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (elscreen)
+)

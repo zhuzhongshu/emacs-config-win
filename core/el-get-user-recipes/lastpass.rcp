@@ -1,0 +1,7 @@
+(:name lastpass
+:auto-generated t
+:type elpa
+:description "LastPass command wrapper"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24 4)
+)

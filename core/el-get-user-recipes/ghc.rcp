@@ -1,0 +1,7 @@
+(:name ghc
+:auto-generated t
+:type elpa
+:description "Sub mode for Haskell mode"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (haskell-mode)
+)

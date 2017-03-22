@@ -1,0 +1,8 @@
+(:name synonymous
+:auto-generated t
+:type elpa
+:description "A thesaurus at your fingertips"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (cl-lib request)
+:minimum-emacs-version (24)
+)

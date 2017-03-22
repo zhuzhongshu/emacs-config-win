@@ -1,0 +1,7 @@
+(:name helm-gitlab
+:auto-generated t
+:type elpa
+:description "Helm interface to Gitlab"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (s dash helm gitlab)
+)

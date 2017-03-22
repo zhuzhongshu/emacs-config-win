@@ -1,0 +1,6 @@
+(:name helm-git
+:auto-generated t
+:type elpa
+:description "Helm extension for Git."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

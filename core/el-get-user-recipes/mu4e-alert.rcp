@@ -1,0 +1,8 @@
+(:name mu4e-alert
+:auto-generated t
+:type elpa
+:description "Desktop notification for mu4e"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (alert s ht)
+:minimum-emacs-version (24 1)
+)

@@ -1,0 +1,8 @@
+(:name tile
+:auto-generated t
+:type elpa
+:description "Tile windows with layouts"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (s dash stream)
+:minimum-emacs-version (25 1)
+)

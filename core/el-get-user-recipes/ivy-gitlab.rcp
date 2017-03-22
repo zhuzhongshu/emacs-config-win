@@ -1,0 +1,7 @@
+(:name ivy-gitlab
+:auto-generated t
+:type elpa
+:description "Ivy interface to Gitlab"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (s dash ivy gitlab)
+)

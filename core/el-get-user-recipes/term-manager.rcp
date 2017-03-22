@@ -1,0 +1,8 @@
+(:name term-manager
+:auto-generated t
+:type elpa
+:description "Contextual terminal management"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (dash)
+:minimum-emacs-version (24 4)
+)

@@ -1,0 +1,8 @@
+(:name magit-lfs
+:auto-generated t
+:type elpa
+:description "Magit plugin for Git LFS"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (magit dash)
+:minimum-emacs-version (24 4)
+)

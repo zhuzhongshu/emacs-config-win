@@ -1,0 +1,8 @@
+(:name frames-only-mode
+:auto-generated t
+:type elpa
+:description "Use frames instead of Emacs windows"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (seq)
+:minimum-emacs-version (24 4)
+)

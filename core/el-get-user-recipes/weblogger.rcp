@@ -1,0 +1,7 @@
+(:name weblogger
+:auto-generated t
+:type elpa
+:description "Weblog maintenance via XML-RPC APIs"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (xml-rpc)
+)

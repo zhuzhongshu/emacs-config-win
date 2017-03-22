@@ -1,0 +1,6 @@
+(:name elisp-docstring-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing elisp docstrings."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

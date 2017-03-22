@@ -1,0 +1,7 @@
+(:name factlog
+:auto-generated t
+:type elpa
+:description "File activity logger"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (deferred)
+)

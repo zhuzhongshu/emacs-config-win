@@ -1,0 +1,8 @@
+(:name major-mode-icons
+:auto-generated t
+:type elpa
+:description "display icon for major-mode on mode-line."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (powerline all-the-icons)
+:minimum-emacs-version (24 3)
+)

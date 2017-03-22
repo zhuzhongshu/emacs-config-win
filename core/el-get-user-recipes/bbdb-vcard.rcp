@@ -1,0 +1,7 @@
+(:name bbdb-vcard
+:auto-generated t
+:type elpa
+:description "vCard import/export for BBDB"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (bbdb)
+)

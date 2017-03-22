@@ -1,0 +1,7 @@
+(:name elpa-clone
+:auto-generated t
+:type elpa
+:description "Clone ELPA archive"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (cl-lib)
+)

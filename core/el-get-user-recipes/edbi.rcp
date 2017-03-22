@@ -1,0 +1,7 @@
+(:name edbi
+:auto-generated t
+:type elpa
+:description "Emacs Database Interface"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (concurrent ctable epc)
+)

@@ -1,0 +1,7 @@
+(:name lcb-mode
+:auto-generated t
+:type elpa
+:description "LiveCode Builder major mode"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24)
+)

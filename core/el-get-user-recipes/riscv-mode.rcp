@@ -1,0 +1,7 @@
+(:name riscv-mode
+:auto-generated t
+:type elpa
+:description "Major-mode for RISC V assembly"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24 4)
+)

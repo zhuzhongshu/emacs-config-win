@@ -1,0 +1,7 @@
+(:name ess-R-data-view
+:auto-generated t
+:type elpa
+:description "Data viewer for GNU R"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (ctable popup ess)
+)
