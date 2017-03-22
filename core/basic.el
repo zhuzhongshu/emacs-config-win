@@ -6,7 +6,24 @@
 ;;============================================================================================================
 ;;                                             =========
 ;;============================================================================================================
+;; (setq explicit-shell-file-name "C:/msys64/usr/bin/zsh.exe") ;msys2自带的zsh感觉有点卡
+
 (setq explicit-shell-file-name "C:/msys64/usr/bin/bash.exe")
+
+;; msys2自带的脚本中会设置PS1的变量，但是emacs的shell并不能完全解析，所以要进行设置，把以下代码放到.bashrc中：
+;; case $TERM in   
+;;     xterm*)
+;;         set_title='\e]0;\w\'
+;;         ;;    
+;;     *)
+;;         set_title=
+;;         ;;
+;; esac
+
+;; PS1=$set_title'\n\e[32m\u@\h \e[35m$MSYSTEM\e[0m\e[33m\w\e[0m\n\$'  
+
+
+
 (setq exec-path (append exec-path '("C:/Users/simplex/Anaconda3"))) 
   (put 'upcase-region 'disabled nil)
   (put 'downcase-region 'disabled nil)
