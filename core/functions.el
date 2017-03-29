@@ -191,3 +191,9 @@
 
 (provide 'functions)
 ;;; functions.el ends here
+(defun zzs-insert-label (format-string)
+  "在当前位置插入当前时间，利用emacs自带的函数,格式由FORMAT-STRING提供."
+  (interactive
+   (list (read-string "事件名称：")))
+  (insert-before-markers  (concat ":" format-string ":"))
+  (org-time-stamp-inactive))

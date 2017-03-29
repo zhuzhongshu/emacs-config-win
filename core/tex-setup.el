@@ -1,5 +1,6 @@
 (setq TeX-auto-save t)
-(setq TeX-shell "/bin/bash")
+(setq TeX-shell explicit-shell-file-name)
+
 (setq TeX-parse-self t)
 (add-hook 'LaTeX-mode-hook 'turn-on-reftex)   ;; with AUCTeX LaTeX mode
 (add-hook 'latex-mode-hook 'turn-on-reftex)   ;; with Emacs latex mode
@@ -25,7 +26,6 @@
                              (rainbow-delimiters-mode 1)
                              (TeX-fold-mode 1)
                              (linum-mode 1)
-                             ;;                             (auto-complete-mode 1);;添加ispell自动补全的ac-source
                              (LaTeX-math-mode 1)
                              (setq TeX-show-compilation nil)   ;;NOT display compilation windows
                              (setq TeX-clean-confirm nil)

@@ -6,9 +6,22 @@
 ;;============================================================================================================
 ;;                                             =========
 ;;============================================================================================================
-;; (setq explicit-shell-file-name "C:/msys64/usr/bin/zsh.exe") ;msys2自带的zsh感觉有点卡
+;; (setq explicit-shell-file-name "C:/msys64/usr/bin/zsh.exe") 
 
-(setq explicit-shell-file-name "C:/msys64/usr/bin/bash.exe")
+(cond
+ ((eq system-type 'windows-nt)
+  (w32-register-hot-key [M-tab])))
+
+
+
+;;设置默认的shell程序，windows下需要安装msys2
+(cond
+ ((eq system-type 'windows-nt)
+  (setq explicit-shell-file-name "C:/msys64/usr/bin/bash.exe"))
+ ((eq system-type 'gnu/linux)
+  (setq explicit-shell-file-name "/bin/bash")))
+
+
 
 ;; msys2自带的脚本中会设置PS1的变量，但是emacs的shell并不能完全解析，所以要进行设置，把以下代码放到.bashrc中：
 ;; case $TERM in   
@@ -40,13 +53,12 @@
 ;;                                            global-variables
 ;;============================================================================================================
 (setq my-home-dir (getenv "HOME"))
-
-
 ;;============================================================================================================
 ;;                                            spell-check
 ;;============================================================================================================
-(setq-default ispell-program-name "aspell");;设置拼写检查的软件为aspell
-(setq current-language-environment "en_US");;设置当前语言环境为en_US
+(setq-default ispell-program-name "apell");;设置拼写检查的软件为aspell
+(setq ispell-extra-args '("--sug-mode=ultra" "--lang=en_US"))
+;; (setq current-language-environment "en_US");;设置当前语言环境为en_US
 (ispell-change-dictionary "english" t);;设置拼写检查的辞典为en_US:emacs24.3自动安装有ispell和辞典
 (autoload 'flyspell-mode "flyspell" "On-the-fly spelling checker." t)
 (add-hook 'LaTeX-mode-hook 'flyspell-mode)
@@ -92,8 +104,8 @@
 ;;如果想让该文件绑定到现有sql进程，则使用sql-set-sqli-buffer命令
 
 ;;配置预设sql-connect选项，可以免于在每次连接时输入账号密码信息
-(setq sql-mysql-program "C:/Program Files/MySQL/MySQL Server 5.7/bin/mysql.exe")
-(setq sql-mysql-options '("-C" "-f" "-t" "-n"))
+;; (setq sql-mysql-program "C:/Program Files/MySQL/MySQL Server 5.7/bin/mysql.exe")
+;; (setq sql-mysql-options '("-C" "-f" "-t" "-n"))
 
 ;; (setq sql-postgres-program "C:/Program Files/PostgreSQL/9.5/bin/psql.exe")
 ;; (setq sql-postgres-options '("-a"))
@@ -150,8 +162,6 @@
        auto-mode-alist))
 (add-hook 'sql-mode-hook 'font-lock-mode)
 
-
-
 ;;============================================================================================================
 ;;                                              Tex
 ;;============================================================================================================
@@ -160,8 +170,8 @@
 ;;============================================================================================================
 ;;                                              Math
 ;;============================================================================================================
-;;(require 'math-setup)
-
+(if (eq system-type 'gnu/linux)
+    (require 'math-setup))
 ;;============================================================================================================
 ;;                                              Math
 ;;============================================================================================================

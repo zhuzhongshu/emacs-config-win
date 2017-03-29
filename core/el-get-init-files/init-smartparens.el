@@ -49,6 +49,12 @@
 ;;;;;;;;;;;;;;;;;;
 ;; pair management
 
+
+;; Chinese pairs
+(sp-pair "（" "）")
+(sp-pair "“" "”")
+(sp-pair "【" "】")
+
 (sp-local-pair 'minibuffer-inactive-mode "'" nil :actions nil)
 
 ;;; markdown-mode

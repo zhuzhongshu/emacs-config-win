@@ -190,6 +190,8 @@
                            (company-mode -1)       
                            (turn-on-org-cdlatex)
                            (local-set-key [tab] 'org-cycle)
+                           (local-set-key "\C-c!" 'org-time-stamp)
+                           (local-set-key "\C-c." 'org-time-stamp-inactive)
                            (local-set-key [(control return)] 'set-mark-command)
                            (setq truncate-lines nil)))
 
