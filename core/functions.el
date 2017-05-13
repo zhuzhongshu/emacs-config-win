@@ -129,7 +129,7 @@
                              (local-set-key (kbd "C-l") 'clear-shell)))
 ;;multi-term中的键绑定需要用它提供的alist
 
-(defun replace-eq-braket ()
+(defun zzs-replace-eq-braket ()
   "将包围latex公式的$$换成\(\),用来匹配博客园写博客的要求。."
   (interactive)
   (while (re-search-forward "\\$\\([^\$]*\\)\\$" nil t)

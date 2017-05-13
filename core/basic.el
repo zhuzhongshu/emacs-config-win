@@ -56,12 +56,12 @@
 ;;============================================================================================================
 ;;                                            spell-check
 ;;============================================================================================================
-(setq-default ispell-program-name "apell");;设置拼写检查的软件为aspell
+;(setq-default ispell-program-name "aspell");;设置拼写检查的软件为aspell
 (setq ispell-extra-args '("--sug-mode=ultra" "--lang=en_US"))
 ;; (setq current-language-environment "en_US");;设置当前语言环境为en_US
 (ispell-change-dictionary "english" t);;设置拼写检查的辞典为en_US:emacs24.3自动安装有ispell和辞典
 (autoload 'flyspell-mode "flyspell" "On-the-fly spelling checker." t)
-(add-hook 'LaTeX-mode-hook 'flyspell-mode)
+;; (add-hook 'LaTeX-mode-hook 'flyspell-mode)
 (global-set-key (kbd "<f7>") 'ispell-word)                      ;;F7键修改光标处的单词拼写,默认定义是M-$
 (global-set-key (kbd "M-<f7>") 'flyspell-mode)          ;;开启/关闭flyspell mode
 (global-set-key (kbd "C-<f7>") 'flyspell-buffer)

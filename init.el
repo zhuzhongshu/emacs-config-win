@@ -12,7 +12,7 @@
 ;; installed packages.  Don't delete this line.  If you don't want it,
 ;; just comment it out by adding a semicolon to the start of the line.
 ;; You may delete these explanatory comments.
-(package-initialize)
+
 
 
 ;;中文镜像地址
@@ -20,7 +20,7 @@
                          ("gnu"   . "https://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
                          ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
                          ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")))
-
+(package-initialize)
 
 (let ((minver "23.3"))
   (when (version<= emacs-version "23.1")
@@ -74,8 +74,7 @@
 ;;       (goto-char (point-max))
 ;;       (eval-print-last-sexp)))
 ;;   ;; build melpa packages for el-get
-;;   (setq package-archives '(("melpa" . "http://melpa.org/packages/")
-;;                            ("gnu" . "http://elpa.gnu.org/packages/")))
+
 ;;   (el-get-elpa-build-local-recipes)
 ;;   (el-get-emacswiki-build-local-recipes))
 ;; (setq el-get-git-shallow-clone t)
@@ -162,7 +161,6 @@ yasnippet))
 
 ;; (provide 'init)
 ;;; init.el ends here
-
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -209,7 +207,7 @@ yasnippet))
  '(helm-locate-fuzzy-match t)
  '(org-agenda-files
    (quote
-    ("d:/Documents/LinuxHome/zzsweet/src/org/notes/RNN与LSTM.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/Tensorflow笔记.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/org-mode小技巧.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/pythonLibrary.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/sql.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/todo.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/图论.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/机器学习选股.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/高斯过程与贝叶斯方法.org")))
+    ("d:/Documents/LinuxHome/zzsweet/src/org/notes/RNN与LSTM.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/Tensorflow笔记.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/org-mode小技巧.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/pythonLibrary.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/reading.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/scratch.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/sql.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/todo.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/优化方法.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/图论.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/机器学习选股.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/混合模型与EM算法.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/自动微分.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/高斯过程与贝叶斯方法.org")))
  '(org-latex-default-packages-alist
    (quote
     (("" "fontspec" t)

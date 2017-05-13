@@ -8,8 +8,9 @@
       (concat python-executable-path "python"));;设置python后台程序为python3,python-executable-path在ein里面设置
 (setq elpy-syntax-check-command "flake8");设置python语法检查程序为flake8
 
-;; (setq python-shell-interpreter-args "--simple-prompt --pprint")
-;(add-to-list 'python-shell-completion-native-disabled-interpreters "ipython3")
+(setq python-shell-interpreter-args "--simple-prompt --pprint")
+(add-to-list 'python-shell-completion-native-disabled-interpreters "ipython")
+(add-to-list 'python-shell-completion-native-disabled-interpreters "jupyter")
 
 (setq elpy-modules '(elpy-module-eldoc
                       elpy-module-company ;;补全用company-ycmd
