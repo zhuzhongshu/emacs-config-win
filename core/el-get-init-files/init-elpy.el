@@ -8,7 +8,14 @@
       (concat python-executable-path "python"));;设置python后台程序为python3,python-executable-path在ein里面设置
 (setq elpy-syntax-check-command "flake8");设置python语法检查程序为flake8
 
+;;==========================
+;;ipython5之后，默认补全方式做了更改，不再使用readline，所以elpy的终端就无法自动补全。
+;;解决方式是用rlipython进行替代：https://github.com/ipython/rlipython
+;;按照github说明进行设置即可，注意rlipython运行需要依赖readline，可以安装pyreadline
+;;==========================
+
 (setq python-shell-interpreter-args "--simple-prompt --pprint")
+
 (add-to-list 'python-shell-completion-native-disabled-interpreters "ipython")
 (add-to-list 'python-shell-completion-native-disabled-interpreters "jupyter")
 
