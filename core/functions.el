@@ -107,13 +107,13 @@
 ;;
 
 ;;设置eshell 中输入clear命令清屏
-;; (defun eshell/clear ()
-;;   "Clears the shell buffer ala Unix's clear or DOS' cls"
-;;   (interactive)
-;;   ;; the shell prompts are read-only, so clear that for the duration
-;;   (let ((inhibit-read-only t))
-;;     ;; simply delete the region
-;;     (delete-region (point-min) (point-max))))
+(defun eshell-clear ()
+  "Clears the shell buffer ala Unix's clear or DOS' cls"
+  (interactive)
+  ;; the shell prompts are read-only, so clear that for the duration
+  (let ((inhibit-read-only t))
+    ;; simply delete the region
+    (delete-region (point-min) (point-max))))
 
 (defun clear-shell ()
   "\\C-\\l清屏函数."
@@ -123,6 +123,9 @@
 
 (add-hook 'shell-mode-hook(lambda ()
                             (local-set-key (kbd "C-l") 'clear-shell)))
+(add-hook 'eshell-mode-hook(lambda ()
+                            (local-set-key (kbd "C-l") 'eshell-clear)))
+
 (add-hook 'inferior-octave-mode-hook(lambda ()
                                       (local-set-key (kbd "C-l") 'clear-shell)))
 (add-hook 'comint-mode-hook(lambda ()

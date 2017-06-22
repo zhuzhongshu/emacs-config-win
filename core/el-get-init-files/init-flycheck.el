@@ -6,7 +6,8 @@
 ;;(setq flycheck-highlighting-mode (quote lines));;高亮模式，默认是symbols
 (setq flycheck-clang-language-standard "c++11");;设置clang -std="c++11"
 (setq flycheck-clang-include-path
-      (quote ("/usr/local/include/Eigen")));;为clang添加include路径,其他需要的路径可以类似的在列表中添加
+      '("/usr/local/include/Eigen"
+        "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v8.0/include"))
 
 (eval-after-load 'flycheck
   '(custom-set-variables

@@ -1279,7 +1279,7 @@ Takes and optional `FRAME' as reference."
 
      ;; eshell
      `(eshell-prompt
-       ((,class (:foreground ,yellow
+       ((,class (:foreground ,solarized-magenta
                              :weight bold))))
 
      `(eshell-ls-archive
@@ -1297,7 +1297,7 @@ Takes and optional `FRAME' as reference."
                              :weight bold))))
 
      `(eshell-ls-executable
-       ((,class (:foreground ,red
+       ((,class (:foreground ,solarized-orange
                              :weight bold))))
 
      `(eshell-ls-unreadable

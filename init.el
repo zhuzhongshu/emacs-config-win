@@ -101,12 +101,12 @@
        let-alist
        avy
        chinese-fonts-setup
+       clang-format
        company
        company-quickhelp
        ycmd
        company-ycmd
-       company-jedi
-       ein
+       ;; ein
        elpy
        find-file-in-project
        flx-ido
@@ -123,13 +123,15 @@
        helm-gtags
        ;;helm-bibtex
        helm-swoop
+       helpful
        htmlize
        ido-vertical-mode
-       irony-mode
+       irony
        company-irony
        langtool
        multi-term
        org-bullets
+       org-download
        ob-ipython
        popup
        popwin
@@ -139,6 +141,7 @@
        smex
        sqlup-mode
        swiper
+       vimish-fold
        window-numbering
        spaceline
        xcscope
@@ -205,9 +208,6 @@ yasnippet))
  '(helm-gtags-ignore-case t)
  '(helm-gtags-path-style (quote relative))
  '(helm-locate-fuzzy-match t)
- '(org-agenda-files
-   (quote
-    ("d:/Documents/LinuxHome/zzsweet/src/org/notes/RNN与LSTM.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/Tensorflow笔记.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/org-mode小技巧.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/pythonLibrary.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/reading.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/scratch.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/sql.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/todo.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/优化方法.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/图论.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/机器学习选股.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/混合模型与EM算法.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/自动微分.org" "d:/Documents/LinuxHome/zzsweet/src/org/notes/高斯过程与贝叶斯方法.org")))
  '(org-latex-default-packages-alist
    (quote
     (("" "fontspec" t)
@@ -230,7 +230,10 @@ yasnippet))
      ("" "wasysym" t)
      ("" "amssymb" t)
      ("" "hyperref" nil)
-     "\\tolerance=1000"))))
+     "\\tolerance=1000")))
+ '(package-selected-packages
+   (quote
+    (deferred dash company async loop list-utils window-numbering swiper sqlup-mode spaceline smex smartparens rainbow-delimiters python-docstring popwin org-download org-bullets ob-ipython multi-term langtool ido-vertical-mode htmlize helm-swoop helm-gtags helm-dash helm-cscope helm-ag gnuplot-mode fuzzy flycheck-ycmd flycheck-pos-tip flx-ido elpy ein company-ycmd company-quickhelp company-jedi company-irony comment-dwim-2 chinese-fonts-setup avy auto-compile auctex-latexmk))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
