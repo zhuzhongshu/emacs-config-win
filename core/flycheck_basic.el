@@ -10,7 +10,7 @@
 
 (cond
  ((eq system-type 'windows-nt)
-  (w32-register-hot-key [M-tab])))
+  (w32-register-hot-key [A-tab])))
 
 
 
@@ -43,7 +43,7 @@
   (setq-default indent-tabs-mode  nil)    ;空格替换tab
   (setq backup-directory-alist '(("." . "~/.saves")));设置自动备份文件放在~/.saves目录下
   (setq auto-mode-alist
-        (append '(("\\.\\(h\\|hpp\\|c\\|cu\\)$" . c++-mode)) auto-mode-alist));;设置h文件和hpp文件用C++-mode，而不是默认的C-mode
+        (append '(("\\.\\(h\\|hpp\\|c\\)$" . c++-mode)) auto-mode-alist));;设置h文件和hpp文件用C++-mode，而不是默认的C-mode
   (when (fboundp 'winner-mode)
     (winner-mode)
     (windmove-default-keybindings))

@@ -1,3 +1,4 @@
+
 ;;; monolized-theme.el --- A fruity color theme  for Emacs, inspired by Monokai + Solarized.
 
 ;; Copyright (C) 2016
@@ -1279,7 +1280,7 @@ Takes and optional `FRAME' as reference."
 
      ;; eshell
      `(eshell-prompt
-       ((,class (:foreground ,solarized-magenta
+       ((,class (:foreground ,solarized-pink
                              :weight bold))))
 
      `(eshell-ls-archive
@@ -1293,7 +1294,7 @@ Takes and optional `FRAME' as reference."
        ((,class (:inherit font-lock-comment-face))))
 
      `(eshell-ls-directory
-       ((,class (:foreground ,blue
+       ((,class (:foreground ,solarized-cyan
                              :weight bold))))
 
      `(eshell-ls-executable
@@ -1314,7 +1315,7 @@ Takes and optional `FRAME' as reference."
                              :weight bold))))
 
      `(eshell-ls-symlink
-       ((,class (:foreground ,cyan
+       ((,class (:foreground ,solarized-cyan
                              :weight bold))))
 
      ;; fic

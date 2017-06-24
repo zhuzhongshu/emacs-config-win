@@ -2,10 +2,18 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("d:/ycmd/ycmd/tests/clang/" . "testdata/")
+ ("d:/ycmd/ycmd/tests/" . "clang/")
+ ("d:/ycmd/ycmd/" . "tests/")
+ ("d:/ycmd/" . "ycmd/")
+ ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/ycmd/cpp/" . "ycm/")
+ ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/ycmd/" . "cpp/")
+ ("d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/cuda_by_example/" . "chapter03/")
+ ("d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/" . "cuda_by_example/")
  ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/elpa/irony-20170427.1601/" . "server/")
  ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/elpa/" . "irony-20170427.1601/")
  ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/" . "el-get-init-files/")
- ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/" . "core/")
+ ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/" . "ycmd/")
  ("c:/Users/zhuzh/AppData/Roaming/" . ".emacs.d/")
  ("c:/Users/zhuzh/AppData/" . "Roaming/")
  ("c:/Users/zhuzh/" . "AppData/")
@@ -237,14 +245,22 @@
 
 ;; ----- ido-work-directory-list -----
 (
- "c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/"
  "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/"
  "c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/el-get-init-files/"
+ "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/cuda_by_example/chapter03/"
+ "d:/ycmd/ycmd/tests/clang/"
+ "d:/ycmd/ycmd/tests/clang/testdata/"
+ "d:/ycmd/"
+ "c:/Users/zhuzh/AppData/Roaming/.emacs.d/ycmd/cpp/ycm/"
  "d:/Documents/LinuxHome/zzsweet/src/cfamily/cpp_study/"
+ "c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/"
+ "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/cuda_by_example/common/"
+ "c:/Users/zhuzh/AppData/Roaming/.emacs.d/"
+ "c:/Users/zhuzh/AppData/Roaming/.emacs.d/server/"
+ "c:/Users/zhuzh/AppData/Roaming/.emacs.d/themes/"
  "c:/Users/zhuzh/AppData/Roaming/.emacs.d/elpa/irony-20170427.1601/server/"
  "d:/Documents/LinuxHome/zzsweet/src/python/"
  "c:/msys64/home/simplex/"
- "c:/Users/zhuzh/AppData/Roaming/.emacs.d/"
  "d:/Documents/LinuxHome/zzsweet/src/cjsc/python/yield/"
  "d:/Documents/LinuxHome/zzsweet/src/org/notes/"
  "d:/Documents/LinuxHome/zzsweet/src/cjsc/python/lstm/"
@@ -279,43 +295,79 @@
  "c:/msys64/home/simplex/.oh-my-zsh/"
  "d:/Pic/"
  "c:/msys64/home/simplex/ycmd/"
- "c:/msys64/home/simplex/.emacs.d/el-get/irony-mode/server/cmake/"
- "c:/msys64/home/simplex/.emacs.d/el-get/irony-mode/server/"
- "c:/Users/simplex/AppData/Roaming/.emacs.d/core/"
- "d:/desktop/"
- "d:/app/simplex/product/11.2.0/dbhome_2/NETWORK/ADMIN/"
- "c:/Users/simplex/AppData/Roaming/.emacs.d/chinese-fonts-setup/v4/"
- "d:/Documents/LinuxHome/zzsweet/src/python/ML/gaussian_process/"
- "d:/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "functions.el"
+ "mytest.cu"
+ "init-irony.el"
+ "init-company-ycmd.el"
+ "simple_kernel.cu"
+ "get_completions_test.py"
+ "basic.cpp"
+ "run_tests.py"
+ ".ycm_extra_conf.py"
+ "study.cpp"
  "test.cpp"
- "init-company.el"
- "init-elpy.el"
- "init-clang-format.el"
- "init-langtool.el"
- "basic.el"
- "keybindings.el"
- "init-irony-mode.el"
- "init-flycheck.el"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/" (22859 35232 0 0) "tex-setup.el" "org-setup.el" "math-setup.el" "keybindings.el" "fzby" "functions.el" "flycheck_basic.el" "elpy.el" "el-get-user-recipes/" "el-get-init-files/" "cdlatex.el" "basic.el" "base.el" "appearance-setup.el" "#basic.el#" "../" "./")
+ ("d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/" (22861 57040 0 0) "test.cpp" "mytest.lib" "mytest.exp" "mytest.exe" "mytest.cu" "cuda_by_example/" "../" "./")
+
+ ("d:/Documents/LinuxHome/zzsweet/src/cfamily/cpp_study/" (22861 53083 0 0) "waveguide/" "travelling wave solver/" "test.cpp" "study.h" "study.exe" "study.cpp" "study" "string_to_double.cpp" "sig_receive.cpp" "regex.cpp" "read_matrix.cpp" "poly.cpp" "plotwavegide/" "nice.exe" "my_code/" "mynamespace.h" "mynamespace.cpp" "mygnuplot.h" "mygnuplot.cpp" "mpi/" "Makefile" "iospeed.cpp" "gnuplotter/" "gadget/" "CMakeFiles/" "cmake-gui.exe.stackdump" "cgal/" "a.exe" ".directory" ".clang_complete" "../" "./")
+
+ ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/el-get-init-files/" (22861 53019 0 0) "org-mode-demo.png" "init-ycmd.elc" "init-ycmd.el" "init-yasnippet.elc" "init-yasnippet.el" "init-xcscope.elc" "init-xcscope.el" "init-window-numbering.elc" "init-window-numbering.el" "init-vimish-fold.elc" "init-vimish-fold.el" "init-swiper.elc" "init-swiper.el" "init-sqlup-mode.elc" "init-sqlup-mode.el" "init-spaceline.elc" "init-spaceline.el" "init-smex.elc" "init-smex.el" "init-smartparens.elc" "init-smartparens.el" "init-powerline-bak.el" "init-popwin.elc" "init-popwin.el" "init-langtool.elc" "init-langtool.el" "init-irony.elc" "init-irony.el" "init-ido-vertical-mode.elc" "init-ido-vertical-mode.el" "init-helm.elc" "init-helm.el" "init-helm-swoop.elc" "init-helm-swoop.el" "init-helm-bibtex.elc" "init-helm-bibtex.el" "init-gnuplot-mode.elc" "init-gnuplot-mode.el" "init-flycheck.elc" "init-flycheck.el" "init-flx-ido.elc" "init-flx-ido.el" "init-elpy.elc" "init-elpy.el" "init-ein.elc" "init-ein.el" "init-company.elc" "init-company.el" "init-company-ycmd.elc" "init-company-ycmd.el" "init-company-irony.elc" "init-company-irony.el" "init-clang-format.elc" "init-clang-format.el" "init-chinese-fonts-setup.elc" "init-chinese-fonts-setup.el" "init-avy.elc" "init-avy.el" "init-auto-complete.elc" "init-auto-complete.el" "init-auto-compile.elc" "init-auto-compile.el" ".#init-chinese-fonts-setup.el" "#init-chinese-fonts-setup.el#" "../" "./")
+
+ ("d:/ycmd/ycmd/tests/clang/" (22861 51695 0 0) "__init__.py" "testdata/" "subcommands_test.py" "get_completions_test.py" "flags_test.py" "diagnostics_test.py" "debug_info_test.py" "comment_strip_test.py" "../" "./")
+
+ ("d:/ycmd/ycmd/tests/clang/testdata/" (22861 51665 0 0) "unicode.cc" "test-include/" "noflags/" "multiple_missing_includes.cc" "GoTo_Clang_ZeroBasedLineAndColumn_test.cc" "GoTo_all_Clang_test.cc" "GetType_Clang_test.cc" "GetParent_Clang_test.cc" "GetDoc_Clang.cc" "general_fallback/" "FixIt_Clang_objc.m" "FixIt_Clang_cpp11.cpp" "client_data/" "basic.cpp" ".ycm_extra_conf.py" ".#basic.cpp" "../" "./")
+
+ ("d:/ycmd/ycmd/tests/" (22861 5892 0 0) "__init__.py" "utils_test.py" "typescript/" "test_utils.py" "testdata/" "subcommands_test.py" "shutdown_test.py" "server_utils_test.py" "rust/" "request_wrap_test.py" "request_validation_test.py" "python_support_test.py" "python/" "misc_handlers_test.py" "javascript/" "identifier_utils_test.py" "identifier_completer_test.py" "hmac_utils_test.py" "go/" "get_completions_test.py" "filename_completer_test.py" "extra_conf_store_test.py" "diagnostics_test.py" "cs/" "completer_utils_test.py" "completer_test.py" "client_test.py" "clang/" "bottle_utils_test.py" "../" "./")
+
+ ("d:/ycmd/ycmd/" (22861 5892 0 0) "__main__.py" "__init__.py" "wsgi_server.py" "watchdog_plugin.py" "utils.py" "user_options_store.py" "tests/" "server_utils.py" "server_state.py" "responses.py" "request_wrap.py" "request_validation.py" "identifier_utils.py" "hmac_utils.py" "hmac_plugin.py" "handlers.py" "extra_conf_store.py" "default_settings.json" "completers/" "bottle_utils.py" "../" "./")
+
+ ("d:/ycmd/" (22861 51504 0 0) "ycm_core.pyd" "ycmd/" "vagrant_bootstrap.sh" "Vagrantfile" "update_boost.py" "tox.ini" "third_party/" "test_requirements.txt" "TESTS.md" "style_format.sh" "run_tests.py" "README.md" "PYTHON_USED_DURING_BUILDING" "libclang.dll" "examples/" "DEV_SETUP.md" "cpp/" "CORE_VERSION" "COPYING.txt" "CONTRIBUTING.md" "CODE_OF_CONDUCT.md" "codecov.yml" "clang_includes/" "clang_archives/" "ci/" "build.py" "benchmark.py" "appveyor.yml" ".travis.yml" ".gitmodules" ".gitignore" ".git/" ".coveragerc" "../" "./")
+
+ ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/" (22861 50361 0 0) "ycmd/" "tutorial/" "themes/" "snippets/" "smex-items" "server/" "recentf" "README.md" "network-security.data" "irony/" "init.el" "ido.last~" "ido.last" "helm-doc.org" "eshell/" "elpa/" "el-get/" "dict/" "desktops/" "core/" "chinese-fonts-setup/" "auto-save-list/" "ac-comphist.dat" ".org-id-locations" ".mc-lists.el" ".gitignore" ".git/" ".emacs.desktop" ".debris/" "../" "./")
+
+ ("d:/Documents/LinuxHome/zzsweet/src/cjsc/python/" (22859 33907 0 0) "yield/" "wind_data/" "testWind.py" "similar.py" "newtonRaphson/" "lstm/" "kpca-svr/" "boosting/" "../" "./")
+
+ ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/server/" (22861 48639 0 0) "Testing/" "test/" "src/" "server" "docs/" "DartConfiguration.tcl" "CMakeFiles/" "CMakeCache.txt" "../" "./")
+
+ ("d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/cuda_by_example/chapter03/" (22861 11444 0 0) "simple_kernel_params.cu" "simple_kernel.cu" "simple_device_call.cu" "set_gpu.cu" "hello_world.lib" "hello_world.exp" "hello_world.exe" "hello_world.cu" "enum_gpu.cu" "a.lib" "a.exp" "a.exe" "../" "./")
+
+ ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/ycmd/cpp/ycm/" (22861 49858 0 0) "ycm_core.cpp" "versioning.h" "versioning.cpp" "Utils.h" "Utils.cpp" "tests/" "Result.h" "Result.cpp" "ReleaseGil.h" "PythonSupport.h" "PythonSupport.cpp" "LetterNodeListMap.h" "LetterNodeListMap.cpp" "LetterNode.h" "LetterNode.cpp" "IdentifierUtils.h" "IdentifierUtils.cpp" "IdentifierDatabase.h" "IdentifierDatabase.cpp" "IdentifierCompleter.h" "IdentifierCompleter.cpp" "exceptions.h" "DLLDefines.h" "CMakeLists.txt" "ClangCompleter/" "CandidateRepository.h" "CandidateRepository.cpp" "Candidate.h" "Candidate.cpp" "benchmarks/" ".ycm_extra_conf.py" "../" "./")
+
+ ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/ycmd/cpp/" (22861 49774 0 0) "ycm/" "llvm/" "CMakeLists.txt" "BoostParts/" "../" "./")
+
+ ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/ycmd/" (22861 49835 0 0) "ycm_core.pyd" "ycmd/" "vagrant_bootstrap.sh" "Vagrantfile" "update_boost.py" "tox.ini" "third_party/" "test_requirements.txt" "TESTS.md" "style_format.sh" "run_tests.py" "README.md" "PYTHON_USED_DURING_BUILDING" "libclang.dll" "examples/" "DEV_SETUP.md" "cpp/" "CORE_VERSION" "COPYING.txt" "CONTRIBUTING.md" "CODE_OF_CONDUCT.md" "codecov.yml" "clang_includes/" "clang_archives/" "ci/" "build.py" "benchmark.py" "appveyor.yml" ".travis.yml" ".gitmodules" ".gitignore" ".git/" ".coveragerc" "../" "./")
+
+ ("c:/Users/zhuzh/AppData/Roaming/" (22861 48649 0 0) "ZXBQM112X4.DLL" "Zotero/" "vstelemetry/" "Visual Studio Setup/" "TortoiseSVN/" "Thunderbird/" "Tencent/" "Subversion/" "SPlayer/" "shoujizhushou/" "Red Alert 3/" "qeG1W.AMo" "PLSQL Developer/" "pip/" "NVIDIA Corporation/" "NVIDIA/" "Notepad++/" "Mozilla/" "Microsoft/" "Macromedia/" "ksoftmgr/" "KSafe/" "Kingsoft/" "jupyter/" "Jedi/" "HaoZip/" "FoxitReaderPlus/" "Foxit UserSystemSDK/" "Foxit Software/" "Foxit AgentInformation/" "dg/" "BluestacksCN/" "BingDict/" "AliWangWang/" "alipay/" "Adobe/" ".saves/" ".matplotlib/" ".keras/" ".ipython/" ".emacs.d/" "../" "./")
+
+ ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/" (22861 4496 0 0) "tex-setup.el" "org-setup.el" "math-setup.el" "keybindings.el" "fzby" "functions.el" "elpy.el" "el-get-user-recipes/" "el-get-init-files/" "cdlatex.el" "basic.el" "base.el" "appearance-setup.el" "#basic.el#" "../" "./")
+
+ ("d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/cuda_by_example/common/" (21401 56340 0 0) "gpu_anim.h" "gl_helper.h" "GL/" "cpu_bitmap.h" "cpu_anim.h" "book.h" "../" "./")
+
+ ("d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/cuda_by_example/" (22861 3936 0 0) "README.txt" "license.txt" "lib/" "common/" "chapter11/" "chapter10/" "chapter09/" "chapter08/" "chapter07/" "chapter06/" "chapter05/" "chapter04/" "chapter03/" "bin/" "appendix_a/" "../" "./")
+
+ ("d:/Documents/LinuxHome/zzsweet/src/cfamily/compile/" (22860 49023 0 0) "test.cpp" "../" "./")
+
+ ("d:/Documents/LinuxHome/zzsweet/src/cjsc/python/lstm/" (22859 6382 0 0) "__pycache__/" "stock_predict_lstm_keras.py" "stock_predict_lstm.py" "stock_data_preprocess.py" "stocks_code_list.txt" "nan.csv" "MNIST_data/" "energy.csv" "data_to_psql.py" "data_fecth.py" ".#stock_predict_lstm_keras.py" "#stock_predict_lstm_keras.py#" "../" "./")
+
+ ("d:/Documents/LinuxHome/zzsweet/src/org/notes/" (22860 30451 0 0) "高斯过程与贝叶斯方法.org" "自动微分.org" "自动微分.html" "算法杂记-自动微分简介.tex" "算法杂记-自动微分简介.pdf" "算法杂记-优化方法.tex" "算法杂记-优化方法.pdf" "算法杂记-SVD和PCA.tex" "算法杂记-SVD和PCA.pdf" "混合模型与EM算法.org" "混合模型与EM算法.html" "机器学习选股.org" "机器学习选股.fdb_latexmk" "图论.org" "优化方法.org" "优化方法.html" "todo.txt" "todo.org_archive" "todo.org" "todo.html" "Tensorflow笔记.org" "sql.tex" "sql.pdf" "sql.org" "Simplex.cls" "scratch.org" "RNN与LSTM.org" "reading.org" "reading.html" "pythonLibrary.tex" "pythonLibrary.pdf" "pythonLibrary.org" "org.css" "org-mode小技巧.org" "NewtonRaphson_TF.py" "Monte_Carlo.org" "MLAPP笔记-贝叶斯决策论与频率决策论.tex" "MLAPP笔记-混合模型与EM算法.tex" "MLAPP笔记-混合模型与EM算法.pdf" "MLAPP笔记-朴素贝叶斯.tex" "MLAPP笔记-有向图模型.tex" "MLAPP笔记-有向图模型.pdf" "MLAPP笔记-MC算法.tex" "MLAPP笔记-Adaptive_basis_function_models.tex" "MLAPP笔记-Adaptive_basis_function_models.pdf" "fig/" "data/" "convex_optimization.org" "auto/" "../" "./")
+
+ ("c:/msys64/home/simplex/" (22859 26089 0 0) "CMakeFiles/" "CMakeCache.txt" ".profile" ".minttyrc" ".inputrc" ".emacs.d/" ".bash_profile" ".bash_logout" ".bash_history" ".bashrc" "../" "./")
+
+ ("d:/Documents/LinuxHome/zzsweet/src/python/" (22859 12679 0 0) "__pycache__/" "testJedi.pyc" "testJedi.py" "test.npy" "stastistics/" "scratch_flymake.py" "scratch.py" "progressbar.py" "optimize/" "octave-workspace" "notebook/" "newtonRaphson.py" "MNIST_data/" "MLiA-src/" "ML/" "learning_python/" "industry_fillna.csv" "industry.csv" "graphs/" "fund_account1.txt" "func_account.csv" "auto-diff/" "algorithms/" "#testJedi.py#" "#newtonRaphson.py#" "../" "./")
+
+ ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/irony/" (22860 47418 0 0) "bin/" "../" "./")
+
+ ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/irony/bin/" (22860 47418 0 0) "irony-server.exe" "../" "./")
+
+ ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/themes/" (22859 58070 0 0) "org.css" "monolized-theme.el" "gnome2-theme.el" "../" "./")
 
  ("d:/Documents/LinuxHome/zzsweet/src/cfamily/" (22859 30920 0 0) "wgms/" "tlpi-dist/" "Numerical Recipes in C++ 2nd Source Code.rar" "Numerical recipes/" "NR_C301/" "newBPM/" "lpic-1.3.2/" "IFD4-BPM-old/" "IFD4-BPM/" "fzby.cpp" "cuda/" "cpp_study/" "compile/" "C++Primer/" "../" "./")
-
- ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/el-get-init-files/" (22859 33801 0 0) "org-mode-demo.png" "init-yasnippet.elc" "init-yasnippet.el" "init-xcscope.elc" "init-xcscope.el" "init-window-numbering.elc" "init-window-numbering.el" "init-vimish-fold.elc" "init-vimish-fold.el" "init-swiper.elc" "init-swiper.el" "init-sqlup-mode.elc" "init-sqlup-mode.el" "init-spaceline.elc" "init-spaceline.el" "init-smex.elc" "init-smex.el" "init-smartparens.elc" "init-smartparens.el" "init-powerline-bak.el" "init-popwin.elc" "init-popwin.el" "init-langtool.elc" "init-langtool.el" "init-irony-mode.elc" "init-irony-mode.el" "init-ido-vertical-mode.elc" "init-ido-vertical-mode.el" "init-helm.elc" "init-helm.el" "init-helm-swoop.elc" "init-helm-swoop.el" "init-helm-bibtex.elc" "init-helm-bibtex.el" "init-gnuplot-mode.elc" "init-gnuplot-mode.el" "init-flycheck.elc" "init-flycheck.el" "init-flx-ido.elc" "init-flx-ido.el" "init-elpy.elc" "init-elpy.el" "init-ein.elc" "init-ein.el" "init-company.elc" "init-company.el" "init-company-irony.elc" "init-company-irony.el" "init-clang-format.el" "init-chinese-fonts-setup.elc" "init-chinese-fonts-setup.el" "init-avy.elc" "init-avy.el" "init-auto-complete.elc" "init-auto-complete.el" "init-auto-compile.elc" "init-auto-compile.el" "bb2912.rar" ".#init-chinese-fonts-setup.el" "#init-chinese-fonts-setup.el#" "../" "./")
-
- ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/" (22859 33740 0 0) "tutorial/" "themes/" "snippets/" "smex-items" "server/" "recentf" "README.md" "network-security.data" "irony/" "init.el" "ido.last~" "ido.last" "helm-doc.org" "eshell/" "elpa/" "el-get/" "dict/" "desktops/" "core/" "chinese-fonts-setup/" "auto-save-list/" "ac-comphist.dat" ".org-id-locations" ".mc-lists.el" ".gitignore" ".git/" ".emacs.desktop" ".debris/" "../" "./")
-
- ("d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/" (22859 31407 0 0) "test.cpp" "../" "./")
-
- ("d:/Documents/LinuxHome/zzsweet/src/cfamily/cpp_study/" (22859 28359 0 0) "waveguide/" "travelling wave solver/" "test.cpp" "study.h" "study.exe" "study.cpp" "study" "string_to_double.cpp" "sig_receive.cpp" "regex.cpp" "read_matrix.cpp" "poly.cpp" "plotwavegide/" "nice.exe" "my_code/" "mynamespace.h" "mynamespace.cpp" "mygnuplot.h" "mygnuplot.cpp" "mpi/" "Makefile" "iospeed.cpp" "gnuplotter/" "gadget/" "CMakeFiles/" "cmake-gui.exe.stackdump" "cgal/" "a.exe" ".directory" ".clang_complete" "../" "./")
 
  ("c:/msys64/mingw64/bin/" (22859 27989 0 0) "zlib1.dll" "yaml2obj.exe" "xzmore" "xzless" "xzgrep" "xzfgrep" "xzegrep" "xzdiff" "xzdec.exe" "xzcmp" "xzcat.exe" "xz.exe" "xmlwf.exe" "xgettext.exe" "x86_64-w64-mingw32-inflatehd.exe" "x86_64-w64-mingw32-gcc.exe" "x86_64-w64-mingw32-gcc-ranlib.exe" "x86_64-w64-mingw32-gcc-nm.exe" "x86_64-w64-mingw32-gcc-ar.exe" "x86_64-w64-mingw32-gcc-6.3.0.exe" "x86_64-w64-mingw32-g++.exe" "x86_64-w64-mingw32-deflatehd.exe" "x86_64-w64-mingw32-c++.exe" "x86_64-w64-mingw32-agrep.exe" "wrjpgcom.exe" "windres.exe" "windmc.exe" "whirlpool-hash.exe" "webpmux.exe" "verify-uselistorder.exe" "update-ca-trust" "unxz.exe" "unlz4.exe" "tth-hash.exe" "trust.exe" "transicc.exe" "tjbench.exe" "tiger-hash.exe" "tificc.exe" "tiffsplit.exe" "tiffset.exe" "tiffmedian.exe" "tiffinfo.exe" "tiffdump.exe" "tiffdither.exe" "tiffcrop.exe" "tiffcp.exe" "tiffcmp.exe" "tiff2rgba.exe" "tiff2ps.exe" "tiff2pdf.exe" "tiff2bw.exe" "strip.exe" "strings.exe" "stream.exe" "ssleay32.dll" "srptool.exe" "size.exe" "sfv-hash.exe" "sexp-conv.exe" "sanstats.exe" "sancov.exe" "runemacs.exe" "rtmpsuck.exe" "rtmpsrv.exe" "rtmpgw.exe" "rtmpdump.exe" "rhash.exe" "recode-sr-latin.exe" "readelf.exe" "rdjpgcom.exe" "raw2tiff.exe" "ranlib.exe" "psktool.exe" "psicc.exe" "ppm2tiff.exe" "pngfix.exe" "png-fix-itxt.exe" "pkcs1-conv.exe" "pcretest.exe" "pcregrep.exe" "pcre-config" "pbmtojbg85.exe" "pbmtojbg.exe" "pal2rgb.exe" "p11tool.exe" "p11-kit.exe" "opt.exe" "opj_mj2_wrap.exe" "opj_mj2_extract.exe" "opj_mj2_decompress.exe" "opj_mj2_compress.exe" "opj_jpwl_decompress.exe" "opj_jpwl_compress.exe" "opj_jpip_transcode.exe" "opj_jpip_test.exe" "opj_jpip_addxml.exe" "opj_jp3d_decompress.exe" "opj_jp3d_compress.exe" "opj_dump.exe" "opj_dec_server.exe" "opj_decompress.exe" "opj_compress.exe" "openssl.exe" "ocsptool.exe" "objdump.exe" "objcopy.exe" "obj2yaml.exe" "nm.exe" "ngettext.exe" "nettle-pbkdf2.exe" "nettle-lfib-stream.exe" "nettle-hash.exe" "msguniq.exe" "msgunfmt.exe" "msgmerge.exe" "msginit.exe" "msggrep.exe" "msgfmt.exe" "msgfilter.exe" "msgexec.exe" "msgen.exe" "msgconv.exe" "msgcomm.exe" "msgcmp.exe" "msgcat.exe" "msgattrib.exe" "montage.exe" "mogrify.exe" "modularize.exe" "minizip.exe" "miniunzip.exe" "mingw32-make.exe" "magnet-link.exe" "MagickWand-config" "MagickCore-config" "magick.exe" "magick-script.exe" "Magick++-config" "lzmainfo.exe" "lzmadec.exe" "lz4cat.exe" "lz4c.exe" "lz4.exe" "LTO.dll" "LLVM.dll" "llvm-xray.exe" "llvm-tblgen.exe" "llvm-symbolizer.exe" "llvm-strings.exe" "llvm-stress.exe" "llvm-split.exe" "llvm-size.exe" "llvm-rtdyld.exe" "llvm-readobj.exe" "llvm-ranlib.exe" "llvm-profdata.exe" "llvm-pdbdump.exe" "llvm-opt-report.exe" "llvm-objdump.exe" "llvm-nm.exe" "llvm-modextract.exe" "llvm-mcmarkup.exe" "llvm-mc.exe" "llvm-lto2.exe" "llvm-lto.exe" "llvm-link.exe" "llvm-lib.exe" "llvm-extract.exe" "llvm-dwp.exe" "llvm-dwarfdump.exe" "llvm-dsymutil.exe" "llvm-dlltool.exe" "llvm-dis.exe" "llvm-diff.exe" "llvm-cxxfilt.exe" "llvm-cxxdump.exe" "llvm-cov.exe" "llvm-config.exe" "llvm-cat.exe" "llvm-c-test.exe" "llvm-bcanalyzer.exe" "llvm-as.exe" "llvm-ar.exe" "lli.exe" "llc.exe" "linkicc.exe" "libXpm-noX4.dll" "libwinpthread-1.dll" "libwebpmux-3.dll" "libwebpdemux-2.dll" "libwebpdecoder-3.dll" "libwebp-7.dll" "libuv-1.dll" "libunistring-2.dll" "libturbojpeg-0.dll" "libtre-5.dll" "libtoolize" "libtool" "libtiffxx-5.dll" "libtiff-5.dll" "libtasn1-6.dll" "libsystre-0.dll" "libstdc++-6.dll" "libssp-0.dll" "libssh2-1.dll" "libspdylay-7.dll" "librtmp-1.dll" "librhash.dll" "libraqm-0.dll" "libquadmath-0.dll" "libpng16-config" "libpng16-16.dll" "libpng-config" "libpixman-1-0.dll" "libpcreposix-0.dll" "libpcrecpp-0.dll" "libpcre32-0.dll" "libpcre16-0.dll" "libpcre-1.dll" "libp11-kit-0.dll" "libopenmj2-7.dll" "libopenjpwl-7.dll" "libopenjpip-7.dll" "libopenjp3d-7.dll" "libopenjp2-7.dll" "libnghttp2-14.dll" "libnettle-6.dll" "libminizip-1.dll" "libmetalink-3.dll" "libMagickWand-7.Q16HDRI-0.dll" "libMagickCore-7.Q16HDRI-2.dll" "libMagick++-7.Q16HDRI-2.dll" "liblzo2-2.dll" "liblzma-5.dll" "liblz4.dll" "libltdl-7.dll" "liblqr-1-0.dll" "liblcms2-2.dll" "libjsoncpp.dll" "libjpeg-8.dll" "libjbig-0.dll" "libjasper-4.dll" "libjansson-4.dll" "libintl-8.dll" "libidn-11.dll" "libidn-11.def" "libiconv-2.dll" "libhogweed-4.dll" "libharfbuzz-icu-0.dll" "libharfbuzz-gobject-0.dll" "libharfbuzz-0.dll" "libgthread-2.0-0.dll" "libgraphite2.dll" "libgomp-1.dll" "libgobject-2.0-0.dll" "libgnutlsxx-28.dll" "libgnutls-30.dll" "libgmpxx-4.dll" "libgmp-10.dll" "libgmodule-2.0-0.dll" "libglib-2.0-0.dll" "libgio-2.0-0.dll" "libgif-7.dll" "libgettextsrc-0-19-8-1.dll" "libgettextpo-0.dll" "libgettextlib-0-19-8-1.dll" "libgcc_s_seh-1.dll" "libfribidi-0.dll" "libfreetype-6.dll" "libfreeglut.dll" "libfontconfig-1.dll" "libfftw3l-3.dll" "libfftw3f-3.dll" "libfftw3-3.dll" "libffi-6.dll" "libexpat-1.dll" "libeay32.dll" "libdjvulibre-21.dll" "libdbus-1-3.dll" "libcurl-4.dll" "libcharset-1.dll" "libcares-2.dll" "libcairo-script-interpreter-2.dll" "libcairo-gobject-2.dll" "libcairo-2.dll" "libbz2-1.dll" "libatomic-1.dll" "libasprintf-0.dll" "libarchive-13.dll" "ld.gold.exe" "ld.exe" "ld.bfd.exe" "jpgicc.exe" "jpegtran.exe" "jbgtopbm85.exe" "jbgtopbm.exe" "jasper.exe" "import.exe" "imginfo.exe" "imgcmp.exe" "img2webp.exe" "idn.exe" "identify.exe" "hb-view.exe" "hb-shape.exe" "hb-ot-shape-closure.exe" "has160-hash.exe" "gspawn-win64-helper.exe" "gspawn-win64-helper-console.exe" "gsettings.exe" "gresource.exe" "gr2fonttest.exe" "gprof.exe" "gost-hash.exe" "gobject-query.exe" "gnutls-serv.exe" "gnutls-cli.exe" "gnutls-cli-debug.exe" "glib-mkenums" "glib-gettextize" "glib-genmarshal.exe" "glib-compile-schemas.exe" "glib-compile-resources.exe" "git-clang-format" "gio.exe" "gio-querymodules.exe" "gif2webp.exe" "gettextize" "gettext.sh" "gettext.exe" "gdbus.exe" "gdbus-codegen" "gcov.exe" "gcov-tool.exe" "gcc.exe" "gcc-ranlib.exe" "gcc-nm.exe" "gcc-ar.exe" "g++.exe" "fribidi.exe" "freetype-config" "find-all-symbols.exe" "FileCheck.exe" "fftwq-wisdom.exe" "fftwl-wisdom.exe" "fftwf-wisdom.exe" "fftw-wisdom.exe" "fftw-wisdom-to-conf" "fc-validate.exe" "fc-scan.exe" "fc-query.exe" "fc-pattern.exe" "fc-match.exe" "fc-list.exe" "fc-cat.exe" "fc-cache.exe" "fax2tiff.exe" "fax2ps.exe" "etags.exe" "envsubst.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "emacs-25.2.exe" "elfedit.exe" "edit_test_dll.exe" "edit_test.exe" "edit.dll" "ed2k-link.exe" "ebrowse.exe" "dwp.exe" "dwebp.exe" "dllwrap.exe" "dlltool.exe" "djvuxmlparser.exe" "djvutxt.exe" "djvutoxml.exe" "djvuserve.exe" "djvused.exe" "djvups.exe" "djvumake.exe" "djvuextract.exe" "djvudump.exe" "djvudigital" "djvmcvt.exe" "djvm.exe" "djpeg.exe" "display.exe" "ddjvu.exe" "dbus-update-activation-environment.exe" "dbus-test-tool.exe" "dbus-send.exe" "dbus-monitor.exe" "dbus-launch.exe" "dbus-daemon.exe" "cxpm-noX.exe" "cwebp.exe" "curl.exe" "curl-config" "ctags.exe" "csepdjvu.exe" "cpp.exe" "cpaldjvu.exe" "convert.exe" "conjure.exe" "composite.exe" "compare.exe" "clang.exe" "clang.dll" "clang-tidy.exe" "clang-reorder-fields.exe" "clang-rename.exe" "clang-query.exe" "clang-offload-bundler.exe" "clang-include-fixer.exe" "clang-import-test.exe" "clang-format.exe" "clang-cpp.exe" "clang-cl.exe" "clang-check.exe" "clang-change-namespace.exe" "clang-apply-replacements.exe" "clang++.exe" "cjpeg.exe" "cjb2.exe" "certtool.exe" "cc.exe" "c44.exe" "c-index-test.exe" "c++filt.exe" "c++.exe" "bzz.exe" "bzmore" "bzless" "bzip2recover.exe" "bzip2.exe" "bzgrep" "bzfgrep" "bzegrep" "bzdiff" "bzcmp" "bzcat.exe" "bunzip2.exe" "bugpoint.exe" "bsdtar.exe" "bsdcpio.exe" "bsdcat.exe" "autopoint" "asn1Parser.exe" "asn1Decoding.exe" "asn1Coding.exe" "as.exe" "ar.exe" "any2djvu" "animate.exe" "ag.exe" "addr2line.exe" "addpm.exe" "../" "./")
 
@@ -325,25 +377,15 @@
 
  ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/elpa/irony-20170427.1601/" (22854 32630 0 0) "server/" "irony.elc" "irony.el" "irony-snippet.elc" "irony-snippet.el" "irony-pkg.el" "irony-iotask.elc" "irony-iotask.el" "irony-diagnostics.elc" "irony-diagnostics.el" "irony-completion.elc" "irony-completion.el" "irony-cdb.elc" "irony-cdb.el" "irony-cdb-libclang.elc" "irony-cdb-libclang.el" "irony-cdb-json.elc" "irony-cdb-json.el" "irony-cdb-clang-complete.elc" "irony-cdb-clang-complete.el" "irony-autoloads.el" ".dir-locals.el" "../" "./")
 
- ("c:/Users/zhuzh/AppData/Roaming/" (22858 27421 0 0) "ZXBQM112X4.DLL" "Zotero/" "TortoiseSVN/" "Thunderbird/" "Tencent/" "Subversion/" "SPlayer/" "shoujizhushou/" "Red Alert 3/" "qeG1W.AMo" "PLSQL Developer/" "pip/" "NVIDIA Corporation/" "NVIDIA/" "Notepad++/" "Mozilla/" "Microsoft/" "Macromedia/" "ksoftmgr/" "KSafe/" "Kingsoft/" "jupyter/" "Jedi/" "HaoZip/" "FoxitReaderPlus/" "Foxit UserSystemSDK/" "Foxit Software/" "Foxit AgentInformation/" "dg/" "BluestacksCN/" "BingDict/" "AliWangWang/" "alipay/" "Adobe/" ".saves/" ".matplotlib/" ".keras/" ".ipython/" ".emacs.d/" "../" "./")
-
  ("c:/msys64/home/" (22851 17783 0 0) "simplex/" "../" "./")
 
  ("c:/Users/zhuzh/" (22857 49828 0 0) "「开始」菜单/" "Videos/" "Templates/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrintHood/" "Pictures/" "OneDrive/" "ntuser.ini" "NTUSER.DAT{4e074668-0c1c-11e7-a943-e41d2d718a20}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{4e074668-0c1c-11e7-a943-e41d2d718a20}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{4e074668-0c1c-11e7-a943-e41d2d718a20}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "Local Settings/" "Links/" "IntelGraphicsProfiles/" "Favorites/" "Downloads/" "Documents/" "Desktop/" "Cookies/" "Contacts/" "Application Data/" "AppData/" "Anaconda3/" ".spyder-py3/" ".pip/" ".matplotlib/" ".jupyter/" ".ipython/" ".gitconfig" ".condarc" ".conda/" ".bash_history" ".anaconda/" "../" "./")
 
  ("d:/desktop/" (22858 1029 0 0) "适当性测试产品.xlsx" "迅雷极速版.lnk" "资料.lnk" "知乎盐系列 57 我是高频交易工程师 .mobi" "目标理财前端修改需求汇总20170608.doc" "牛熊轮动前端修改.doc" "杂质/" "定投相关业务适当性规则.xls" "代码.lnk" "Thumbs.db" "Emacs.lnk" "desktop.ini" "d8d479d57d050e32c1d77bb859d61ce2_r.png" "cuda/" "Computing_Discrete_Frechet_Distance.pdf" "Cmder.lnk" "cjsc/" "cips2016.pdf" "Bluestacks蓝叠.lnk" "a.pdf" "1706.02515.pdf" "1401.3973.pdf" "10.1.1.467.5307.pdf" "06509745.pdf" "../" "./")
 
- ("d:/Documents/LinuxHome/zzsweet/src/python/" (22858 1340 0 0) "__pycache__/" "testJedi.pyc" "testJedi.py" "test.npy" "stastistics/" "scratch_flymake.py" "scratch.py" "progressbar.py" "optimize/" "octave-workspace" "notebook/" "newtonRaphson.py" "MNIST_data/" "MLiA-src/" "ML/" "learning_python/" "industry_fillna.csv" "industry.csv" "graphs/" "fund_account1.txt" "func_account.csv" "auto-diff/" "algorithms/" "#newtonRaphson.py#" "../" "./")
-
- ("c:/msys64/home/simplex/" (22856 33357 0 0) ".profile" ".minttyrc" ".inputrc" ".emacs.d/" ".bash_profile" ".bash_logout" ".bash_history" ".bashrc" "../" "./")
-
  ("c:/msys64/home/simplex/.emacs.d/" (22856 33357 0 0) "../" "./")
 
- ("d:/Documents/LinuxHome/zzsweet/src/cjsc/python/lstm/" (22857 49235 0 0) "__pycache__/" "stock_predict_lstm_keras.py" "stock_predict_lstm.py" "stock_data_preprocess.py" "stocks_code_list.txt" "nan.csv" "MNIST_data/" "energy.csv" "data_to_psql.py" "data_fecth.py" ".#stock_predict_lstm_keras.py" "#stock_predict_lstm_keras.py#" "../" "./")
-
  ("d:/Documents/LinuxHome/zzsweet/src/cjsc/python/yield/" (22857 18914 0 0) "收益率测试数据.zip" "收益率测试数据/" "基金定投组合收益率计算方法1205.doc" "__pycache__/" "yield.py" "newtonRaphson_flymake.py" "newtonRaphson.py" "equity.xls" "buysell.py" "bouns.xls" "../" "./")
-
- ("d:/Documents/LinuxHome/zzsweet/src/org/notes/" (22857 55178 0 0) "高斯过程与贝叶斯方法.org" "自动微分.org" "自动微分.html" "算法杂记-自动微分简介.tex" "算法杂记-自动微分简介.pdf" "算法杂记-优化方法.tex" "算法杂记-优化方法.pdf" "算法杂记-SVD和PCA.tex" "算法杂记-SVD和PCA.pdf" "混合模型与EM算法.org" "混合模型与EM算法.html" "机器学习选股.org" "机器学习选股.fdb_latexmk" "图论.org" "优化方法.org" "优化方法.html" "todo.txt" "todo.org_archive" "todo.org" "todo.html" "Tensorflow笔记.org" "sql.tex" "sql.pdf" "sql.org" "Simplex.cls" "scratch.org" "RNN与LSTM.org" "reading.org" "reading.html" "pythonLibrary.tex" "pythonLibrary.pdf" "pythonLibrary.org" "org.css" "org-mode小技巧.org" "NewtonRaphson_TF.py" "Monte_Carlo.org" "MLAPP笔记-贝叶斯决策论与频率决策论.tex" "MLAPP笔记-混合模型与EM算法.tex" "MLAPP笔记-混合模型与EM算法.pdf" "MLAPP笔记-朴素贝叶斯.tex" "MLAPP笔记-有向图模型.tex" "MLAPP笔记-有向图模型.pdf" "MLAPP笔记-MC算法.tex" "MLAPP笔记-Adaptive_basis_function_models.tex" "MLAPP笔记-Adaptive_basis_function_models.pdf" "fig/" "data/" "convex_optimization.org" "auto/" "../" "./")
 
  ("c:/Users/zhuzh/AppData/" (22850 49434 0 0) "Roaming/" "LocalLow/" "Local/" "../" "./")
 
@@ -411,8 +453,6 @@
 
  ("d:/Documents/LinuxHome/zzsweet/src/cjsc/python/newtonRaphson/" (22851 11982 0 0) "解方程.doc" "newtonRaphson.py" "../" "./")
 
- ("d:/Documents/LinuxHome/zzsweet/src/cjsc/python/" (22851 11984 0 0) "yield/" "wind_data/" "testWind.py" "similar.py" "newtonRaphson/" "lstm/" "kpca-svr/" "boosting/" "../" "./")
-
  ("c:/msys64/home/simplex/.emacs.d/core/" (22805 56918 0 0) "tex-setup.el" "org-setup.el" "math-setup.el" "keybindings.el" "fzby" "functions.el" "elpy.el" "el-get-user-recipes/" "el-get-init-files/" "cdlatex.el" "basic.el" "base.el" "appearance-setup.el" "../" "./")
 
  ("c:/Users/simplex/AppData/Roaming/" (22791 54638 0 0) "Zotero/" "XQ4Q.DLL" "vstelemetry/" "Visual Studio Setup/" "Thunderbird/" "Tencent/" "TeamViewer/" "SumatraPDF/" "SPlayer/" "PLSQL Developer/" "Opera Software/" "Mozilla/" "Microsoft/" "MHXE018UR/" "Macromedia/" "ksafe/" "Kingsoft/" "jupyter/" "Jedi/" "HaoZip/" "FoxitReaderPlus/" "Foxit UserSystemSDK/" "Foxit Software/" "Foxit AgentInformation/" "fixcfg.ini" "dg/" "Design Science/" "Code/" "BluestacksCN/" "BingDict/" "BaiduYunKongMing/" "BaiduYunKernel/" "BaiduYunGuanjia/" "baidu/" "AliWangWang/" "alipay/" "Adobe/" "2345Pic/" "2345MiniPage/" ".saves/" ".pylint.d/" ".matplotlib/" ".ipython/" ".gnupg/" ".emacs.d/" "../" "./")
@@ -472,38 +512,6 @@
  ("c:/msys64/home/simplex/.emacs.d/el-get/irony-mode/" (22737 19720 0 0) "server/" "screenshots/" "README.md" "irony.elc" "irony.el" "irony-snippet.elc" "irony-snippet.el" "irony-diagnostics.elc" "irony-diagnostics.el" "irony-completion.elc" "irony-completion.el" "irony-cdb.elc" "irony-cdb.el" "irony-cdb-libclang.elc" "irony-cdb-libclang.el" "irony-cdb-json.elc" "irony-cdb-json.el" "irony-cdb-clang-complete.elc" "irony-cdb-clang-complete.el" "COPYING" "CONTRIBUTING.md" "build/" ".travis.yml" ".gitignore" ".git/" ".dir-locals.el" "../" "./")
 
  ("c:/msys64/home/simplex/.emacs.d/elpa/" (22737 17090 0 0) "ycmd-20170227.2341/" "yasnippet-20170310.1724/" "xcscope-20160628.2324/" "window-numbering-20160809.1110/" "websocket-20161113.1736/" "swiper-20170225.356/" "sqlup-mode-20161207.2044/" "spaceline-20170102.59/" "smex-20151212.1409/" "smartparens-20170312.450/" "seq-2.19.signed" "seq-2.19/" "s-20160928.636/" "request-deferred-20160419.1605/" "request-20170131.1747/" "rainbow-delimiters-20160430.2358/" "pyvenv-20170224.538/" "python-environment-20150310.153/" "python-docstring-20170314.43/" "powerline-20161121.2320/" "pos-tip-20150318.813/" "popwin-20150315.600/" "popup-20160709.729/" "pkg-info-20150517.443/" "packed-20170314.1340/" "org-bullets-20140918.1137/" "ob-ipython-20160918.1001/" "multi-term-20160619.233/" "let-alist-1.0.5.signed" "let-alist-1.0.5/" "langtool-20160116.1654/" "jedi-core-20170121.610/" "ivy-20170316.512/" "irony-20170313.1437/" "ido-vertical-mode-20160429.1037/" "htmlize-20161211.1019/" "highlight-indentation-20161012.209/" "helm-swoop-20160619.953/" "helm-gtags-20170115.2129/" "helm-dash-20170221.638/" "helm-cscope-20150609.649/" "helm-core-20170316.626/" "helm-ag-20170209.745/" "helm-20170317.2246/" "gnuplot-mode-20151122.2339/" "gnupg/" "fuzzy-20150729.2037/" "flycheck-ycmd-20160913.130/" "flycheck-pos-tip-20161112.912/" "flycheck-20170309.145/" "flx-ido-20151030.1112/" "flx-20151030.1112/" "find-file-in-project-20161202.2205/" "f-20161002.800/" "epl-20150517.433/" "epc-20140609.2234/" "elpy-20170303.621/" "ein-20170224.1115/" "deferred-20161228.1930/" "dash-functional-20160615.1351/" "dash-20170207.2056/" "ctable-20140304.1659/" "concurrent-20161228.1930/" "company-ycmd-20161026.2337/" "company-quickhelp-20170226.522/" "company-jedi-20151216.1921/" "company-irony-20160826.56/" "company-20170315.1754/" "comment-dwim-2-20150825.1549/" "cl-lib-0.6.1.signed" "cl-lib-0.6.1/" "cl-generic-0.3.signed" "cl-generic-0.3/" "chinese-fonts-setup-20170309.2126/" "avy-20170208.148/" "auto-compile-20170130.1017/" "auctex-latexmk-20160923.7/" "auctex-11.90.0.signed" "auctex-11.90.0/" "async-20170219.942/" "archives/" "../" "./")
-
- ("c:/msys64/home/simplex/.emacs.d/el-get/" (22737 17071 0 0) "ycmd/" "yasnippet/" "xcscope/" "window-numbering/" "websocket/" "swiper/" "sqlup-mode/" "spaceline/" "smex/" "smartparens/" "seq/" "s/" "request-deferred/" "request/" "rainbow-delimiters/" "pyvenv/" "python-environment/" "python-docstring/" "powerline/" "pos-tip/" "popwin/" "popup/" "pkg-info/" "packed/" "package/" "org-bullets/" "ob-ipython/" "multi-term/" "let-alist/" "langtool/" "json/" "jedi-core/" "ivy/" "irony-mode/" "irony/" "ido-vertical-mode/" "htmlize/" "highlight-indentation/" "helm-swoop/" "helm-gtags/" "helm-dash/" "helm-cscope/" "helm-core/" "helm-ag/" "helm/" "gnuplot-mode/" "fuzzy/" "flycheck-ycmd/" "flycheck-pos-tip/" "flycheck/" "flx-ido/" "flx/" "find-file-in-project/" "f/" "epl/" "epc/" "elpy/" "el-get/" "ein/" "deferred/" "dash-functional/" "dash/" "ctable/" "concurrent/" "company-ycmd/" "company-quickhelp/" "company-jedi/" "company-irony/" "company/" "comment-dwim-2/" "cl-lib/" "cl-generic/" "chinese-fonts-setup/" "avy/" "auto-compile/" "auctex-latexmk/" "auctex/" "async/" ".status.el" ".loaddefs.elc" ".loaddefs.el" "../" "./")
-
- ("c:/msys64/home/simplex/.emacs.d/el-get/irony/" (22737 17062 0 0) "server/" "irony.elc" "irony.el" "irony-snippet.elc" "irony-snippet.el" "irony-pkg.el" "irony-diagnostics.elc" "irony-diagnostics.el" "irony-completion.elc" "irony-completion.el" "irony-cdb.elc" "irony-cdb.el" "irony-cdb-libclang.elc" "irony-cdb-libclang.el" "irony-cdb-json.elc" "irony-cdb-json.el" "irony-cdb-clang-complete.elc" "irony-cdb-clang-complete.el" "irony-autoloads.el" ".dir-locals.el" "../" "./")
-
- ("d:/Program Files (x86)/" (22735 58324 0 0) "emacs/" "../" "./")
-
- ("c:/Users/simplex/AppData/Roaming/.emacs.d/elpa/" (22733 28301 0 0) "ycmd-20170227.2341/" "yasnippet-20170310.1724/" "xcscope-20160628.2324/" "window-numbering-20160809.1110/" "websocket-20161113.1736/" "swiper-20170225.356/" "sqlup-mode-20161207.2044/" "spaceline-20170102.59/" "smex-20151212.1409/" "smartparens-20170312.450/" "seq-2.19.signed" "seq-2.19/" "s-20160928.636/" "request-deferred-20160419.1605/" "request-20170131.1747/" "rainbow-delimiters-20160430.2358/" "pyvenv-20170224.538/" "python-environment-20150310.153/" "python-docstring-20170314.43/" "powerline-20161121.2320/" "pos-tip-20150318.813/" "popwin-20150315.600/" "popup-20160709.729/" "pkg-info-20150517.443/" "packed-20170314.1340/" "org-bullets-20140918.1137/" "ob-ipython-20160918.1001/" "multi-term-20160619.233/" "let-alist-1.0.5.signed" "let-alist-1.0.5/" "langtool-20160116.1654/" "jedi-core-20170121.610/" "ivy-20170316.512/" "ido-vertical-mode-20160429.1037/" "htmlize-20161211.1019/" "highlight-indentation-20161012.209/" "helm-swoop-20160619.953/" "helm-gtags-20170115.2129/" "helm-dash-20170221.638/" "helm-cscope-20150609.649/" "helm-core-20170316.626/" "helm-ag-20170209.745/" "helm-20170317.2246/" "gnuplot-mode-20151122.2339/" "gnupg/" "fuzzy-20150729.2037/" "flycheck-ycmd-20160913.130/" "flycheck-pos-tip-20161112.912/" "flycheck-20170309.145/" "flx-ido-20151030.1112/" "flx-20151030.1112/" "find-file-in-project-20161202.2205/" "f-20161002.800/" "epl-20150517.433/" "epc-20140609.2234/" "elpy-20170303.621/" "ein-20170224.1115/" "deferred-20161228.1930/" "dash-functional-20160615.1351/" "dash-20170207.2056/" "ctable-20140304.1659/" "concurrent-20161228.1930/" "company-ycmd-20161026.2337/" "company-quickhelp-20170226.522/" "company-jedi-20151216.1921/" "company-20170315.1754/" "comment-dwim-2-20150825.1549/" "cl-lib-0.6.1.signed" "cl-lib-0.6.1/" "cl-generic-0.3.signed" "cl-generic-0.3/" "chinese-fonts-setup-20170309.2126/" "avy-20170208.148/" "auto-compile-20170130.1017/" "auctex-latexmk-20160923.7/" "auctex-11.90.0.signed" "auctex-11.90.0/" "async-20170219.942/" "archives/" "../" "./")
-
- ("c:/Users/simplex/AppData/Roaming/.emacs.d/core/" (22736 55157 0 0) "tex-setup.el" "org-setup.el" "math-setup.el" "keybindings.el" "fzby" "functions.el" "elpy.el" "el-get-user-recipes/" "el-get-init-files/" "cdlatex.el" "basic.el" "base.el" "appearance-setup.el" "../" "./")
-
- ("d:/Documents/LinuxHome/zzsweet/src/python/ML/DL/" (22729 62303 0 0) "study_tensorflow.py" "study-tensorflow/" "neural-network-from-scratch/" "MNIST_data/" "library-src/" "imdb.pkl" "cnn_tl.py" "bpnn.py" ".#study_tensorflow.py" ".#cnn_tl.py" "#study_tensorflow.py#" "#cnn_tl.py#" "../" "./")
-
- ("d:/Documents/LinuxHome/zzsweet/src/cjsc/python/kpca-svr/2nd_model/" (22729 57275 0 0) "__pycache__/" "test_processed.xlsx" "test.xlsx" "stock_predict.py" "stock_data_preprocess.py" "stock_data_fetch.py" "stocks_data_original.xlsx" "stocks-data-original-3.xlsx" "stocks-data-original-2.xlsx" "stocks-code-list.txt" "#stock_data_preprocess.py#" "../" "./")
-
- ("d:/ycmd/" (22734 38279 0 0) "ycmd/" "vagrant_bootstrap.sh" "Vagrantfile" "update_boost.py" "tox.ini" "third_party/" "test_requirements.txt" "TESTS.md" "style_format.sh" "run_tests.py" "README.md" "examples/" "DEV_SETUP.md" "cpp/" "CORE_VERSION" "COPYING.txt" "CONTRIBUTING.md" "CODE_OF_CONDUCT.md" "codecov.yml" "clang_includes/" "ci/" "build.py" "appveyor.yml" ".travis.yml" ".gitmodules" ".gitignore" ".git/" ".coveragerc" "../" "./")
-
- ("c:/Users/simplex/AppData/Roaming/.emacs.d/chinese-fonts-setup/v4/" (22733 28915 0 0) "program.el" "../" "./")
-
- ("d:/Documents/LinuxHome/zzsweet/SQLdata/" (22637 58351 0 0) "psql/" "../" "./")
-
- ("d:/app/simplex/product/11.2.0/dbhome_2/NETWORK/ADMIN/" (22735 10349 0 0) "tnsnames.oRA" "sqlnet.ora" "SAMPLE/" "../" "./")
-
- ("d:/app/simplex/product/11.2.0/dbhome_2/NETWORK/" (22731 16635 0 0) "trace/" "tools/" "Names/" "mesg/" "log/" "jlib/" "install/" "doc/" "ADMIN/" "../" "./")
-
- ("d:/app/simplex/product/11.2.0/dbhome_2/" (22731 17009 0 0) "xdk/" "wwg/" "utl/" "uix/" "ucp/" "timingframework/" "sysman/" "srvm/" "sqlplus/" "sqlj/" "sqldeveloper/" "slax/" "scheduler/" "relnotes/" "RDBMS/" "racg/" "precomp/" "plsql/" "perl/" "owm/" "owb/" "oui/" "ord/" "oramts/" "ORAINST/" "oradata/" "oracore/" "oraconfig/" "opmn/" "OPatch/" "oo4o/" "ons/" "oledb/" "olap/" "ODP.NET/" "ODE.NET/" "odbc/" "OCI/" "oc4j/" "nls/" "NETWORK/" "MMC Snap-Ins/" "mgw/" "mesg/" "md/" "log/" "LIB/" "ldap/" "jlib/" "jdk/" "jdev/" "jdbc/" "javavm/" "j2ee/" "inventory/" "instantclient/" "install.platform" "install/" "ide/" "hs/" "has/" "emcli/" "dv/" "diagnostics/" "demo/" "deinstall/" "dc_ocm/" "dbs/" "database/" "cv/" "ctx/" "css/" "csmig/" "crs/" "config/" "com/" "clone/" "cfgtoollogs/" "cdata/" "ccr/" "BIN/" "assistants/" "ASP.NET/" "apex/" "admin/" "../" "./")
-
- ("d:/app/simplex/product/11.2.0/" (22731 16047 0 0) "dbhome_2/" "dbhome_1/" "../" "./")
-
- ("d:/app/simplex/product/" (22728 63767 0 0) "11.2.0/" "../" "./")
-
- ("d:/app/simplex/" (22732 60788 0 0) "product/" "oradata/" "flash_recovery_area/" "diag/" "cygwin_src/" "cygwin64/" "checkpoints/" "cfgtoollogs/" "admin/" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----

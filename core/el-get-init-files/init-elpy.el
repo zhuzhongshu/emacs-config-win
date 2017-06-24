@@ -5,7 +5,7 @@
 (elpy-use-ipython)
 (setq python-executable-path "")
 (setq elpy-rpc-python-command
-      (concat python-executable-path "python"));;设置python后台程序为python3,python-executable-path在ein里面设置
+      (concat python-executable-path "python"));;设置python后台程序为python3
 (setq elpy-syntax-check-command "flake8");设置python语法检查程序为flake8
 
 ;;==========================
