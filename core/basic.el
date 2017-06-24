@@ -8,10 +8,6 @@
 ;;============================================================================================================
 ;; (setq explicit-shell-file-name "C:/msys64/usr/bin/zsh.exe") 
 
-(cond
- ((eq system-type 'windows-nt)
-  (w32-register-hot-key [M-tab])))
-
 
 
 ;;设置默认的shell程序，windows下需要安装msys2

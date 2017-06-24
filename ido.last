@@ -245,16 +245,16 @@
 
 ;; ----- ido-work-directory-list -----
 (
- "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/"
- "c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/el-get-init-files/"
  "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/cuda_by_example/chapter03/"
+ "c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/el-get-init-files/"
+ "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/cuda_by_example/common/"
+ "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/"
+ "d:/Documents/LinuxHome/zzsweet/src/cfamily/cpp_study/"
  "d:/ycmd/ycmd/tests/clang/"
  "d:/ycmd/ycmd/tests/clang/testdata/"
  "d:/ycmd/"
  "c:/Users/zhuzh/AppData/Roaming/.emacs.d/ycmd/cpp/ycm/"
- "d:/Documents/LinuxHome/zzsweet/src/cfamily/cpp_study/"
  "c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/"
- "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/cuda_by_example/common/"
  "c:/Users/zhuzh/AppData/Roaming/.emacs.d/"
  "c:/Users/zhuzh/AppData/Roaming/.emacs.d/server/"
  "c:/Users/zhuzh/AppData/Roaming/.emacs.d/themes/"
@@ -299,25 +299,37 @@
 
 ;; ----- ido-work-file-list -----
 (
+ "simple_device_call.cu"
+ "init-company-irony.el"
+ "book.h"
  "mytest.cu"
+ "study.cpp"
+ "mytest.c"
+ "test.cpp"
  "init-irony.el"
  "init-company-ycmd.el"
  "simple_kernel.cu"
- "get_completions_test.py"
- "basic.cpp"
- "run_tests.py"
- ".ycm_extra_conf.py"
- "study.cpp"
- "test.cpp"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/" (22861 57040 0 0) "test.cpp" "mytest.lib" "mytest.exp" "mytest.exe" "mytest.cu" "cuda_by_example/" "../" "./")
+ ("d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/" (22861 57382 0 0) "test.cpp" "mytest.lib" "mytest.exp" "mytest.exe" "mytest.cu" "cuda_by_example/" "../" "./")
 
- ("d:/Documents/LinuxHome/zzsweet/src/cfamily/cpp_study/" (22861 53083 0 0) "waveguide/" "travelling wave solver/" "test.cpp" "study.h" "study.exe" "study.cpp" "study" "string_to_double.cpp" "sig_receive.cpp" "regex.cpp" "read_matrix.cpp" "poly.cpp" "plotwavegide/" "nice.exe" "my_code/" "mynamespace.h" "mynamespace.cpp" "mygnuplot.h" "mygnuplot.cpp" "mpi/" "Makefile" "iospeed.cpp" "gnuplotter/" "gadget/" "CMakeFiles/" "cmake-gui.exe.stackdump" "cgal/" "a.exe" ".directory" ".clang_complete" "../" "./")
+ ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/el-get-init-files/" (22861 57057 0 0) "org-mode-demo.png" "init-ycmd.elc" "init-ycmd.el" "init-yasnippet.elc" "init-yasnippet.el" "init-xcscope.elc" "init-xcscope.el" "init-window-numbering.elc" "init-window-numbering.el" "init-vimish-fold.elc" "init-vimish-fold.el" "init-swiper.elc" "init-swiper.el" "init-sqlup-mode.elc" "init-sqlup-mode.el" "init-spaceline.elc" "init-spaceline.el" "init-smex.elc" "init-smex.el" "init-smartparens.elc" "init-smartparens.el" "init-powerline-bak.el" "init-popwin.elc" "init-popwin.el" "init-langtool.elc" "init-langtool.el" "init-irony.elc" "init-irony.el" "init-ido-vertical-mode.elc" "init-ido-vertical-mode.el" "init-helm.elc" "init-helm.el" "init-helm-swoop.elc" "init-helm-swoop.el" "init-helm-bibtex.elc" "init-helm-bibtex.el" "init-gnuplot-mode.elc" "init-gnuplot-mode.el" "init-flycheck.elc" "init-flycheck.el" "init-flx-ido.elc" "init-flx-ido.el" "init-elpy.elc" "init-elpy.el" "init-ein.elc" "init-ein.el" "init-company.elc" "init-company.el" "init-company-ycmd.elc" "init-company-ycmd.el" "init-company-irony.elc" "init-company-irony.el" "init-clang-format.elc" "init-clang-format.el" "init-chinese-fonts-setup.elc" "init-chinese-fonts-setup.el" "init-avy.elc" "init-avy.el" "init-auto-complete.elc" "init-auto-complete.el" "init-auto-compile.elc" "init-auto-compile.el" "flycheck_init-company.el" ".#init-chinese-fonts-setup.el" "#init-chinese-fonts-setup.el#" "../" "./")
 
- ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/el-get-init-files/" (22861 53019 0 0) "org-mode-demo.png" "init-ycmd.elc" "init-ycmd.el" "init-yasnippet.elc" "init-yasnippet.el" "init-xcscope.elc" "init-xcscope.el" "init-window-numbering.elc" "init-window-numbering.el" "init-vimish-fold.elc" "init-vimish-fold.el" "init-swiper.elc" "init-swiper.el" "init-sqlup-mode.elc" "init-sqlup-mode.el" "init-spaceline.elc" "init-spaceline.el" "init-smex.elc" "init-smex.el" "init-smartparens.elc" "init-smartparens.el" "init-powerline-bak.el" "init-popwin.elc" "init-popwin.el" "init-langtool.elc" "init-langtool.el" "init-irony.elc" "init-irony.el" "init-ido-vertical-mode.elc" "init-ido-vertical-mode.el" "init-helm.elc" "init-helm.el" "init-helm-swoop.elc" "init-helm-swoop.el" "init-helm-bibtex.elc" "init-helm-bibtex.el" "init-gnuplot-mode.elc" "init-gnuplot-mode.el" "init-flycheck.elc" "init-flycheck.el" "init-flx-ido.elc" "init-flx-ido.el" "init-elpy.elc" "init-elpy.el" "init-ein.elc" "init-ein.el" "init-company.elc" "init-company.el" "init-company-ycmd.elc" "init-company-ycmd.el" "init-company-irony.elc" "init-company-irony.el" "init-clang-format.elc" "init-clang-format.el" "init-chinese-fonts-setup.elc" "init-chinese-fonts-setup.el" "init-avy.elc" "init-avy.el" "init-auto-complete.elc" "init-auto-complete.el" "init-auto-compile.elc" "init-auto-compile.el" ".#init-chinese-fonts-setup.el" "#init-chinese-fonts-setup.el#" "../" "./")
+ ("d:/Documents/LinuxHome/zzsweet/src/cfamily/cpp_study/" (22861 56113 0 0) "waveguide/" "travelling wave solver/" "test.cpp" "study.h" "study.exe" "study.cpp" "study" "string_to_double.cpp" "sig_receive.cpp" "regex.cpp" "read_matrix.cpp" "poly.cpp" "plotwavegide/" "nice.exe" "my_code/" "mynamespace.h" "mynamespace.cpp" "mygnuplot.h" "mygnuplot.cpp" "mpi/" "Makefile" "iospeed.cpp" "gnuplotter/" "gadget/" "CMakeFiles/" "cmake-gui.exe.stackdump" "cgal/" "a.exe" ".directory" ".clang_complete" ".#study.cpp" "#study.cpp#" "../" "./")
+
+ ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/" (22861 54364 0 0) "tex-setup.el" "org-setup.el" "math-setup.el" "keybindings.el" "fzby" "functions.el" "flycheck_basic.el" "elpy.el" "el-get-user-recipes/" "el-get-init-files/" "cdlatex.el" "basic.el" "base.el" "appearance-setup.el" "#basic.el#" "../" "./")
+
+ ("d:/Documents/LinuxHome/zzsweet/src/cjsc/python/" (22861 50663 0 0) "yield/" "wind_data/" "testWind.py" "similar.py" "newtonRaphson/" "lstm/" "kpca-svr/" "boosting/" "../" "./")
+
+ ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/server/" (22861 53228 0 0) "Testing/" "test/" "src/" "server" "docs/" "DartConfiguration.tcl" "CMakeFiles/" "CMakeCache.txt" "../" "./")
+
+ ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/" (22861 53174 0 0) "tutorial/" "themes/" "snippets/" "smex-items" "server/" "recentf" "README.md" "network-security.data" "irony/" "init.el" "ido.last~" "ido.last" "helm-doc.org" "eshell/" "elpa/" "el-get/" "dict/" "desktops/" "core/" "chinese-fonts-setup/" "auto-save-list/" "ac-comphist.dat" ".org-id-locations" ".mc-lists.el" ".gitignore" ".git/" ".emacs.desktop" ".debris/" "../" "./")
+
+ ("d:/ycmd/" (22861 53119 0 0) "ycmd-build/" "../" "./")
+
+ ("d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/cuda_by_example/chapter03/" (22861 52109 0 0) "simple_kernel_params.cu" "simple_kernel.lib" "simple_kernel.exp" "simple_kernel.exe" "simple_kernel.cu" "simple_device_call.cu" "set_gpu.cu" "hello_world.lib" "hello_world.exp" "hello_world.exe" "hello_world.cu" "enum_gpu.cu" "a.lib" "a.exp" "a.exe" "../" "./")
 
  ("d:/ycmd/ycmd/tests/clang/" (22861 51695 0 0) "__init__.py" "testdata/" "subcommands_test.py" "get_completions_test.py" "flags_test.py" "diagnostics_test.py" "debug_info_test.py" "comment_strip_test.py" "../" "./")
 
@@ -327,16 +339,6 @@
 
  ("d:/ycmd/ycmd/" (22861 5892 0 0) "__main__.py" "__init__.py" "wsgi_server.py" "watchdog_plugin.py" "utils.py" "user_options_store.py" "tests/" "server_utils.py" "server_state.py" "responses.py" "request_wrap.py" "request_validation.py" "identifier_utils.py" "hmac_utils.py" "hmac_plugin.py" "handlers.py" "extra_conf_store.py" "default_settings.json" "completers/" "bottle_utils.py" "../" "./")
 
- ("d:/ycmd/" (22861 51504 0 0) "ycm_core.pyd" "ycmd/" "vagrant_bootstrap.sh" "Vagrantfile" "update_boost.py" "tox.ini" "third_party/" "test_requirements.txt" "TESTS.md" "style_format.sh" "run_tests.py" "README.md" "PYTHON_USED_DURING_BUILDING" "libclang.dll" "examples/" "DEV_SETUP.md" "cpp/" "CORE_VERSION" "COPYING.txt" "CONTRIBUTING.md" "CODE_OF_CONDUCT.md" "codecov.yml" "clang_includes/" "clang_archives/" "ci/" "build.py" "benchmark.py" "appveyor.yml" ".travis.yml" ".gitmodules" ".gitignore" ".git/" ".coveragerc" "../" "./")
-
- ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/" (22861 50361 0 0) "ycmd/" "tutorial/" "themes/" "snippets/" "smex-items" "server/" "recentf" "README.md" "network-security.data" "irony/" "init.el" "ido.last~" "ido.last" "helm-doc.org" "eshell/" "elpa/" "el-get/" "dict/" "desktops/" "core/" "chinese-fonts-setup/" "auto-save-list/" "ac-comphist.dat" ".org-id-locations" ".mc-lists.el" ".gitignore" ".git/" ".emacs.desktop" ".debris/" "../" "./")
-
- ("d:/Documents/LinuxHome/zzsweet/src/cjsc/python/" (22859 33907 0 0) "yield/" "wind_data/" "testWind.py" "similar.py" "newtonRaphson/" "lstm/" "kpca-svr/" "boosting/" "../" "./")
-
- ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/server/" (22861 48639 0 0) "Testing/" "test/" "src/" "server" "docs/" "DartConfiguration.tcl" "CMakeFiles/" "CMakeCache.txt" "../" "./")
-
- ("d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/cuda_by_example/chapter03/" (22861 11444 0 0) "simple_kernel_params.cu" "simple_kernel.cu" "simple_device_call.cu" "set_gpu.cu" "hello_world.lib" "hello_world.exp" "hello_world.exe" "hello_world.cu" "enum_gpu.cu" "a.lib" "a.exp" "a.exe" "../" "./")
-
  ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/ycmd/cpp/ycm/" (22861 49858 0 0) "ycm_core.cpp" "versioning.h" "versioning.cpp" "Utils.h" "Utils.cpp" "tests/" "Result.h" "Result.cpp" "ReleaseGil.h" "PythonSupport.h" "PythonSupport.cpp" "LetterNodeListMap.h" "LetterNodeListMap.cpp" "LetterNode.h" "LetterNode.cpp" "IdentifierUtils.h" "IdentifierUtils.cpp" "IdentifierDatabase.h" "IdentifierDatabase.cpp" "IdentifierCompleter.h" "IdentifierCompleter.cpp" "exceptions.h" "DLLDefines.h" "CMakeLists.txt" "ClangCompleter/" "CandidateRepository.h" "CandidateRepository.cpp" "Candidate.h" "Candidate.cpp" "benchmarks/" ".ycm_extra_conf.py" "../" "./")
 
  ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/ycmd/cpp/" (22861 49774 0 0) "ycm/" "llvm/" "CMakeLists.txt" "BoostParts/" "../" "./")
@@ -344,8 +346,6 @@
  ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/ycmd/" (22861 49835 0 0) "ycm_core.pyd" "ycmd/" "vagrant_bootstrap.sh" "Vagrantfile" "update_boost.py" "tox.ini" "third_party/" "test_requirements.txt" "TESTS.md" "style_format.sh" "run_tests.py" "README.md" "PYTHON_USED_DURING_BUILDING" "libclang.dll" "examples/" "DEV_SETUP.md" "cpp/" "CORE_VERSION" "COPYING.txt" "CONTRIBUTING.md" "CODE_OF_CONDUCT.md" "codecov.yml" "clang_includes/" "clang_archives/" "ci/" "build.py" "benchmark.py" "appveyor.yml" ".travis.yml" ".gitmodules" ".gitignore" ".git/" ".coveragerc" "../" "./")
 
  ("c:/Users/zhuzh/AppData/Roaming/" (22861 48649 0 0) "ZXBQM112X4.DLL" "Zotero/" "vstelemetry/" "Visual Studio Setup/" "TortoiseSVN/" "Thunderbird/" "Tencent/" "Subversion/" "SPlayer/" "shoujizhushou/" "Red Alert 3/" "qeG1W.AMo" "PLSQL Developer/" "pip/" "NVIDIA Corporation/" "NVIDIA/" "Notepad++/" "Mozilla/" "Microsoft/" "Macromedia/" "ksoftmgr/" "KSafe/" "Kingsoft/" "jupyter/" "Jedi/" "HaoZip/" "FoxitReaderPlus/" "Foxit UserSystemSDK/" "Foxit Software/" "Foxit AgentInformation/" "dg/" "BluestacksCN/" "BingDict/" "AliWangWang/" "alipay/" "Adobe/" ".saves/" ".matplotlib/" ".keras/" ".ipython/" ".emacs.d/" "../" "./")
-
- ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/" (22861 4496 0 0) "tex-setup.el" "org-setup.el" "math-setup.el" "keybindings.el" "fzby" "functions.el" "elpy.el" "el-get-user-recipes/" "el-get-init-files/" "cdlatex.el" "basic.el" "base.el" "appearance-setup.el" "#basic.el#" "../" "./")
 
  ("d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/cuda_by_example/common/" (21401 56340 0 0) "gpu_anim.h" "gl_helper.h" "GL/" "cpu_bitmap.h" "cpu_anim.h" "book.h" "../" "./")
 
