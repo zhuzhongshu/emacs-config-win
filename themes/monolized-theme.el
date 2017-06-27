@@ -3100,6 +3100,16 @@ Takes and optional `FRAME' as reference."
      `(slime-repl-inputed-output-face
        ((,class (:foreground ,red))))
 
+     ;;spaceline
+
+     
+     `(spaceline-flycheck-error
+       ((,class (:foreground ,red))))
+     `(spaceline-flycheck-warning
+       ((,class (:foreground ,yellow))))
+     `(spaceline-flycheck-info
+       ((,class (:foreground ,blue))))
+     
      ;; speedbar
      `(speedbar-button-face
        ((,class (:inherit ,s-variable-pitch
