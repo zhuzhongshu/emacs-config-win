@@ -3,6 +3,7 @@
 (setq powerline-default-separator "wave")
 (setq spaceline-window-numbers-unicode nil)
 (setq spaceline-workspace-numbers-unicode nil)
+(setq spaceline-minor-modes-separator "-")
 (spaceline-spacemacs-theme)
 (spaceline-helm-mode)
 ;; (defun window-numbering-install-mode-line (&optional position)

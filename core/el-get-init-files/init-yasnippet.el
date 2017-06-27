@@ -16,7 +16,11 @@
   (define-key yas-minor-mode-map (kbd "M-<tab>") 'yas-expand)
   (define-key yas-keymap (kbd "M-<tab>") 'yas-next-field-or-maybe-expand)))
 
-(setq yas-snippet-dirs "~/.emacs.d/snippets")
+(cond
+ ((eq system-type 'windows-nt)
+  (setq yas-snippet-dirs (concat my-home-dir "\\.emacs.d\\snippets")))
+ ((eq system-type 'gnu/linux)
+  (setq yas-snippet-dirs ("~/.emacs.d/snippets"))))
 
 (provide 'init-yasnippet)
 ;;; init-yasnippet.el ends here

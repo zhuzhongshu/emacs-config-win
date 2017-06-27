@@ -24,7 +24,9 @@
         "*TODO %?\n创建于： %U\n  %i\n  %a":clock-in t :clock-resume t)))
 ;;=======================================================
 ;;TODO
+;; 可以用中文关键词
 (setq org-todo-keywords '((sequence "TODO" "DOING" "VERIFY" "|" "DONE" "DELEGATED")))
+
 (setq org-log-done 'note);;TODO 设置成完成时，会提示输入批注
 (setq org-startup-indented t)
 ;;=======================================================

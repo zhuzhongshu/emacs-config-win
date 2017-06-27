@@ -108,13 +108,11 @@
 
 ;;设置eshell 中输入clear命令清屏
 (defun eshell-clear ()
-  "Clears the shell buffer ala Unix's clear or DOS' cls"
+  "Clear terminal"
   (interactive)
-  ;; the shell prompts are read-only, so clear that for the duration
   (let ((inhibit-read-only t))
-    ;; simply delete the region
-    (delete-region (point-min) (point-max))))
-
+    (erase-buffer)
+    (eshell-send-input)))
 (defun clear-shell ()
   "\\C-\\l清屏函数."
   (interactive)
