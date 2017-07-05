@@ -5,7 +5,7 @@
 
 ;;============================================================================================================
 ;;                                             =========
-(desktop-save-mode 1)
+
 ;;============================================================================================================
 ;; (setq explicit-shell-file-name "C:/msys64/usr/bin/zsh.exe") 
 
@@ -16,7 +16,7 @@
  ((eq system-type 'windows-nt)
   (setq explicit-shell-file-name "C:/msys64/usr/bin/bash.exe"))
  ((eq system-type 'gnu/linux)
-  (setq explicit-shell-file-name "/bin/bash")))
+  (setq explicit-shell-file-name "/bin/zsh")))
 
 
 

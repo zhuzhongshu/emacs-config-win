@@ -203,7 +203,8 @@
   (interactive
    (list
     (read-string "Customized buffer name: ")))
-  (eshell)
+  (multi-term)
+  (company-mode -1)
   (if (> (length bufname) 0)
       (rename-buffer (concat "*eshell-" bufname "*") t)));;如果bufname已经存在，则自动在名称后面加上<number>用以区分
   

@@ -8,9 +8,9 @@
 (setq cfs-profiles
     '("program" "org-mode" "read-book"))
 
-(setq cfs--profiles-steps '(("program" . 7)
-                            ("org-mode" . 7)
-                            ("read-book" . 7)))
+(setq cfs--profiles-steps '(("program" . 9)
+                            ("org-mode" . 8)
+                            ("read-book" . 8)))
 
 (setq-default line-spacing 0.1)
 ;;下面是自动设置line-spacing的代码

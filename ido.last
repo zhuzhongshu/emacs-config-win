@@ -2,6 +2,18 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/run/media/simplex/臭宝的神奇口袋/Documents/LinuxHome/zzsweet/src/cfamily/" . "cpp_study/")
+ ("/run/media/simplex/臭宝的神奇口袋/Documents/LinuxHome/zzsweet/src/python/" . "auto-diff/")
+ ("/run/media/simplex/臭宝的神奇口袋/Documents/LinuxHome/zzsweet/src/org/" . "notes/")
+ ("/run/media/simplex/臭宝的神奇口袋/Documents/LinuxHome/zzsweet/src/" . "cfamily/")
+ ("/run/media/simplex/臭宝的神奇口袋/Documents/LinuxHome/zzsweet/" . "src/")
+ ("/run/media/simplex/臭宝的神奇口袋/Documents/LinuxHome/" . "zzsweet/")
+ ("/run/media/simplex/臭宝的神奇口袋/Documents/" . "LinuxHome/")
+ ("/run/media/simplex/臭宝的神奇口袋/" . "Documents/")
+ ("/run/media/simplex/" . "臭宝的神奇口袋/")
+ ("/run/media/" . "simplex/")
+ ("/run/" . "media/")
+ ("/home/simplex/.emacs.d/chinese-fonts-setup/" . "v4/")
  ("d:/Documents/LinuxHome/.emacs.d/lisp/" . "_emacs/")
  ("d:/Documents/LinuxHome/.emacs.d/" . "lisp/")
  ("d:/ycmd/ycmd/tests/clang/" . "testdata/")
@@ -44,7 +56,7 @@
  ("c:/cygwin64/" . "home/")
  ("d:/Documents/LinuxHome/zzsweet/src/python/ML/DL/neural-network-from-scratch/" . "figures/")
  ("d:/Documents/LinuxHome/zzsweet/src/cfamily/IFD4-BPM/" . "src/")
- ("d:/Documents/LinuxHome/zzsweet/src/cfamily/" . "cuda/")
+ ("d:/Documents/LinuxHome/zzsweet/src/cfamily/" . "wgms/")
  ("d:/Documents/LinuxHome/zzsweet/src/python/ML/DL/library-src/cgt/" . "cgt/")
  ("d:/Documents/LinuxHome/zzsweet/src/org/notes/" . "data/")
  ("d:/desktop/org-spec-master/" . "CSS for Org-exported HTML_files/")
@@ -134,8 +146,8 @@
  ("/home/simplex/zzsweet/src/thesis/manuscript/" . "texfile/")
  ("/home/simplex/zzsweet/src/thesis/" . "manuscript/")
  ("/home/simplex/zzsweet/src/" . "python/")
- ("/home/simplex/.emacs.d/" . "el-get/")
- ("/home/simplex/" . "scikit-learn/")
+ ("/home/simplex/.emacs.d/" . "core/")
+ ("/home/simplex/" . ".emacs.d/")
  ("/home/yqyzzs/.emacs.d/elpa/" . "multi-term-20150220.1320/")
  ("/home/yqyzzs/.emacs.d/ycmd/cpp/" . "ycm/")
  ("/home/yqyzzs/.emacs.d/ycmd/" . "cpp/")
@@ -210,7 +222,7 @@
  ("/home/zzs/zzsweet/src/tex/isolator/manuscript/oe/" . "revision/")
  ("/home/zzs/zzsweet/src/tex/soa/jlt/" . "IEEEtran/")
  ("/etc/" . "default/")
- ("/" . "home/")
+ ("/" . "run/")
  ("/home/zzs/zzsweet/src/tex/isolator/pic/plotsrc/Data/" . "TEin/")
  ("/home/zzs/zzsweet/src/tex/single-mode-laser/apl-correction/" . "upload/")
  ("/home/zzs/zzsweet/src/job/soa/waveguide/" . "src/")
@@ -247,25 +259,33 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/run/media/simplex/臭宝的神奇口袋/Documents/LinuxHome/zzsweet/src/cfamily/cpp_study/"
+ "/home/simplex/"
+ "/home/simplex/.emacs.d/core/el-get-init-files/"
+ "/home/simplex/.emacs.d/core/"
+ "/run/media/simplex/臭宝的神奇口袋/Documents/LinuxHome/zzsweet/src/python/auto-diff/"
+ "/run/media/simplex/臭宝的神奇口袋/Documents/LinuxHome/zzsweet/src/org/notes/"
+ "/home/simplex/.emacs.d/chinese-fonts-setup/v4/"
  "c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/"
  "c:/Users/zhuzh/AppData/Roaming/.emacs.d/"
+ "d:/Documents/LinuxHome/zzsweet/src/cfamily/wgms/"
  "c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/el-get-init-files/"
- "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/cuda_by_example/chapter05/"
  "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/"
+ "c:/Users/zhuzh/AppData/Roaming/.emacs.d/elpa/spaceline-20170102.59/"
+ "c:/Users/zhuzh/AppData/Roaming/.emacs.d/themes/"
+ "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/cuda_by_example/chapter05/"
+ "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/cuda_by_example/chapter03/"
  "d:/Documents/LinuxHome/zzsweet/src/cfamily/cpp_study/"
  "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/cuda_by_example/chapter04/"
  "d:/Documents/LinuxHome/zzsweet/src/org/notes/"
  "d:/Documents/LinuxHome/zzsweet/src/cfamily/"
- "c:/Users/zhuzh/AppData/Roaming/.emacs.d/elpa/spaceline-20170102.59/"
  "d:/Documents/LinuxHome/.emacs.d/lisp/_emacs/"
- "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/cuda_by_example/chapter03/"
  "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/cuda_by_example/common/"
  "d:/ycmd/ycmd/tests/clang/"
  "d:/ycmd/ycmd/tests/clang/testdata/"
  "d:/ycmd/"
  "c:/Users/zhuzh/AppData/Roaming/.emacs.d/ycmd/cpp/ycm/"
  "c:/Users/zhuzh/AppData/Roaming/.emacs.d/server/"
- "c:/Users/zhuzh/AppData/Roaming/.emacs.d/themes/"
  "c:/Users/zhuzh/AppData/Roaming/.emacs.d/elpa/irony-20170427.1601/server/"
  "d:/Documents/LinuxHome/zzsweet/src/python/"
  "c:/msys64/home/simplex/"
@@ -289,45 +309,87 @@
  "d:/Documents/LinuxHome/zzsweet/src/python/stastistics/"
  "d:/Documents/LinuxHome/zzsweet/src/python/optimize/"
  "c:/msys64/home/simplex/.emacs.d/core/el-get-init-files/"
- "d:/Documents/LinuxHome/zzsweet/src/python/sample/"
- "d:/Documents/LinuxHome/zzsweet/src/org/notes/data/"
- "c:/msys64/home/simplex/.pip/"
- "d:/Documents/LinuxHome/zzsweet/src/python/ML/pca/"
- "c:/Users/simplex/AppData/Roaming/.emacs.d/core/el-get-init-files/"
- "c:/msys64/home/simplex/.emacs.d/themes/"
- "c:/msys64/home/simplex/mintty-colors-solarized/"
- "c:/msys64/etc/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "basic.el"
- "init.el"
- "org-setup.el"
- "init-clang-format.el"
- "ripple.cu"
- "matadd.cu"
  "study.cpp"
- "julia_gpu.cu"
- "add_loop_long_blocks.cu"
- "todo.html"
+ ".bashrc"
+ ".zshrc"
+ "init-yasnippet.el"
+ "init-elpy.el"
+ "basic.el"
+ "adjoint.py"
+ "todo.org"
+ "init-chinese-fonts-setup.el"
+ "program.el"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/" (22865 46326 0 0) "tutorial/" "themes/" "snippets/" "smex-items" "server/" "recentf" "README.md" "network-security.data" "irony/" "init.el" "ido.last~" "ido.last" "helm-doc.org" "eshell/" "elpa/" "el-get/" "dict/" "desktops/" "core/" "chinese-fonts-setup/" "auto-save-list/" "ac-comphist.dat" ".org-id-locations" ".mc-lists.el" ".gitignore" ".git/" ".emacs.desktop" ".debris/" "../" "./")
+ ("/run/media/simplex/臭宝的神奇口袋/Documents/LinuxHome/zzsweet/src/cfamily/cpp_study/" (22867 15981 876161 300000) "waveguide/" "travelling wave solver/" "test.cpp" "study.h" "study.exe" "study.cpp" "study" "string_to_double.cpp" "sig_receive.cpp" "regex.cpp" "read_matrix.cpp" "poly.cpp" "plotwavegide/" "nice.exe" "my_code/" "mynamespace.h" "mynamespace.cpp" "mygnuplot.h" "mygnuplot.cpp" "mpi/" "Makefile" "iospeed.cpp" "gnuplotter/" "gadget/" "CMakeFiles/" "cmake-gui.exe.stackdump" "cgal/" "a.exe" ".directory" ".clang_complete" "../" "./")
 
- ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/server/" (22865 46196 0 0) "Testing/" "test/" "src/" "server" "docs/" "DartConfiguration.tcl" "CMakeFiles/" "CMakeCache.txt" "../" "./")
+ ("/run/media/simplex/臭宝的神奇口袋/Documents/LinuxHome/zzsweet/src/cfamily/" (22864 23129 738507 800000) "wgms/" "tlpi-dist/" "Numerical Recipes in C++ 2nd Source Code.rar" "Numerical recipes/" "NR_C301/" "newBPM/" "lpic-1.3.2/" "IFD4-BPM-old/" "IFD4-BPM/" "fzby.cpp" "device_info.cu" "cuda/" "cpp_study/" "compile/" "C++Primer/" "../" "./")
 
- ("d:/Documents/LinuxHome/zzsweet/src/org/notes/" (22865 46134 0 0) "高斯过程与贝叶斯方法.org" "自动微分.org" "自动微分.html" "算法杂记-自动微分简介.tex" "算法杂记-自动微分简介.pdf" "算法杂记-优化方法.tex" "算法杂记-优化方法.pdf" "算法杂记-SVD和PCA.tex" "算法杂记-SVD和PCA.pdf" "混合模型与EM算法.org" "混合模型与EM算法.html" "机器学习选股.org" "机器学习选股.fdb_latexmk" "图论.org" "优化方法.org" "优化方法.html" "todo.txt" "todo.org_archive" "todo.org" "todo.html" "Tensorflow笔记.org" "sql.tex" "sql.pdf" "sql.org" "Simplex.cls" "scratch.org" "RNN与LSTM.org" "reading.org" "reading.html" "pythonLibrary.tex" "pythonLibrary.pdf" "pythonLibrary.org" "org.css" "org-mode小技巧.org" "NewtonRaphson_TF.py" "Monte_Carlo.org" "MLAPP笔记-贝叶斯决策论与频率决策论.tex" "MLAPP笔记-混合模型与EM算法.tex" "MLAPP笔记-混合模型与EM算法.pdf" "MLAPP笔记-朴素贝叶斯.tex" "MLAPP笔记-有向图模型.tex" "MLAPP笔记-有向图模型.pdf" "MLAPP笔记-MC算法.tex" "MLAPP笔记-Adaptive_basis_function_models.tex" "MLAPP笔记-Adaptive_basis_function_models.pdf" "fig/" "data/" "convex_optimization.org" "auto/" ".#todo.org" "../" "./")
+ ("/run/media/simplex/臭宝的神奇口袋/" (22871 1999 428032 600000) "迅雷下载/" "视频/" "网盘资源/" "下载/" "System Volume Information/" "Pic/" "Documents/" "desktop/" "BaiduNetdiskDownload/" "app/" "$RECYCLE.BIN/" "../" "./")
 
- ("d:/Documents/LinuxHome/zzsweet/src/cfamily/cpp_study/" (22865 45414 0 0) "waveguide/" "travelling wave solver/" "test.cpp" "study.h" "study.exe" "study.cpp" "study" "string_to_double.cpp" "sig_receive.cpp" "regex.cpp" "read_matrix.cpp" "poly.cpp" "plotwavegide/" "nice.exe" "my_code/" "mynamespace.h" "mynamespace.cpp" "mygnuplot.h" "mygnuplot.cpp" "mpi/" "Makefile" "iospeed.cpp" "gnuplotter/" "gadget/" "CMakeFiles/" "cmake-gui.exe.stackdump" "cgal/" "a.exe" ".directory" ".clang_complete" "../" "./")
+ ("/run/media/simplex/" (22871 11044 591219 160000) "臭宝的神奇口袋/" "晨光说正事专用/" "../" "./")
 
- ("d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/" (22865 45568 0 0) "test.lib" "test.exp" "test.exe" "test.cu" "mytest.lib" "mytest.exp" "mytest.exe" "mytest.cu" "device_info.lib" "device_info.exp" "device_info.exe" "device_info.cu" "cuda_by_example/" "../" "./")
+ ("/run/media/" (22871 11043 284550 769000) "simplex/" "../" "./")
 
- ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/el-get-init-files/" (22865 46180 0 0) "org-mode-demo.png" "init-ycmd.elc" "init-ycmd.el" "init-yasnippet.elc" "init-yasnippet.el" "init-xcscope.elc" "init-xcscope.el" "init-window-numbering.elc" "init-window-numbering.el" "init-vimish-fold.elc" "init-vimish-fold.el" "init-swiper.elc" "init-swiper.el" "init-sqlup-mode.elc" "init-sqlup-mode.el" "init-spaceline.elc" "init-spaceline.el" "init-smex.elc" "init-smex.el" "init-smartparens.elc" "init-smartparens.el" "init-powerline-bak.el" "init-popwin.elc" "init-popwin.el" "init-langtool.elc" "init-langtool.el" "init-irony.elc" "init-irony.el" "init-ido-vertical-mode.elc" "init-ido-vertical-mode.el" "init-helm.elc" "init-helm.el" "init-helm-swoop.elc" "init-helm-swoop.el" "init-helm-bibtex.elc" "init-helm-bibtex.el" "init-gnuplot-mode.elc" "init-gnuplot-mode.el" "init-flycheck.elc" "init-flycheck.el" "init-flx-ido.elc" "init-flx-ido.el" "init-elpy.elc" "init-elpy.el" "init-ein.elc" "init-ein.el" "init-company.elc" "init-company.el" "init-company-ycmd.elc" "init-company-ycmd.el" "init-company-irony.elc" "init-company-irony.el" "init-clang-format.elc" "init-clang-format.el" "init-chinese-fonts-setup.elc" "init-chinese-fonts-setup.el" "init-avy.elc" "init-avy.el" "init-auto-complete.elc" "init-auto-complete.el" "init-auto-compile.elc" "init-auto-compile.el" ".#init-chinese-fonts-setup.el" "#init-chinese-fonts-setup.el#" "../" "./")
+ ("/run/mysqld/" (22871 4829 816666 853000) "../" "./")
 
- ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/" (22865 44138 0 0) "tex-setup.el" "org-setup.el" "math-setup.el" "keybindings.el" "fzby" "functions.el" "elpy.el" "el-get-user-recipes/" "el-get-init-files/" "cdlatex.el" "basic.el" "base.el" "appearance-setup.el" "#basic.el#" "../" "./")
+ ("/run/" (22871 11043 284550 769000) "initramfs/" "mount/" "tmpfiles.d/" "udev/" "systemd/" "dmeventd-server" "dmeventd-client" "lvm/" "log/" "lock/" "lirc/" "mysqld/" "mpd/" "nscd/" "openvpn-client/" "openvpn-server/" "samba/" "sudo/" "svnserve/" "user/" "utmp" "tlp/" "dbus/" "cups/" "avahi-daemon/" "crond.pid" "cron.reboot" "NetworkManager/" "bumblebee.socket" "sddm/" "dhclient-enp4s0.pid" "resolvconf/" "udisks2/" "media/" "../" "./")
+
+ ("/home/simplex/.emacs.d/core/el-get-init-files/" (22871 11010 931174 616000) "init-smex.el" "init-chinese-fonts-setup.elc" "init-smartparens.el" "init-sqlup-mode.elc" "init-flycheck-irony.elc" "init-helm.el" "init-ido-vertical-mode.el" "init-xcscope.el" "init-ein.elc" "init-ido-vertical-mode.elc" "init-company-ycmd.el" "init-helm.elc" "init-auto-compile.elc" "init-swiper.elc" "./" "init-ycmd.elc" "init-company-ycmd.elc" "init-vimish-fold.elc" "init-smartparens.elc" "init-vimish-fold.el" "init-company.el" "init-gnuplot-mode.elc" "init-smex.elc" "init-window-numbering.el" "init-langtool.elc" "init-gnuplot-mode.el" "init-chinese-fonts-setup.el" "init-spaceline.elc" "init-langtool.el" "../" "init-avy.el" "init-powerline-bak.el" "init-flycheck-irony.el" "init-company-irony.elc" "init-sqlup-mode.el" "init-yasnippet.elc" "init-helm-swoop.el" "init-elpy.elc" "init-swiper.el" "init-helm-bibtex.el" "init-auto-complete.el" "init-xcscope.elc" "init-flycheck.el" "init-irony.el" "init-helm-swoop.elc" "init-helm-bibtex.elc" "init-ein.el" "init-elpy.el" "init-clang-format.elc" "init-auto-compile.el" "init-yasnippet.el" "init-flx-ido.elc" "init-company.elc" "init-irony.elc" "org-mode-demo.png" "init-avy.elc" "init-window-numbering.elc" "init-spaceline.el" "init-flx-ido.el" "init-popwin.el" "init-clang-format.el" "init-flycheck.elc" "init-company-irony.el" "init-popwin.elc" "init-ycmd.el" "init-auto-complete.elc")
+
+ ("/home/simplex/" (22871 9540 105018 821000) ".emacs.d/" "模板/" ".zcompdump-simplex-pc-5.3.1" ".cache/" "./" ".config/" ".Xclients" "下载/" ".directory" ".conda/" ".face.icon" ".xprofile" ".zsh_history" ".fonts.conf" ".bash_history" ".Xauthority" ".Xresources" ".gtkrc-2.0" "视频/" "音乐/" ".gtkrc-2.0-kde4" "../" ".xinitrc" ".pip/" ".dir_colors" ".wine/" ".sogouinput/" "ycmd/" ".fonts/" ".local/" ".mozilla/" "图片/" ".oh-my-zsh/" ".zshrc" ".bash_logout" ".extend.xinitrc" "公共/" ".zshrc.pre-oh-my-zsh" ".dbus/" ".bash_profile" ".saves/" ".bashrc" ".xsession" ".profile" ".kde4/" ".zsh-update" ".face" "桌面/" "文档/" ".esd_auth" ".ipython/" ".gnupg/")
+
+ ("/home/simplex/.emacs.d/" (22871 9207 283826 667000) "themes/" "server/" ".git/" "core/" "eshell/" ".mc-lists.el" "ido.last" "./" "smex-items" "network-security.data" "desktops/" "helm-doc.org" "ido.last~" "el-get/" ".gitignore" "elpa/" "auto-save-list/" "init.el" "../" "chinese-fonts-setup/" ".emacs.desktop" "dict/" "README.md" ".org-id-locations" "recentf" ".emacs.desktop.lock" "snippets/" "tutorial/" "ac-comphist.dat" "irony/" ".debris/")
+
+ ("/home/simplex/.emacs.d/core/" (22871 9208 173830 660000) "basic.el" "#basic.el#" "./" "fzby" "cdlatex.el" "functions.el" "elpy.el" "base.el" "../" "el-get-init-files/" "appearance-setup.el" "el-get-user-recipes/" "math-setup.el" "tex-setup.el" "org-setup.el" "keybindings.el")
+
+ ("/run/media/simplex/臭宝的神奇口袋/Documents/LinuxHome/zzsweet/src/python/auto-diff/" (22851 12012 240585 200000) "tangent_linear_2.py" "tangent_linear.py" "adjoint.py" ".vscode/" "../" "./")
+
+ ("/run/media/simplex/臭宝的神奇口袋/Documents/LinuxHome/zzsweet/src/python/" (22859 12679 535777 900000) "__pycache__/" "testJedi.pyc" "testJedi.py" "test.npy" "stastistics/" "scratch_flymake.py" "scratch.py" "progressbar.py" "optimize/" "octave-workspace" "notebook/" "newtonRaphson.py" "MNIST_data/" "MLiA-src/" "ML/" "learning_python/" "industry_fillna.csv" "industry.csv" "graphs/" "fund_account1.txt" "func_account.csv" "auto-diff/" "algorithms/" "#testJedi.py#" "#newtonRaphson.py#" "../" "./")
+
+ ("/run/media/simplex/臭宝的神奇口袋/Documents/LinuxHome/zzsweet/src/org/notes/" (22870 4752 922684 100000) "高斯过程与贝叶斯方法.org" "自动微分.org" "自动微分.html" "算法杂记-自动微分简介.tex" "算法杂记-自动微分简介.pdf" "算法杂记-优化方法.tex" "算法杂记-优化方法.pdf" "算法杂记-SVD和PCA.tex" "算法杂记-SVD和PCA.pdf" "混合模型与EM算法.org" "混合模型与EM算法.html" "机器学习选股.org" "机器学习选股.fdb_latexmk" "图论.org" "优化方法.org" "优化方法.html" "todo.txt" "todo.org_archive" "todo.org" "todo.html" "Tensorflow笔记.org" "sql.tex" "sql.pdf" "sql.org" "Simplex.cls" "scratch.org" "RNN与LSTM.org" "reading.org" "reading.html" "pythonLibrary.tex" "pythonLibrary.org" "org.css" "org-mode小技巧.org" "NewtonRaphson_TF.py" "Monte_Carlo.org" "MLAPP笔记-贝叶斯决策论与频率决策论.tex" "MLAPP笔记-混合模型与EM算法.tex" "MLAPP笔记-混合模型与EM算法.pdf" "MLAPP笔记-朴素贝叶斯.tex" "MLAPP笔记-有向图模型.tex" "MLAPP笔记-有向图模型.pdf" "MLAPP笔记-MC算法.tex" "MLAPP笔记-Adaptive_basis_function_models.tex" "MLAPP笔记-Adaptive_basis_function_models.pdf" "fig/" "data/" "convex_optimization.org" "auto/" "pythonLibrary.pdf" "../" "./")
+
+ ("/run/media/simplex/臭宝的神奇口袋/Documents/LinuxHome/zzsweet/src/org/" (22851 11997 134126 0) "_minted-机器学习选股/" "_minted-todo/" "simplex.org" "notes/" "capture/" "auto/" ".directory" "#simplex.org#" "../" "./")
+
+ ("/run/media/simplex/臭宝的神奇口袋/Documents/LinuxHome/zzsweet/src/" (22851 12117 689300 400000) "thesis/" "tex/" "sql/" "shell/" "python/" "project/" "org/" "Numerical recipes/" "mfile/" "maxima/" "fzby.cpp~" "doc/" "cmake/" "cjsc/" "cfamily/" ".directory" "../" "./")
+
+ ("/run/media/simplex/臭宝的神奇口袋/Documents/LinuxHome/zzsweet/" (22851 11955 639905 500000) "src/" "SQLdata/" "desktop.ini" "bib.txt" ".octaverc" ".directory" ".debris/" "../" "./")
+
+ ("/run/media/simplex/臭宝的神奇口袋/Documents/LinuxHome/" (22851 11949 225846 200000) "zzsweet/" "zotero/" ".emacs.d/" "../" "./")
+
+ ("/run/media/simplex/臭宝的神奇口袋/Documents/" (22851 39918 827273 800000) "银行卡号&上网账号.txt" "当前设定.speeddial" "stardic/" "QQ/" "Potenza/" "LinuxHome/" "font/" "Doc/" "../" "./")
+
+ ("/home/simplex/.emacs.d/chinese-fonts-setup/v4/" (22870 30117 731615 441000) "./" "../" "program.el")
+
+ ("/home/simplex/.emacs.d/chinese-fonts-setup/" (22870 30032 691571 338000) "cfs.conf" "./" "../" "v4/")
+
+ ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/" (22868 19833 0 0) "tex-setup.el" "org-setup.el" "math-setup.el" "keybindings.el" "fzby" "functions.el" "elpy.el" "el-get-user-recipes/" "el-get-init-files/" "cdlatex.el" "basic.el" "base.el" "appearance-setup.el" "#basic.el#" "../" "./")
+
+ ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/" (22868 19254 0 0) "tutorial/" "themes/" "snippets/" "smex-items" "server/" "recentf" "README.md" "network-security.data" "irony/" "init.el" "ido.last~" "ido.last" "helm-doc.org" "eshell/" "elpa/" "el-get/" "dict/" "desktops/" "core/" "chinese-fonts-setup/" "auto-save-list/" "ac-comphist.dat" ".org-id-locations" ".mc-lists.el" ".gitignore" ".git/" ".emacs.desktop.lock" ".emacs.desktop" ".debris/" "../" "./")
+
+ ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/server/" (22868 19111 0 0) "Testing/" "test/" "src/" "server" "docs/" "DartConfiguration.tcl" "CMakeFiles/" "CMakeCache.txt" "../" "./")
+
+ ("d:/Documents/LinuxHome/zzsweet/src/cfamily/cpp_study/" (22867 15981 0 0) "waveguide/" "travelling wave solver/" "test.cpp" "study.h" "study.exe" "study.cpp" "study" "string_to_double.cpp" "sig_receive.cpp" "regex.cpp" "read_matrix.cpp" "poly.cpp" "plotwavegide/" "nice.exe" "my_code/" "mynamespace.h" "mynamespace.cpp" "mygnuplot.h" "mygnuplot.cpp" "mpi/" "Makefile" "iospeed.cpp" "gnuplotter/" "gadget/" "CMakeFiles/" "cmake-gui.exe.stackdump" "cgal/" "a.exe" ".directory" ".clang_complete" "../" "./")
+
+ ("d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/" (22867 20297 0 0) "thrust.lib" "thrust.exp" "thrust.exe" "thrust.cu" "test.lib" "test.exp" "test.exe" "test.cu" "mytest.lib" "mytest.exp" "mytest.exe" "mytest.cu" "matAdd.lib" "matAdd.exp" "matAdd.exe" "matAdd.cu" "device_info.lib" "device_info.exp" "device_info.exe" "device_info.cu" "cuda_by_example/" "../" "./")
+
+ ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/el-get-init-files/" (22867 16414 0 0) "org-mode-demo.png" "init-ycmd.elc" "init-ycmd.el" "init-yasnippet.elc" "init-yasnippet.el" "init-xcscope.elc" "init-xcscope.el" "init-window-numbering.elc" "init-window-numbering.el" "init-vimish-fold.elc" "init-vimish-fold.el" "init-swiper.elc" "init-swiper.el" "init-sqlup-mode.elc" "init-sqlup-mode.el" "init-spaceline.elc" "init-spaceline.el" "init-smex.elc" "init-smex.el" "init-smartparens.elc" "init-smartparens.el" "init-powerline-bak.el" "init-popwin.elc" "init-popwin.el" "init-langtool.elc" "init-langtool.el" "init-irony.elc" "init-irony.el" "init-ido-vertical-mode.elc" "init-ido-vertical-mode.el" "init-helm.elc" "init-helm.el" "init-helm-swoop.elc" "init-helm-swoop.el" "init-helm-bibtex.elc" "init-helm-bibtex.el" "init-gnuplot-mode.elc" "init-gnuplot-mode.el" "init-flycheck.elc" "init-flycheck.el" "init-flycheck-irony.elc" "init-flycheck-irony.el" "init-flx-ido.elc" "init-flx-ido.el" "init-elpy.elc" "init-elpy.el" "init-ein.elc" "init-ein.el" "init-company.elc" "init-company.el" "init-company-ycmd.elc" "init-company-ycmd.el" "init-company-irony.elc" "init-company-irony.el" "init-clang-format.elc" "init-clang-format.el" "init-chinese-fonts-setup.elc" "init-chinese-fonts-setup.el" "init-avy.elc" "init-avy.el" "init-auto-complete.elc" "init-auto-complete.el" "init-auto-compile.elc" "init-auto-compile.el" ".#init-chinese-fonts-setup.el" "#init-chinese-fonts-setup.el#" "../" "./")
+
+ ("d:/Documents/LinuxHome/zzsweet/src/cfamily/wgms/" (22851 11978 0 0) "wgms.hpp" "wgms.h" "parameter.h" "Makefile~" "Makefile" "main.cpp" "../" "./")
+
+ ("d:/Documents/LinuxHome/zzsweet/src/org/notes/" (22867 25771 0 0) "高斯过程与贝叶斯方法.org" "自动微分.org" "自动微分.html" "算法杂记-自动微分简介.tex" "算法杂记-自动微分简介.pdf" "算法杂记-优化方法.tex" "算法杂记-优化方法.pdf" "算法杂记-SVD和PCA.tex" "算法杂记-SVD和PCA.pdf" "混合模型与EM算法.org" "混合模型与EM算法.html" "机器学习选股.org" "机器学习选股.fdb_latexmk" "图论.org" "优化方法.org" "优化方法.html" "todo.txt" "todo.org_archive" "todo.org" "todo.html" "Tensorflow笔记.org" "sql.tex" "sql.pdf" "sql.org" "Simplex.cls" "scratch.org" "RNN与LSTM.org" "reading.org" "reading.html" "pythonLibrary.tex" "pythonLibrary.pdf" "pythonLibrary.org" "org.css" "org-mode小技巧.org" "NewtonRaphson_TF.py" "Monte_Carlo.org" "MLAPP笔记-贝叶斯决策论与频率决策论.tex" "MLAPP笔记-混合模型与EM算法.tex" "MLAPP笔记-混合模型与EM算法.pdf" "MLAPP笔记-朴素贝叶斯.tex" "MLAPP笔记-有向图模型.tex" "MLAPP笔记-有向图模型.pdf" "MLAPP笔记-MC算法.tex" "MLAPP笔记-Adaptive_basis_function_models.tex" "MLAPP笔记-Adaptive_basis_function_models.pdf" "fig/" "data/" "convex_optimization.org" "auto/" "../" "./")
+
+ ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/elpa/spaceline-20170102.59/" (22865 65372 0 0) "spaceline.elc" "spaceline.el" "spaceline-segments.elc" "spaceline-segments.el" "spaceline-pkg.el" "spaceline-config.elc" "spaceline-config.el" "spaceline-autoloads.el" "../" "./")
+
+ ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/themes/" (22866 1 0 0) "org.css" "monolized-theme.el" "gnome2-theme.el" "../" "./")
+
+ ("c:/Users/zhuzh/AppData/Roaming/" (22865 42355 0 0) "ZXBQM112X4.DLL" "Zotero/" "vstelemetry/" "Visual Studio Setup/" "TortoiseSVN/" "Thunderbird/" "Tencent/" "Subversion/" "SPlayer/" "sjparinfo/" "shoujizhushou/" "Red Alert 3/" "qeG1W.AMo" "PLSQL Developer/" "pip/" "NVIDIA Corporation/" "NVIDIA/" "Notepad++/" "Mozilla/" "Microsoft/" "Macromedia/" "ksoftmgr/" "KSafe/" "Kingsoft/" "jupyter/" "Jedi/" "HaoZip/" "FoxitReaderPlus/" "Foxit UserSystemSDK/" "Foxit Software/" "Foxit AgentInformation/" "dg/" "BluestacksCN/" "BingDict/" "BaiduYunKernel/" "BaiduYunGuanjia/" "baidu/" "AliWangWang/" "alipay/" "Adobe/" ".saves/" ".matplotlib/" ".keras/" ".ipython/" ".emacs.d/" "../" "./")
 
  ("c:/msys64/mingw64/bin/" (22863 35352 0 0) "zlib1.dll" "yaml2obj.exe" "xzmore" "xzless" "xzgrep" "xzfgrep" "xzegrep" "xzdiff" "xzdec.exe" "xzcmp" "xzcat.exe" "xz.exe" "xmlwf.exe" "xgettext.exe" "x86_64-w64-mingw32-inflatehd.exe" "x86_64-w64-mingw32-gcc.exe" "x86_64-w64-mingw32-gcc-ranlib.exe" "x86_64-w64-mingw32-gcc-nm.exe" "x86_64-w64-mingw32-gcc-ar.exe" "x86_64-w64-mingw32-gcc-6.3.0.exe" "x86_64-w64-mingw32-g++.exe" "x86_64-w64-mingw32-deflatehd.exe" "x86_64-w64-mingw32-c++.exe" "x86_64-w64-mingw32-agrep.exe" "wrjpgcom.exe" "windres.exe" "windmc.exe" "whirlpool-hash.exe" "webpmux.exe" "verify-uselistorder.exe" "update-ca-trust" "unxz.exe" "unlz4.exe" "tth-hash.exe" "trust.exe" "transicc.exe" "tjbench.exe" "tiger-hash.exe" "tificc.exe" "tiffsplit.exe" "tiffset.exe" "tiffmedian.exe" "tiffinfo.exe" "tiffdump.exe" "tiffdither.exe" "tiffcrop.exe" "tiffcp.exe" "tiffcmp.exe" "tiff2rgba.exe" "tiff2ps.exe" "tiff2pdf.exe" "tiff2bw.exe" "strip.exe" "strings.exe" "stream.exe" "ssleay32.dll" "srptool.exe" "size.exe" "sfv-hash.exe" "sexp-conv.exe" "sanstats.exe" "sancov.exe" "runemacs.exe" "rtmpsuck.exe" "rtmpsrv.exe" "rtmpgw.exe" "rtmpdump.exe" "rhash.exe" "recode-sr-latin.exe" "readelf.exe" "rdjpgcom.exe" "raw2tiff.exe" "ranlib.exe" "psktool.exe" "psicc.exe" "ppm2tiff.exe" "pngfix.exe" "png-fix-itxt.exe" "pkcs1-conv.exe" "pcretest.exe" "pcregrep.exe" "pcre-config" "pbmtojbg85.exe" "pbmtojbg.exe" "pal2rgb.exe" "p11tool.exe" "p11-kit.exe" "opt.exe" "opj_mj2_wrap.exe" "opj_mj2_extract.exe" "opj_mj2_decompress.exe" "opj_mj2_compress.exe" "opj_jpwl_decompress.exe" "opj_jpwl_compress.exe" "opj_jpip_transcode.exe" "opj_jpip_test.exe" "opj_jpip_addxml.exe" "opj_jp3d_decompress.exe" "opj_jp3d_compress.exe" "opj_dump.exe" "opj_dec_server.exe" "opj_decompress.exe" "opj_compress.exe" "openssl.exe" "ocsptool.exe" "objdump.exe" "objcopy.exe" "obj2yaml.exe" "nm.exe" "ngettext.exe" "nettle-pbkdf2.exe" "nettle-lfib-stream.exe" "nettle-hash.exe" "msguniq.exe" "msgunfmt.exe" "msgmerge.exe" "msginit.exe" "msggrep.exe" "msgfmt.exe" "msgfilter.exe" "msgexec.exe" "msgen.exe" "msgconv.exe" "msgcomm.exe" "msgcmp.exe" "msgcat.exe" "msgattrib.exe" "montage.exe" "mogrify.exe" "modularize.exe" "minizip.exe" "miniunzip.exe" "mingw32-make.exe" "magnet-link.exe" "MagickWand-config" "MagickCore-config" "magick.exe" "magick-script.exe" "Magick++-config" "lzmainfo.exe" "lzmadec.exe" "lz4cat.exe" "lz4c.exe" "lz4.exe" "LTO.dll" "LLVM.dll" "llvm-xray.exe" "llvm-tblgen.exe" "llvm-symbolizer.exe" "llvm-strings.exe" "llvm-stress.exe" "llvm-split.exe" "llvm-size.exe" "llvm-rtdyld.exe" "llvm-readobj.exe" "llvm-ranlib.exe" "llvm-profdata.exe" "llvm-pdbdump.exe" "llvm-opt-report.exe" "llvm-objdump.exe" "llvm-nm.exe" "llvm-modextract.exe" "llvm-mcmarkup.exe" "llvm-mc.exe" "llvm-lto2.exe" "llvm-lto.exe" "llvm-link.exe" "llvm-lib.exe" "llvm-extract.exe" "llvm-dwp.exe" "llvm-dwarfdump.exe" "llvm-dsymutil.exe" "llvm-dlltool.exe" "llvm-dis.exe" "llvm-diff.exe" "llvm-cxxfilt.exe" "llvm-cxxdump.exe" "llvm-cov.exe" "llvm-config.exe" "llvm-cat.exe" "llvm-c-test.exe" "llvm-bcanalyzer.exe" "llvm-as.exe" "llvm-ar.exe" "lli.exe" "llc.exe" "linkicc.exe" "libXpm-noX4.dll" "libwinpthread-1.dll" "libwebpmux-3.dll" "libwebpdemux-2.dll" "libwebpdecoder-3.dll" "libwebp-7.dll" "libuv-1.dll" "libunistring-2.dll" "libturbojpeg-0.dll" "libtre-5.dll" "libtoolize" "libtool" "libtiffxx-5.dll" "libtiff-5.dll" "libtasn1-6.dll" "libsystre-0.dll" "libstdc++-6.dll" "libssp-0.dll" "libssh_threads.dll" "libssh2-1.dll" "libssh.dll" "libspdylay-7.dll" "librtmp-1.dll" "librhash.dll" "libraqm-0.dll" "libquadmath-0.dll" "libpng16-config" "libpng16-16.dll" "libpng-config" "libpixman-1-0.dll" "libpcreposix-0.dll" "libpcrecpp-0.dll" "libpcre32-0.dll" "libpcre16-0.dll" "libpcre-1.dll" "libp11-kit-0.dll" "libopenmj2-7.dll" "libopenjpwl-7.dll" "libopenjpip-7.dll" "libopenjp3d-7.dll" "libopenjp2-7.dll" "libnghttp2-14.dll" "libnettle-6.dll" "libminizip-1.dll" "libmetalink-3.dll" "libMagickWand-7.Q16HDRI-0.dll" "libMagickCore-7.Q16HDRI-2.dll" "libMagick++-7.Q16HDRI-2.dll" "liblzo2-2.dll" "liblzma-5.dll" "liblz4.dll" "libltdl-7.dll" "liblqr-1-0.dll" "liblcms2-2.dll" "libjsoncpp.dll" "libjpeg-8.dll" "libjbig-0.dll" "libjasper-4.dll" "libjansson-4.dll" "libintl-8.dll" "libidn-11.dll" "libidn-11.def" "libiconv-2.dll" "libhogweed-4.dll" "libharfbuzz-icu-0.dll" "libharfbuzz-gobject-0.dll" "libharfbuzz-0.dll" "libgthread-2.0-0.dll" "libgraphite2.dll" "libgomp-1.dll" "libgobject-2.0-0.dll" "libgnutlsxx-28.dll" "libgnutls-30.dll" "libgmpxx-4.dll" "libgmp-10.dll" "libgmodule-2.0-0.dll" "libglib-2.0-0.dll" "libgio-2.0-0.dll" "libgif-7.dll" "libgettextsrc-0-19-8-1.dll" "libgettextpo-0.dll" "libgettextlib-0-19-8-1.dll" "libgcc_s_seh-1.dll" "libfribidi-0.dll" "libfreetype-6.dll" "libfreeglut.dll" "libfontconfig-1.dll" "libfftw3l-3.dll" "libfftw3f-3.dll" "libfftw3-3.dll" "libffi-6.dll" "libexpat-1.dll" "libeay32.dll" "libdjvulibre-21.dll" "libdbus-1-3.dll" "libcurl-4.dll" "libcharset-1.dll" "libcares-2.dll" "libcairo-script-interpreter-2.dll" "libcairo-gobject-2.dll" "libcairo-2.dll" "libbz2-1.dll" "libatomic-1.dll" "libasprintf-0.dll" "libarchive-13.dll" "ld.gold.exe" "ld.exe" "ld.bfd.exe" "jpgicc.exe" "jpegtran.exe" "jbgtopbm85.exe" "jbgtopbm.exe" "jasper.exe" "import.exe" "imginfo.exe" "imgcmp.exe" "img2webp.exe" "idn.exe" "identify.exe" "hb-view.exe" "hb-shape.exe" "hb-ot-shape-closure.exe" "has160-hash.exe" "gspawn-win64-helper.exe" "gspawn-win64-helper-console.exe" "gsettings.exe" "gresource.exe" "gr2fonttest.exe" "gprof.exe" "gost-hash.exe" "gobject-query.exe" "gnutls-serv.exe" "gnutls-cli.exe" "gnutls-cli-debug.exe" "glib-mkenums" "glib-gettextize" "glib-genmarshal.exe" "glib-compile-schemas.exe" "glib-compile-resources.exe" "git-clang-format" "gio.exe" "gio-querymodules.exe" "gif2webp.exe" "gettextize" "gettext.sh" "gettext.exe" "gdbus.exe" "gdbus-codegen" "gcov.exe" "gcov-tool.exe" "gcc.exe" "gcc-ranlib.exe" "gcc-nm.exe" "gcc-ar.exe" "g++.exe" "fribidi.exe" "freetype-config" "find-all-symbols.exe" "FileCheck.exe" "fftwq-wisdom.exe" "fftwl-wisdom.exe" "fftwf-wisdom.exe" "fftw-wisdom.exe" "fftw-wisdom-to-conf" "fc-validate.exe" "fc-scan.exe" "fc-query.exe" "fc-pattern.exe" "fc-match.exe" "fc-list.exe" "fc-cat.exe" "fc-cache.exe" "fax2tiff.exe" "fax2ps.exe" "etags.exe" "envsubst.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "emacs-25.2.exe" "elfedit.exe" "edit_test_dll.exe" "edit_test.exe" "edit.dll" "ed2k-link.exe" "ebrowse.exe" "dwp.exe" "dwebp.exe" "dllwrap.exe" "dlltool.exe" "djvuxmlparser.exe" "djvutxt.exe" "djvutoxml.exe" "djvuserve.exe" "djvused.exe" "djvups.exe" "djvumake.exe" "djvuextract.exe" "djvudump.exe" "djvudigital" "djvmcvt.exe" "djvm.exe" "djpeg.exe" "display.exe" "ddjvu.exe" "dbus-update-activation-environment.exe" "dbus-test-tool.exe" "dbus-send.exe" "dbus-monitor.exe" "dbus-launch.exe" "dbus-daemon.exe" "cxpm-noX.exe" "cwebp.exe" "curl.exe" "curl-config" "ctags.exe" "csepdjvu.exe" "cpp.exe" "cpaldjvu.exe" "convert.exe" "conjure.exe" "composite.exe" "compare.exe" "clang.exe" "clang.dll" "clang-tidy.exe" "clang-reorder-fields.exe" "clang-rename.exe" "clang-query.exe" "clang-offload-bundler.exe" "clang-include-fixer.exe" "clang-import-test.exe" "clang-format.exe" "clang-cpp.exe" "clang-cl.exe" "clang-check.exe" "clang-change-namespace.exe" "clang-apply-replacements.exe" "clang++.exe" "cjpeg.exe" "cjb2.exe" "certtool.exe" "cc.exe" "c44.exe" "c-index-test.exe" "c++filt.exe" "c++.exe" "bzz.exe" "bzmore" "bzless" "bzip2recover.exe" "bzip2.exe" "bzgrep" "bzfgrep" "bzegrep" "bzdiff" "bzcmp" "bzcat.exe" "bunzip2.exe" "bugpoint.exe" "bsdtar.exe" "bsdcpio.exe" "bsdcat.exe" "autopoint" "asn1Parser.exe" "asn1Decoding.exe" "asn1Coding.exe" "as.exe" "ar.exe" "any2djvu" "animate.exe" "ag.exe" "addr2line.exe" "addpm.exe" "../" "./")
 
@@ -339,11 +401,7 @@
 
  ("d:/Documents/LinuxHome/.emacs.d/lisp/_emacs/" (22861 64461 0 0) "fzby" "functions.elc" "functions.el" "company-ycmd-ext.elc" "company-ycmd-ext.el" "cedet_zzs.el" "base.elc" "base.el" "base-ac.elc" "base-ac.el" ".directory" ".clang-format" "#base.el#" "#base-ac.el#" "../" "./")
 
- ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/elpa/spaceline-20170102.59/" (22862 35746 0 0) "spaceline.elc" "spaceline.el" "spaceline-segments.elc" "spaceline-segments.el" "spaceline-pkg.el" "spaceline-config.elc" "spaceline-config.el" "spaceline-autoloads.el" "../" "./")
-
  ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/elpa/" (22861 4818 0 0) "ycmd-20170429.549/" "yasnippet-20170418.351/" "xcscope-20160628.2324/" "window-numbering-20160809.1110/" "websocket-20161113.1736/" "vimish-fold-20170606.539/" "swiper-20170410.24/" "sqlup-mode-20161207.2044/" "spaceline-20170102.59/" "smex-20151212.1409/" "smartparens-20170430.844/" "seq-2.19.signed" "seq-2.19/" "s-20170428.1026/" "request-deferred-20160419.1605/" "request-20170131.1747/" "rainbow-delimiters-20160430.2358/" "pyvenv-20170224.538/" "python-environment-20150310.153/" "python-docstring-20170314.43/" "powerline-20161121.2320/" "pos-tip-20150318.813/" "popwin-20150315.600/" "popup-20160709.729/" "pkg-info-20150517.443/" "packed-20170314.1340/" "package-1.0.1/" "org-download-20170605.23/" "org-bullets-20140918.1137/" "ob-ipython-20160918.1001/" "multi-term-20160619.233/" "loop-20160813.707/" "list-utils-20160414.702/" "let-alist-1.0.5.signed" "let-alist-1.0.5/" "langtool-20160116.1654/" "json-1.2/" "jedi-core-20170121.610/" "ivy-20170416.1021/" "irony-20170523.618/" "ido-vertical-mode-20160429.1037/" "htmlize-20161211.1019/" "highlight-indentation-20170411.40/" "helpful-20170619.1537/" "helm-swoop-20160619.953/" "helm-gtags-20170115.2129/" "helm-dash-20170221.638/" "helm-cscope-20170326.22/" "helm-core-20170428.2241/" "helm-ag-20170209.745/" "helm-20170501.106/" "gnuplot-mode-20151122.2339/" "gnupg/" "fuzzy-20150729.2037/" "flycheck-ycmd-20170327.1418/" "flycheck-pos-tip-20161112.912/" "flycheck-20170428.1244/" "flx-ido-20151030.1112/" "flx-20151030.1112/" "find-file-in-project-20170402.2100/" "f-20170404.1039/" "epl-20150517.433/" "epc-20140609.2234/" "elpy-20170430.255/" "elisp-refs-20170528.1223/" "deferred-20170531.2135/" "dash-functional-20160615.1351/" "dash-20170613.151/" "cuda-mode-20151213.1921/" "ctable-20140304.1659/" "concurrent-20161228.1930/" "company-ycmd-20170614.1434/" "company-quickhelp-20170429.1052/" "company-irony-20170612.1308/" "company-20170617.1502/" "comment-dwim-2-20150825.1549/" "cmake-mode-20160928.505/" "clang-format-20170120.137/" "cl-lib-0.6.1.signed" "cl-lib-0.6.1/" "cl-generic-0.3.signed" "cl-generic-0.3/" "chinese-fonts-setup-20170512.1/" "avy-20170411.608/" "auto-compile-20170130.1017/" "auctex-latexmk-20170618.936/" "auctex-11.90.2.signed" "auctex-11.90.2/" "async-20170610.2241/" "archives/" "../" "./")
-
- ("c:/Users/zhuzh/AppData/Roaming/" (22862 31682 0 0) "ZXBQM112X4.DLL" "Zotero/" "vstelemetry/" "Visual Studio Setup/" "TortoiseSVN/" "Thunderbird/" "Tencent/" "Subversion/" "SPlayer/" "shoujizhushou/" "Red Alert 3/" "qeG1W.AMo" "PLSQL Developer/" "pip/" "NVIDIA Corporation/" "NVIDIA/" "Notepad++/" "Mozilla/" "Microsoft/" "Macromedia/" "ksoftmgr/" "KSafe/" "Kingsoft/" "jupyter/" "Jedi/" "HaoZip/" "FoxitReaderPlus/" "Foxit UserSystemSDK/" "Foxit Software/" "Foxit AgentInformation/" "dg/" "BluestacksCN/" "BingDict/" "AliWangWang/" "alipay/" "Adobe/" ".saves/" ".matplotlib/" ".keras/" ".ipython/" ".emacs.d/" "../" "./")
 
  ("d:/Documents/LinuxHome/.emacs.d/lisp/" (22851 11648 0 0) "_emacs/" "../" "./")
 
@@ -384,8 +442,6 @@
  ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/irony/" (22860 47418 0 0) "bin/" "../" "./")
 
  ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/irony/bin/" (22860 47418 0 0) "irony-server.exe" "../" "./")
-
- ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/themes/" (22859 58070 0 0) "org.css" "monolized-theme.el" "gnome2-theme.el" "../" "./")
 
  ("c:/Users/zhuzh/AppData/Roaming/.emacs.d/elpa/irony-20170427.1601/server/" (22859 27295 0 0) "test/" "src/" "run-clang-tidy.py" "docs/" "CMakeLists.txt" ".clang-tidy" ".clang-format" "../" "./")
 
@@ -470,50 +526,6 @@
  ("c:/msys64/home/simplex/.emacs.d/core/" (22805 56918 0 0) "tex-setup.el" "org-setup.el" "math-setup.el" "keybindings.el" "fzby" "functions.el" "elpy.el" "el-get-user-recipes/" "el-get-init-files/" "cdlatex.el" "basic.el" "base.el" "appearance-setup.el" "../" "./")
 
  ("c:/Users/simplex/AppData/Roaming/" (22791 54638 0 0) "Zotero/" "XQ4Q.DLL" "vstelemetry/" "Visual Studio Setup/" "Thunderbird/" "Tencent/" "TeamViewer/" "SumatraPDF/" "SPlayer/" "PLSQL Developer/" "Opera Software/" "Mozilla/" "Microsoft/" "MHXE018UR/" "Macromedia/" "ksafe/" "Kingsoft/" "jupyter/" "Jedi/" "HaoZip/" "FoxitReaderPlus/" "Foxit UserSystemSDK/" "Foxit Software/" "Foxit AgentInformation/" "fixcfg.ini" "dg/" "Design Science/" "Code/" "BluestacksCN/" "BingDict/" "BaiduYunKongMing/" "BaiduYunKernel/" "BaiduYunGuanjia/" "baidu/" "AliWangWang/" "alipay/" "Adobe/" "2345Pic/" "2345MiniPage/" ".saves/" ".pylint.d/" ".matplotlib/" ".ipython/" ".gnupg/" ".emacs.d/" "../" "./")
-
- ("c:/msys64/home/simplex/.emacs.d/el-get/irony-mode/server/" (22791 10899 0 0) "test/" "src/" "run-clang-tidy.py" "docs/" "CMakeLists.txt" "cmake/" ".clang-tidy" ".clang-format" "../" "./")
-
- ("c:/msys64/home/simplex/.emacs.d/el-get/irony-mode/server/cmake/" (22791 10898 0 0) "utils.cmake" "modules/" "LibClangDiagnosticsChecker.cpp" "CheckLibClangBuiltinHeadersDir.cmake" "../" "./")
-
- ("c:/Users/simplex/AppData/Roaming/.emacs.d/" (22791 12058 0 0) "tutorial/" "themes/" "snippets/" "README.md" "init.el" "ido.last~" "ido.last" "desktops/" "core/" "chinese-fonts-setup/" ".org-id-locations" ".gitignore" ".git/" ".emacs.desktop" "../" "./")
-
- ("d:/Documents/LinuxHome/zzsweet/src/python/ML/DL/library-src/algopy-master/algopy/utpm/" (22389 6775 0 0) "__init__.py" "utpm.py" "tests/" "algorithms.py" "../" "./")
-
- ("d:/Documents/LinuxHome/zzsweet/src/python/ML/DL/library-src/algopy-master/" (22389 6775 0 0) "setup.py" "setup.cfg" "sandbox.py" "run_tests.py" "README.rst" "MANIFEST.in" "experimental/" "documentation/" "algopy/" ".travis.yml" ".gitignore" "../" "./")
-
- ("d:/Documents/LinuxHome/zzsweet/src/python/ML/DL/library-src/" (22790 58614 0 0) "tflearn/" "tensorlayer/" "tensorflow-models/" "tensorflow/" "keras/" "cgt/" "algopy-master.zip" "algopy-master/" "algopy/" "../" "./")
-
- ("d:/Documents/LinuxHome/zzsweet/src/python/learning_python/" (22661 49067 0 0) "funcall.py" "class.py" "../" "./")
-
- ("c:/Users/simplex/" (22782 49449 0 0) "「开始」菜单/" "Videos/" "Untitled1.ipynb" "untitled.txt" "Untitled.ipynb" "Templates/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrintHood/" "Pictures/" "Oracle/" "OneDrive/" "ntuser.ini" "NTUSER.DAT{c2f459a7-08cc-11e7-9e83-e6a9989f484a}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{c2f459a7-08cc-11e7-9e83-e6a9989f484a}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{c2f459a7-08cc-11e7-9e83-e6a9989f484a}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "Local Settings/" "Links/" "IntelGraphicsProfiles/" "Favorites/" "Downloads/" "Documents/" "Cookies/" "Contacts/" "Application Data/" "AppData/" "Anaconda3/" ".vscode/" ".pylint.d/" ".ipynb_checkpoints/" ".bash_history" "../" "./")
-
- ("c:/msys64/home/simplex/zzsweet/simplex/" (22738 8900 0 0) ".emacs.d/" ".bash_profile" ".bash_logout" ".bash_history" ".bashrc" "../" "./")
-
- ("c:/msys64/home/simplex/zzsweet/SQLdata/" (22738 8941 0 0) "psql/" "../" "./")
-
- ("c:/msys64/home/simplex/zzsweet/" (22738 8941 0 0) "SQLdata/" "simplex/" "mfile/" "desktop.ini" "cad/" "bib.txt" ".octaverc" ".directory" ".debris/" "../" "./")
-
- ("c:/msys64/home/simplex/.emacs.d/core/el-get-init-files/" (22767 7428 0 0) "org-mode-demo.png" "init-yasnippet.elc" "init-yasnippet.el" "init-xcscope.elc" "init-xcscope.el" "init-window-numbering.elc" "init-window-numbering.el" "init-vimish-fold.elc" "init-vimish-fold.el" "init-swiper.elc" "init-swiper.el" "init-sqlup-mode.elc" "init-sqlup-mode.el" "init-spaceline.elc" "init-spaceline.el" "init-smex.elc" "init-smex.el" "init-smartparens.elc" "init-smartparens.el" "init-powerline-bak.el" "init-popwin.elc" "init-popwin.el" "init-langtool.elc" "init-langtool.el" "init-irony-mode.elc" "init-irony-mode.el" "init-ido-vertical-mode.elc" "init-ido-vertical-mode.el" "init-helm.elc" "init-helm.el" "init-helm-swoop.elc" "init-helm-swoop.el" "init-helm-bibtex.elc" "init-helm-bibtex.el" "init-gnuplot-mode.elc" "init-gnuplot-mode.el" "init-flycheck.elc" "init-flycheck.el" "init-flx-ido.elc" "init-flx-ido.el" "init-elpy.elc" "init-elpy.el" "init-ein.elc" "init-ein.el" "init-company.elc" "init-company.el" "init-company-irony.elc" "init-company-irony.el" "init-chinese-fonts-setup.elc" "init-chinese-fonts-setup.el" "init-avy.elc" "init-avy.el" "init-auto-complete.elc" "init-auto-complete.el" "init-auto-compile.elc" "init-auto-compile.el" "bb2912.rar" ".#init-chinese-fonts-setup.el" "#init-chinese-fonts-setup.el#" "../" "./")
-
- ("d:/Documents/LinuxHome/zzsweet/src/python/sample/" (22763 36838 0 0) "simple_example.py" "reject_method.py" "mcmc.py" "../" "./")
-
- ("c:/Users/simplex/AppData/Roaming/.emacs.d/core/el-get-init-files/" (22745 62386 0 0) "org-mode-demo.png" "init-yasnippet.elc" "init-yasnippet.el" "init-xcscope.elc" "init-xcscope.el" "init-window-numbering.elc" "init-window-numbering.el" "init-vimish-fold.elc" "init-vimish-fold.el" "init-swiper.elc" "init-swiper.el" "init-sqlup-mode.elc" "init-sqlup-mode.el" "init-spaceline.elc" "init-spaceline.el" "init-smex.elc" "init-smex.el" "init-smartparens.elc" "init-smartparens.el" "init-powerline-bak.el" "init-popwin.elc" "init-popwin.el" "init-langtool.elc" "init-langtool.el" "init-irony-mode.elc" "init-irony-mode.el" "init-ido-vertical-mode.elc" "init-ido-vertical-mode.el" "init-helm.elc" "init-helm.el" "init-helm-swoop.elc" "init-helm-swoop.el" "init-helm-bibtex.elc" "init-helm-bibtex.el" "init-gnuplot-mode.elc" "init-gnuplot-mode.el" "init-flycheck.elc" "init-flycheck.el" "init-flx-ido.elc" "init-flx-ido.el" "init-elpy.elc" "init-elpy.el" "init-ein.elc" "init-ein.el" "init-company.elc" "init-company.el" "init-company-irony.elc" "init-company-irony.el" "init-chinese-fonts-setup.elc" "init-chinese-fonts-setup.el" "init-avy.elc" "init-avy.el" "init-auto-complete.elc" "init-auto-complete.el" "init-auto-compile.elc" "init-auto-compile.el" "bb2912.rar" ".#init-chinese-fonts-setup.el" "#init-chinese-fonts-setup.el#" "../" "./")
-
- ("c:/msys64/home/simplex/.emacs.d/themes/" (22744 34721 0 0) "org.css" "monolized-theme.el" "gnome2-theme.el" "../" "./")
-
- ("c:/msys64/home/simplex/.emacs.d/snippets/org-mode/" (22737 17094 0 0) "verse" "matrix" "latex" "img" "figure" "entry" "embedded" "elisp" "dot" "../" "./")
-
- ("c:/msys64/home/simplex/.emacs.d/snippets/" (22737 17095 0 0) "yaml-mode/" "web-mode" "udev-mode/" "typerex-mode" "tuareg-mode/" "text-mode/" "sql-mode/" "snippet-mode/" "sh-mode/" "scala-mode/" "ruby-mode/" "rst-mode/" "rename_add_contr.py" "README.md" "python-mode/" "prog-mode/" "perl-mode/" "org-mode/" "octave-mode/" "nxml-mode/" "nsis-mode/" "nix-mode/" "nesc-mode/" "ned-mode/" "markdown-mode/" "malabar-mode/" "makefile-mode/" "makefile-gmake-mode/" "makefile-bsdmake-mode/" "makefile-automake-mode/" "m4-mode/" "lua-mode/" "lisp-mode/" "lisp-interaction-mode/" "LICENSE" "latex-mode/" "js3-mode" "js2-mode" "js-mode/" "java-mode/" "html-mode/" "haskell-mode/" "groovy-mode/" "go-mode/" "git-commit-mode/" "fundamental-mode/" "faust-mode/" "f90-mode/" "erlang-mode/" "erc-mode/" "ensime-mode" "enh-ruby-mode" "emacs-lisp-mode/" "elixir-mode/" "dix-mode/" "css-mode/" "csharp-mode/" "cpp-omnet-mode/" "cperl-mode/" "CONTRIBUTORS.txt" "conf-unix-mode/" "cmake-mode/" "clojure-mode/" "cider-repl-mode" "chef-mode/" "cc-mode/" "c-mode/" "c++-mode/" "applescript-mode/" "antlr-mode/" "../" "./")
-
- ("c:/msys64/mingw64/share/emacs/25.1/lisp/org/" (22740 32158 0 0) "ox.elc" "ox.el" "ox-texinfo.elc" "ox-texinfo.el" "ox-publish.elc" "ox-publish.el" "ox-org.elc" "ox-org.el" "ox-odt.elc" "ox-odt.el" "ox-md.elc" "ox-md.el" "ox-man.elc" "ox-man.el" "ox-latex.elc" "ox-latex.el" "ox-icalendar.elc" "ox-icalendar.el" "ox-html.elc" "ox-html.el" "ox-beamer.elc" "ox-beamer.el" "ox-ascii.elc" "ox-ascii.el" "org.elc" "org.el" "org-w3m.elc" "org-w3m.el" "org-version.el" "org-timer.elc" "org-timer.el" "org-table.elc" "org-table.el" "org-src.elc" "org-src.el" "org-rmail.elc" "org-rmail.el" "org-protocol.elc" "org-protocol.el" "org-plot.elc" "org-plot.el" "org-pcomplete.elc" "org-pcomplete.el" "org-mouse.elc" "org-mouse.el" "org-mobile.elc" "org-mobile.el" "org-mhe.elc" "org-mhe.el" "org-macs.elc" "org-macs.el" "org-macro.elc" "org-macro.el" "org-loaddefs.el" "org-list.elc" "org-list.el" "org-irc.elc" "org-irc.el" "org-install.el" "org-inlinetask.elc" "org-inlinetask.el" "org-info.elc" "org-info.el" "org-indent.elc" "org-indent.el" "org-id.elc" "org-id.el" "org-habit.elc" "org-habit.el" "org-gnus.elc" "org-gnus.el" "org-footnote.elc" "org-footnote.el" "org-feed.elc" "org-feed.el" "org-faces.elc" "org-faces.el" "org-eshell.elc" "org-eshell.el" "org-entities.elc" "org-entities.el" "org-element.elc" "org-element.el" "org-docview.elc" "org-docview.el" "org-datetree.elc" "org-datetree.el" "org-ctags.elc" "org-ctags.el" "org-crypt.elc" "org-crypt.el" "org-compat.elc" "org-compat.el" "org-colview.elc" "org-colview.el" "org-clock.elc" "org-clock.el" "org-capture.elc" "org-capture.el" "org-bibtex.elc" "org-bibtex.el" "org-bbdb.elc" "org-bbdb.el" "org-attach.elc" "org-attach.el" "org-archive.elc" "org-archive.el" "org-agenda.elc" "org-agenda.el" "ob.elc" "ob.el" "ob-tangle.elc" "ob-tangle.el" "ob-table.elc" "ob-table.el" "ob-sqlite.elc" "ob-sqlite.el" "ob-sql.elc" "ob-sql.el" "ob-shen.elc" "ob-shen.el" "ob-sh.elc" "ob-sh.el" "ob-screen.elc" "ob-screen.el" "ob-scheme.elc" "ob-scheme.el" "ob-scala.elc" "ob-scala.el" "ob-sass.elc" "ob-sass.el" "ob-ruby.elc" "ob-ruby.el" "ob-ref.elc" "ob-ref.el" "ob-R.elc" "ob-R.el" "ob-python.elc" "ob-python.el" "ob-plantuml.elc" "ob-plantuml.el" "ob-picolisp.elc" "ob-picolisp.el" "ob-perl.elc" "ob-perl.el" "ob-org.elc" "ob-org.el" "ob-octave.elc" "ob-octave.el" "ob-ocaml.elc" "ob-ocaml.el" "ob-mscgen.elc" "ob-mscgen.el" "ob-maxima.elc" "ob-maxima.el" "ob-matlab.elc" "ob-matlab.el" "ob-makefile.elc" "ob-makefile.el" "ob-lob.elc" "ob-lob.el" "ob-lisp.elc" "ob-lisp.el" "ob-lilypond.elc" "ob-lilypond.el" "ob-ledger.elc" "ob-ledger.el" "ob-latex.elc" "ob-latex.el" "ob-keys.elc" "ob-keys.el" "ob-js.elc" "ob-js.el" "ob-java.elc" "ob-java.el" "ob-io.elc" "ob-io.el" "ob-haskell.elc" "ob-haskell.el" "ob-gnuplot.elc" "ob-gnuplot.el" "ob-fortran.elc" "ob-fortran.el" "ob-exp.elc" "ob-exp.el" "ob-eval.elc" "ob-eval.el" "ob-emacs-lisp.elc" "ob-emacs-lisp.el" "ob-dot.elc" "ob-dot.el" "ob-ditaa.elc" "ob-ditaa.el" "ob-css.elc" "ob-css.el" "ob-core.elc" "ob-core.el" "ob-comint.elc" "ob-comint.el" "ob-clojure.elc" "ob-clojure.el" "ob-calc.elc" "ob-calc.el" "ob-C.elc" "ob-C.el" "ob-awk.elc" "ob-awk.el" "ob-asymptote.elc" "ob-asymptote.el" "../" "./")
-
- ("c:/msys64/home/simplex/.pip/" (22737 57531 0 0) "pip.conf" "../" "./")
-
- ("c:/msys64/home/simplex/mintty-colors-solarized/" (22738 9313 0 0) "sol.light" "sol.dark" "readme.md" ".minttyrc.light" ".minttyrc.dark" ".git/" "../" "./")
-
- ("c:/msys64/home/simplex/.oh-my-zsh/themes/" (22738 4195 0 0) "zhann.zsh-theme" "ys.zsh-theme" "xiong-chiamiov.zsh-theme" "xiong-chiamiov-plus.zsh-theme" "wuffers.zsh-theme" "wezm.zsh-theme" "wezm+.zsh-theme" "wedisagree.zsh-theme" "trapd00r.zsh-theme" "tonotdo.zsh-theme" "tjkirch_mod.zsh-theme" "tjkirch.zsh-theme" "theunraveler.zsh-theme" "terminalparty.zsh-theme" "takashiyoshida.zsh-theme" "suvash.zsh-theme" "superjarin.zsh-theme" "sunrise.zsh-theme" "sunaku.zsh-theme" "strug.zsh-theme" "steeef.zsh-theme" "sporty_256.zsh-theme" "sorin.zsh-theme" "sonicradish.zsh-theme" "Soliah.zsh-theme" "smt.zsh-theme" "skaro.zsh-theme" "simple.zsh-theme" "simonoff.zsh-theme" "sammy.zsh-theme" "robbyrussell.zsh-theme" "rkj.zsh-theme" "rkj-repos.zsh-theme" "rixius.zsh-theme" "risto.zsh-theme" "rgm.zsh-theme" "re5et.zsh-theme" "pygmalion.zsh-theme" "pure.zsh-theme" "pmcgee.zsh-theme" "philips.zsh-theme" "peepcode.zsh-theme" "obraun.zsh-theme" "norm.zsh-theme" "nicoulaj.zsh-theme" "nebirhos.zsh-theme" "nanotech.zsh-theme" "muse.zsh-theme" "murilasso.zsh-theme" "mrtazz.zsh-theme" "mortalscumbag.zsh-theme" "mira.zsh-theme" "minimal.zsh-theme" "miloshadzic.zsh-theme" "mikeh.zsh-theme" "michelebologna.zsh-theme" "mh.zsh-theme" "mgutz.zsh-theme" "maran.zsh-theme" "macovsky.zsh-theme" "macovsky-ruby.zsh-theme" "lukerandall.zsh-theme" "linuxonly.zsh-theme" "lambda.zsh-theme" "kphoen.zsh-theme" "kolo.zsh-theme" "kiwi.zsh-theme" "kennethreitz.zsh-theme" "kardan.zsh-theme" "kafeitu.zsh-theme" "junkfood.zsh-theme" "juanghurtado.zsh-theme" "jtriley.zsh-theme" "jreese.zsh-theme" "josh.zsh-theme" "jonathan.zsh-theme" "jnrowe.zsh-theme" "jispwoso.zsh-theme" "jbergantine.zsh-theme" "jaischeema.zsh-theme" "itchy.zsh-theme" "intheloop.zsh-theme" "imajes.zsh-theme" "humza.zsh-theme" "half-life.zsh-theme" "gozilla.zsh-theme" "gnzh.zsh-theme" "gianu.zsh-theme" "geoffgarside.zsh-theme" "gentoo.zsh-theme" "garyblessington.zsh-theme" "gallois.zsh-theme" "gallifrey.zsh-theme" "fwalch.zsh-theme" "funky.zsh-theme" "frontcube.zsh-theme" "frisk.zsh-theme" "fox.zsh-theme" "fletcherm.zsh-theme" "flazz.zsh-theme" "fishy.zsh-theme" "fino.zsh-theme" "fino-time.zsh-theme" "example.zsh-theme" "evan.zsh-theme" "essembeh.zsh-theme" "emotty.zsh-theme" "edvardm.zsh-theme" "eastwood.zsh-theme" "duellj.zsh-theme" "dstufft.zsh-theme" "dst.zsh-theme" "dpoggi.zsh-theme" "dogenpunk.zsh-theme" "dieter.zsh-theme" "daveverwer.zsh-theme" "darkblood.zsh-theme" "dallas.zsh-theme" "cypher.zsh-theme" "crunch.zsh-theme" "crcandy.zsh-theme" "cloud.zsh-theme" "clean.zsh-theme" "candy.zsh-theme" "candy-kingdom.zsh-theme" "bureau.zsh-theme" "blinks.zsh-theme" "bira.zsh-theme" "awesomepanda.zsh-theme" "avit.zsh-theme" "aussiegeek.zsh-theme" "arrow.zsh-theme" "apple.zsh-theme" "amuse.zsh-theme" "alanpeabody.zsh-theme" "agnoster.zsh-theme" "afowler.zsh-theme" "af-magic.zsh-theme" "adben.zsh-theme" "3den.zsh-theme" "../" "./")
-
- ("c:/msys64/home/simplex/.oh-my-zsh/" (22738 4195 0 0) "tools/" "themes/" "templates/" "README.md" "plugins/" "oh-my-zsh.sh" "log/" "LICENSE.txt" "lib/" "custom/" "cache/" ".gitignore" ".git/" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----

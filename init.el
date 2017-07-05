@@ -115,6 +115,7 @@
        flycheck
        flycheck-pos-tip
        flycheck-ycmd
+       flycheck-irony
        fuzzy
        gnuplot-mode
        helm-core
@@ -163,6 +164,6 @@ yasnippet))
 (server-start)
 ;;加载spaceline
 (spaceline-spacemacs-theme)
-
+(desktop-save-mode 1)
 (provide 'init)
 ;;; init.el ends here
