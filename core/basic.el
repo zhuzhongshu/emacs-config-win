@@ -4,8 +4,11 @@
 (require 'appearance-setup)
 
 ;;============================================================================================================
-;;                                             =========
+;;                                             tramp
+(require 'tramp)
 
+;; usage C-x C-f /mqq@192.168.9.110:/path/to/your/file
+;; tramp可以读取.ssh目录下的known_host
 ;;============================================================================================================
 ;; (setq explicit-shell-file-name "C:/msys64/usr/bin/zsh.exe") 
 
@@ -23,8 +26,8 @@
 ;; msys2自带的脚本中会设置PS1的变量，但是emacs的shell并不能完全解析，所以要进行设置，把以下代码放到.bashrc中：
 ;; case $TERM in   
 ;;     xterm*)
-;;         set_title='\e]0;\w\'
-;;         ;;    
+;;         set_title='\e]0;\w\';
+;         ;;    
 ;;     *)
 ;;         set_title=
 ;;         ;;
@@ -95,7 +98,7 @@
 ;;                                              SQL
 ;;============================================================================================================
 
-(setq sql-oracle-program "D:/app/simplex/product/11.2.0/dbhome_1/BIN/sqlplus.exe")
+;; (setq sql-oracle-program "D:/app/simplex/product/11.2.0/dbhome_1/BIN/sqlplus.exe")
 
 ;;用sql-connect命令打开一个新的sql进程并将当前文件连接到该进程
 ;;如果想让该文件绑定到现有sql进程，则使用sql-set-sqli-buffer命令
@@ -108,22 +111,22 @@
 ;; (setq sql-postgres-options '("-a"))
 
 (setq sql-connection-alist  
-      '((user-root  
-         (sql-product 'mysql)  
-         ;; (sql-server "mysql")  
-         (sql-user "root")  
-         (sql-password "zzs123456")  
-         (sql-database "zzsszz")  
-         ;; (sql-port 6871)
-         ))
-      ;; '((pool-b  
+      ;; '((user-root  
       ;;    (sql-product 'mysql)  
       ;;    ;; (sql-server "mysql")  
       ;;    (sql-user "root")  
-      ;;    (sql-password "asdfasdf")  
-      ;;    ;; (sql-database "db1")  
+      ;;    (sql-password "zzs123456")  
+      ;;    (sql-database "zzsszz")  
       ;;    ;; (sql-port 6871)
       ;;    ))
+      '((dengtacj
+         (sql-product 'mysql)  
+         (sql-server "rm-bp1m764uvk6bejg2wo.mysql.rds.aliyuncs.com")
+         (sql-user "dengtacj")  
+         (sql-password "Dengtacj2015")  
+         (sql-database "db_dengta_info")  
+         (sql-port 3306)
+         ))
       )  
 
 

@@ -92,10 +92,13 @@
        auctex-latexmk
        auto-compile
        async
+       bookmark+
        cuda-mode
        comment-dwim-2
        cmake-mode
        dash
+       dashboard
+       ;; dired+
        s
        f
        deferred
@@ -125,13 +128,14 @@
        helm-dash
        helm-gtags
        ;;helm-bibtex
+       helm-tramp
        helm-swoop
-       helpful
        htmlize
        ido-vertical-mode
        irony
        company-irony
        langtool
+       magit
        multi-term
        org-bullets
        org-download
@@ -140,6 +144,7 @@
        popwin
        python-docstring
        rainbow-delimiters
+       ;; ranger
        smartparens
        smex
        sqlup-mode
@@ -164,6 +169,6 @@ yasnippet))
 (server-start)
 ;;加载spaceline
 (spaceline-spacemacs-theme)
-(desktop-save-mode 1)
+(desktop-save-mode -1)
 (provide 'init)
 ;;; init.el ends here
