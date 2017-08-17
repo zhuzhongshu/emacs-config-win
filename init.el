@@ -131,6 +131,7 @@
        helm-tramp
        helm-swoop
        htmlize
+       hydra
        ido-vertical-mode
        irony
        company-irony
@@ -149,6 +150,7 @@
        smex
        sqlup-mode
        swiper
+       sphinx-doc
        vimish-fold
        window-numbering
        spaceline

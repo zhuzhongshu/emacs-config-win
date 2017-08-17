@@ -12,7 +12,7 @@
 (global-linum-mode t)                   ;显示行号
 (setq show-paren-mode t)
 ;;(setq inhibit-startup-message t)      ;关闭起动时的那个“开机画面”
-
+(setq make-backup-files nil)            ;关闭自动备份文件功能
 (setq display-time-24hr-format t)       ;时间使用24小时制
 (setq display-time-day-and-date t)      ;时间显示包括日期和具体时间
 (setq display-time-format "%Y-%m-%d %H:%M:%S")

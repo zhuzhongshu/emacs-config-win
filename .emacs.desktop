@@ -2,54 +2,174 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Sat Jul  1 12:56:07 2017
+;; Created Wed Jul 26 17:25:46 2017
 ;; Desktop file format version 208
 ;; Emacs version 25.2.1
 
 ;; Global section:
-(setq desktop-saved-frameset [frameset 1 (22871 11111 437873 877000) (desktop . "208") "simplex@simplex-pc" nil nil ((((font-backend xft x) (font . "-APPL-Monaco-normal-normal-normal-*-24-*-*-*-*-0-iso10646-1") (font-parameter . "-APPL-Monaco-normal-normal-normal-*-*-*-*-*-*-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "#7A9496") (background-color . "#002B36") (mouse-color . "#7A9496") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 0) (alpha) (fullscreen . maximized) (display-type . color) (background-mode . dark) (cursor-color . "#7A9496") (sticky) (environment) (powerline-cache) (frameset--id . "9CD8-D21A-C1AF-6E56") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (visibility . t) (height . 34) (width . 134) (left . 0) (top . 0)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 8) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 120) (min-pixel-width . 140) (min-pixel-height-ignore . 90) (min-pixel-width-ignore . 112) (min-pixel-height-safe . 30) (min-pixel-width-safe . 28)) leaf (pixel-width . 1920) (pixel-height . 1009) (total-width . 137) (total-height . 33) (normal-height . 1.0) (normal-width . 1.0) (buffer "init-elpy.el" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 3) (scroll-bars nil 2 t nil 0 t) (vscroll . 0) (dedicated) (point . 353) (start . 1))))])
+(setq desktop-saved-frameset [frameset 1 (22904 24602 845470 710000) (desktop . "208") "simplex@simplex-pc" nil nil ((((font-backend xft x) (font . "-APPL-Monaco-normal-normal-normal-*-24-*-*-*-*-0-iso10646-1") (font-parameter . "-APPL-Monaco-normal-normal-normal-*-*-*-*-*-*-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "#7A9496") (background-color . "#002B36") (mouse-color . "#7A9496") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 0) (alpha) (fullscreen . maximized) (display-type . color) (background-mode . dark) (cursor-color . "#7A9496") (sticky) (environment) (powerline-cache) (frameset--id . "9CD8-D21A-C1AF-6E56") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (visibility . icon) (height . 34) (width . 134)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 8) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 120) (min-pixel-width . 140) (min-pixel-height-ignore . 90) (min-pixel-width-ignore . 112) (min-pixel-height-safe . 30) (min-pixel-width-safe . 28)) leaf (pixel-width . 1914) (pixel-height . 999) (total-width . 136) (total-height . 33) (normal-height . 1.0) (normal-width . 1.0) (buffer "Tensorflow‘±Ê‘¼Ç.org" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 3) (scroll-bars nil 2 t nil 0 t) (vscroll . 0) (dedicated) (point . 1150) (start . 1))))])
 (setq desktop-missing-file-warning nil)
 (setq tags-file-name nil)
 (setq tags-table-list nil)
 (setq search-ring nil)
-(setq regexp-search-ring '("readline" "compan" "org" "deskto" "flyche" "syn" "share"))
-(setq register-alist nil)
-(setq file-name-history '("/run/media/simplex/‘³ô‘±¦‘µÄ‘Éñ‘Ææ‘¿Ú‘´ü/Documents/LinuxHome/zzsweet/src/cfamily/cpp_study/study.cpp" "/home/simplex/.bashrc" "/home/simplex/.zshrc" "/home/simplex/.emacs.d/core/el-get-init-files/init-yasnippet.el" "/home/simplex/.emacs.d/core/el-get-init-files/init-elpy.el" "/home/simplex/.emacs.d/core/basic.el" "/run/media/simplex/‘³ô‘±¦‘µÄ‘Éñ‘Ææ‘¿Ú‘´ü/Documents/LinuxHome/zzsweet/src/python/auto-diff/adjoint.py" "/run/media/simplex/‘³ô‘±¦‘µÄ‘Éñ‘Ææ‘¿Ú‘´ü/Documents/LinuxHome/zzsweet/src/org/notes/todo.org" "/home/simplex/.emacs.d/core/el-get-init-files/init-chinese-fonts-setup.el" "/home/simplex/.emacs.d/chinese-fonts-setup/v4/program.el" "c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/org-setup.el" "c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/basic.el" "c:/Users/zhuzh/AppData/Roaming/.emacs.d/init.el" "c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/basic.el" "d:/Documents/LinuxHome/zzsweet/src/cfamily/wgms/wgms.hpp" "d:/Documents/LinuxHome/zzsweet/src/cfamily/wgms/main.cpp" "c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/el-get-init-files/init-flycheck.el" "c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/el-get-init-files/init-flycheck-irony.el" "c:/Users/zhuzh/AppData/Roaming/.emacs.d/init.el" "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/thrust.cu" "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/test.cu" "~/.emacs.d/themes/monolized-theme.el" "c:/Users/zhuzh/AppData/Roaming/.emacs.d/elpa/spaceline-20170102.59/spaceline.el" "c:/Users/zhuzh/AppData/Roaming/.emacs.d/themes/monolized-theme.el" "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/cuda_by_example/chapter05/dot.cu" "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/mytest.cu" "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/matAdd.cu" "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/cuda_by_example/chapter05/add_loop_blocks.cu" "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/cuda_by_example/chapter03/simple_kernel.cu" "c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/basic.el" "c:/Users/zhuzh/AppData/Roaming/.emacs.d/init.el"))
+(setq regexp-search-ring '("gpu" "embedding" "cpu" "epoch" "summary" "epoch" "writer" "sca" "hist" "histo" "conv-max" "filter_sizes" "drop" "outputs" "#dropout" "num_filters_total"))
+(setq register-alist '((48 . "t\nf")))
+(setq file-name-history '("/home/simplex/zzsweet/src/word2vec/trunk/demo-word.sh" "/home/simplex/zzsweet/src/word2vec/trunk/README.txt" "/home/simplex/zzsweet/src/python/ML/DL/study-tensorflow/cnn.py" "/home/simplex/zzsweet/src/python/ML/DL/NLP/insuranceQA-cnn-lstm/cnn/tensorflow/mystudy.py" "/home/simplex/zzsweet/src/python/ML/DL/NLP/insuranceQA-cnn-lstm/cnn/tensorflow/insqa_train.py" "/home/simplex/zzsweet/src/python/ML/DL/NLP/insuranceQA-cnn-lstm/cnn/tensorflow/my_insqa.py" "/home/simplex/zzsweet/src/python/ML/DL/NLP/insuranceQA-cnn-lstm/cnn/tensorflow/insqa_train.py" "/home/simplex/zzsweet/src/python/ML/DL/NLP/insuranceQA-cnn-lstm/cnn/tensorflow/insqa_cnn.py" "/home/simplex/zzsweet/src/python/ML/DL/NLP/study_gensim.py" "/home/simplex/zzsweet/src/org/notes/dengta.org" "/home/simplex/.emacs.d/bookmarks" "/home/simplex/.emacs.d/core/el-get-init-files/init-dashboard.el" "/home/simplex/.emacs.d/core/el-get-init-files/init-avy.el" "/home/simplex/.xprofile" "/home/simplex/zzsweet/src/python/ML/DL/study-tensorflow/test_gpu.py" "/home/simplex/zzsweet/src/cjsc/python/lstm/stock_predict_lstm.py" "/home/simplex/zzsweet/src/python/ML/DL/study-tensorflow/auto_diff.py" "/home/simplex/zzsweet/src/python/ML/DL/study-tensorflow/lstm_mnist.py" "/home/simplex/.emacs.d/init.el" "/home/simplex/.emacs.d/core/el-get-init-files/init-elpy.el" "/home/simplex/.emacs.d/core/appearance-setup.el" "/opt/anaconda3/lib/python3.6/site-packages/rlipython/shell.py" "/opt/anaconda3/lib/python3.6/_sitebuiltins.py" "/home/simplex/zzsweet/src/python/network/python-epoll-examples/example4.py" "/opt/anaconda3/lib/python3.6/socketserver.py" "/home/simplex/zzsweet/src/python/network/index.html" "/home/simplex/zzsweet/src/python/network/myHttpServer.py" "/home/simplex/zzsweet/src/python/network/myHttpServer2.py" "/home/simplex/.emacs.d/core/functions.el" "/home/simplex/.emacs.d/core/basic.el" "/run/media/simplex/‘³ô‘±¦‘µÄ‘Éñ‘Ææ‘¿Ú‘´ü/Documents/LinuxHome/zzsweet/src/cfamily/cpp_study/study.cpp" "/home/simplex/.bashrc" "/home/simplex/.zshrc" "/home/simplex/.emacs.d/core/el-get-init-files/init-yasnippet.el" "/home/simplex/.emacs.d/core/el-get-init-files/init-elpy.el" "/home/simplex/.emacs.d/core/basic.el" "/run/media/simplex/‘³ô‘±¦‘µÄ‘Éñ‘Ææ‘¿Ú‘´ü/Documents/LinuxHome/zzsweet/src/python/auto-diff/adjoint.py" "/run/media/simplex/‘³ô‘±¦‘µÄ‘Éñ‘Ææ‘¿Ú‘´ü/Documents/LinuxHome/zzsweet/src/org/notes/todo.org" "/home/simplex/.emacs.d/core/el-get-init-files/init-chinese-fonts-setup.el" "/home/simplex/.emacs.d/chinese-fonts-setup/v4/program.el" "c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/org-setup.el" "c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/basic.el" "c:/Users/zhuzh/AppData/Roaming/.emacs.d/init.el" "c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/basic.el" "d:/Documents/LinuxHome/zzsweet/src/cfamily/wgms/wgms.hpp" "d:/Documents/LinuxHome/zzsweet/src/cfamily/wgms/main.cpp" "c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/el-get-init-files/init-flycheck.el" "c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/el-get-init-files/init-flycheck-irony.el" "c:/Users/zhuzh/AppData/Roaming/.emacs.d/init.el" "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/thrust.cu" "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/test.cu" "~/.emacs.d/themes/monolized-theme.el" "c:/Users/zhuzh/AppData/Roaming/.emacs.d/elpa/spaceline-20170102.59/spaceline.el" "c:/Users/zhuzh/AppData/Roaming/.emacs.d/themes/monolized-theme.el" "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/cuda_by_example/chapter05/dot.cu" "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/mytest.cu" "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/matAdd.cu" "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/cuda_by_example/chapter05/add_loop_blocks.cu" "d:/Documents/LinuxHome/zzsweet/src/cfamily/cuda/cuda_by_example/chapter03/simple_kernel.cu" "c:/Users/zhuzh/AppData/Roaming/.emacs.d/core/basic.el" "c:/Users/zhuzh/AppData/Roaming/.emacs.d/init.el"))
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
 (desktop-create-buffer 208
-  "/home/simplex/.emacs.d/core/el-get-init-files/init-elpy.el"
-  "init-elpy.el"
-  'emacs-lisp-mode
-  '(auto-compile-mode auto-compile-on-load-mode yas-minor-mode smartparens-mode flx-ido-mode helm-mode company-mode flycheck-mode linum-mode rainbow-delimiters-mode)
-  353
-  '(877 nil)
+  "/home/simplex/zzsweet/src/org/notes/Tensorflow‘±Ê‘¼Ç.org"
+  "Tensorflow‘±Ê‘¼Ç.org"
+  'org-mode
+  '(auto-compile-on-load-mode org-cdlatex-mode yas-minor-mode smartparens-mode flx-ido-mode helm-mode flycheck-mode linum-mode org-indent-mode)
+  1150
+  '(1117 nil)
   nil
   nil
-  '((buffer-file-coding-system . utf-8-unix))
-  '((mark-ring (813 404 372 372 812))))
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines))
+  '((mark-ring (1068 930 1021 981 970 973 678 786 770 868 727 825 686 727 678 16312))))
 
 (desktop-create-buffer 208
-  "/home/simplex/.emacs.d/core/basic.el"
-  "basic.el"
+  "/home/simplex/.emacs.d/init.el"
+  "init.el"
   'emacs-lisp-mode
   '(auto-compile-mode auto-compile-on-load-mode yas-minor-mode smartparens-mode flx-ido-mode helm-mode company-mode flycheck-mode linum-mode rainbow-delimiters-mode)
-  1157
-  '(nil nil)
+  5305
+  '(484 nil)
   nil
   nil
   '((buffer-file-coding-system . utf-8-unix))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
-  "/opt/anaconda3/lib/python3.6/site-packages/rlipython/shell.py"
-  "shell.py"
+  "/home/simplex/zzsweet/src/python/ML/DL/NLP/insuranceQA-cnn-lstm/cnn/tensorflow/insqa_train.py"
+  "insqa_train.py"
   'python-mode
-  '(eldoc-mode auto-compile-on-load-mode yas-minor-mode smartparens-mode flx-ido-mode helm-mode company-mode elpy-mode flymake-mode highlight-indentation-mode flycheck-mode linum-mode rainbow-delimiters-mode)
-  1017
-  '(596 nil)
-  t
+  '(eldoc-mode auto-compile-on-load-mode yas-minor-mode smartparens-mode flx-ido-mode helm-mode company-mode elpy-mode highlight-indentation-mode flycheck-mode linum-mode rainbow-delimiters-mode)
+  2797
+  '(4053 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/simplex/zzsweet/src/word2vec/trunk/README.txt"
+  "README.txt"
+  'text-mode
+  '(auto-compile-on-load-mode yas-minor-mode smartparens-mode flx-ido-mode helm-mode company-mode flycheck-mode linum-mode)
+  243
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/simplex/zzsweet/src/python/ML/DL/NLP/insuranceQA-cnn-lstm/cnn/tensorflow/insqa_cnn.py"
+  "insqa_cnn.py"
+  'python-mode
+  '(eldoc-mode auto-compile-on-load-mode yas-minor-mode smartparens-mode flx-ido-mode helm-mode company-mode elpy-mode highlight-indentation-mode flycheck-mode linum-mode rainbow-delimiters-mode)
+  6587
+  '(1249 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-dos))
+  '((mark-ring (1214 1993 2154 4432 1102 1 6587 6063 4347 2172 4239 2190 1402 1408 44))))
+
+(desktop-create-buffer 208
+  "/home/simplex/zzsweet/src/python/ML/DL/NLP/insuranceQA-cnn-lstm/cnn/tensorflow/mystudy.py"
+  "mystudy.py"
+  'python-mode
+  '(eldoc-mode auto-compile-on-load-mode yas-minor-mode smartparens-mode flx-ido-mode helm-mode company-mode elpy-mode highlight-indentation-mode flycheck-mode linum-mode rainbow-delimiters-mode)
+  4231
+  '(4069 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-dos))
+  '((mark-ring (4126 7787 7635 6916 6400 6198 5915 5950 4069 3980 5950 5915 5863 4069 4411 4069))))
+
+(desktop-create-buffer 208
+  "/home/simplex/zzsweet/src/python/ML/DL/study-tensorflow/cnn.py"
+  "cnn.py"
+  'python-mode
+  '(eldoc-mode auto-compile-on-load-mode yas-minor-mode smartparens-mode flx-ido-mode helm-mode company-mode elpy-mode highlight-indentation-mode flycheck-mode linum-mode rainbow-delimiters-mode)
+  1540
+  '(1696 nil)
+  nil
   nil
   '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1351 1514 1104))))
+
+(desktop-create-buffer 208
+  "/home/simplex/zzsweet/src/org/simplex.org"
+  "simplex.org"
+  'org-mode
+  '(auto-compile-on-load-mode org-cdlatex-mode yas-minor-mode smartparens-mode flx-ido-mode helm-mode company-mode flycheck-mode linum-mode org-indent-mode)
+  169
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/simplex/zzsweet/src/org/notes/dengta.org"
+  "dengta.org"
+  'org-mode
+  '(auto-compile-on-load-mode org-cdlatex-mode yas-minor-mode smartparens-mode flx-ido-mode helm-mode company-mode flycheck-mode linum-mode org-indent-mode)
+  841
+  '(50 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-dos) (truncate-lines))
+  '((mark-ring (82 54 50 50 50 96))))
+
+(desktop-create-buffer 208
+  "/home/simplex/zzsweet/src/python/ML/DL/NLP/insuranceQA-cnn-lstm/cnn/tensorflow/my_insqa.py"
+  "my_insqa.py"
+  'python-mode
+  '(eldoc-mode auto-compile-on-load-mode yas-minor-mode smartparens-mode flx-ido-mode helm-mode company-mode elpy-mode highlight-indentation-mode flycheck-mode linum-mode rainbow-delimiters-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/simplex/zzsweet/src/org/notes/NLP.org"
+  "NLP.org"
+  'org-mode
+  '(auto-compile-on-load-mode org-cdlatex-mode yas-minor-mode smartparens-mode flx-ido-mode helm-mode company-mode flycheck-mode linum-mode org-indent-mode)
+  1310
+  '(365 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-dos) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/simplex/zzsweet/src/python/ML/DL/NLP/study_gensim.py"
+  "study_gensim.py"
+  'python-mode
+  '(eldoc-mode auto-compile-on-load-mode yas-minor-mode smartparens-mode flx-ido-mode helm-mode company-mode elpy-mode highlight-indentation-mode flycheck-mode linum-mode rainbow-delimiters-mode)
+  918
+  '(954 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (880 775 851 775 726 137 137 109 17))))
+
+(desktop-create-buffer 208
+  "/home/simplex/zzsweet/src/org/notes/pythonLibrary.org"
+  "pythonLibrary.org"
+  'org-mode
+  '(auto-compile-on-load-mode org-cdlatex-mode yas-minor-mode smartparens-mode flx-ido-mode helm-mode company-mode flycheck-mode linum-mode org-indent-mode)
+  4376
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-dos) (truncate-lines))
   '((mark-ring nil)))
 
