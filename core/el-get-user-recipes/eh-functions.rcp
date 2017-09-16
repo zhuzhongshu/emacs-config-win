@@ -1,0 +1,7 @@
+(:name eh-functions
+:auto-generated t
+:type elpa
+:description "tuamshu's emacs functions"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+:depends (starter-kit)
+)

@@ -2,5 +2,7 @@
 :auto-generated t
 :type elpa
 :description "term-mode enhancement"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (cl-lib)
+:minimum-emacs-version (24)
 )

@@ -1,0 +1,8 @@
+(:name helm-elscreen
+:auto-generated t
+:type elpa
+:description "Elscreen with helm interface"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (helm elscreen cl-lib)
+:minimum-emacs-version (24 1)
+)

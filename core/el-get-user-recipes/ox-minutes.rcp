@@ -1,0 +1,7 @@
+(:name ox-minutes
+:auto-generated t
+:type elpa
+:description "Plain text backend for Org for Meeting Minutes"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:minimum-emacs-version (24 4)
+)

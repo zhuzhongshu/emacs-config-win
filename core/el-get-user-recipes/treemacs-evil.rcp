@@ -1,0 +1,7 @@
+(:name treemacs-evil
+:auto-generated t
+:type elpa
+:description "Evil mode integration for treemacs"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (evil treemacs)
+)

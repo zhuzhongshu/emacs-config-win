@@ -1,0 +1,8 @@
+(:name org-sticky-header
+:auto-generated t
+:type elpa
+:description "Show off-screen Org heading at top of window"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (org)
+:minimum-emacs-version (24 4)
+)

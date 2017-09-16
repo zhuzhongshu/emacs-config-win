@@ -1,0 +1,6 @@
+(:name prettier-js
+:auto-generated t
+:type elpa
+:description "Minor mode to format JS code on file save"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+)

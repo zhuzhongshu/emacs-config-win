@@ -1,0 +1,6 @@
+(:name eh-gnus
+:auto-generated t
+:type elpa
+:description "tuamshu's gnus configure"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+)

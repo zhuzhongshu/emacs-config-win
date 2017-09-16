@@ -1,0 +1,6 @@
+(:name perlcritic
+:auto-generated t
+:type elpa
+:description "minor mode for Perl::Critic integration"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+)

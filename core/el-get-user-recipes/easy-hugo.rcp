@@ -1,0 +1,7 @@
+(:name easy-hugo
+:auto-generated t
+:type elpa
+:description "Write blogs made with hugo by markdown or org-mode"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:minimum-emacs-version (24 4)
+)

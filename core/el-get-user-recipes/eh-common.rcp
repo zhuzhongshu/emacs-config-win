@@ -1,0 +1,6 @@
+(:name eh-common
+:auto-generated t
+:type elpa
+:description "Tumashu's  emacs functions"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+)

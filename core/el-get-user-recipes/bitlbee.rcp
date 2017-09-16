@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Help get Bitlbee (http://www.bitlbee.org) up and running."
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 )

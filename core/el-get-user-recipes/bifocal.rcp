@@ -1,0 +1,7 @@
+(:name bifocal
+:auto-generated t
+:type elpa
+:description "Split-screen scrolling for comint-mode buffers"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:minimum-emacs-version (24 4)
+)

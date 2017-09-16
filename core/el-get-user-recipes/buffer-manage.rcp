@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "manage buffers"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
-:depends (choice-program)
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (choice-program dash)
 :minimum-emacs-version (25)
 )

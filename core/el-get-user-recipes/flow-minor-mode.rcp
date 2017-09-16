@@ -1,0 +1,7 @@
+(:name flow-minor-mode
+:auto-generated t
+:type elpa
+:description "Flow type mode based on web-mode."
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:minimum-emacs-version (25 1)
+)

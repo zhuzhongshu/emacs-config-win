@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Namespaces for emacs-lisp. Avoid name clobbering without hiding symbols."
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (cl-lib)
 :minimum-emacs-version (24 1)
 )

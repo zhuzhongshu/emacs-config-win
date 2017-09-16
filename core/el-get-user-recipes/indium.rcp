@@ -1,0 +1,8 @@
+(:name indium
+:auto-generated t
+:type elpa
+:description "JavaScript Awesome Development Environment"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (seq js2-mode company websocket memoize sourcemap)
+:minimum-emacs-version (25)
+)

@@ -1,0 +1,6 @@
+(:name ob-rust
+:auto-generated t
+:type elpa
+:description "Org-babel functions for Rust"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+)

@@ -1,0 +1,8 @@
+(:name csound-mode
+:auto-generated t
+:type elpa
+:description "A major mode for interacting and coding Csound"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (shut-up multi)
+:minimum-emacs-version (25)
+)

@@ -1,0 +1,7 @@
+(:name nord-theme
+:auto-generated t
+:type elpa
+:description "An arctic, north-bluish clean and elegant theme"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:minimum-emacs-version (24)
+)

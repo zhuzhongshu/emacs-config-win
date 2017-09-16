@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Annotate buffer if indentation depth is beyond threshold."
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 )

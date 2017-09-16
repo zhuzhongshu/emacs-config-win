@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "dynamically resize context around matches in occur-mode"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 )

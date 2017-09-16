@@ -1,0 +1,8 @@
+(:name org-mind-map
+:auto-generated t
+:type elpa
+:description "Creates a directed graph from org-mode files"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (dash org)
+:minimum-emacs-version (24)
+)

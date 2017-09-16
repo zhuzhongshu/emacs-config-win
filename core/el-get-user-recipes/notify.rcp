@@ -1,0 +1,6 @@
+(:name notify
+:auto-generated t
+:type elpa
+:description "notification front-end"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+)

@@ -1,0 +1,7 @@
+(:name smart-hungry-delete
+:auto-generated t
+:type elpa
+:description "smart hungry deletion of whitespace"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:minimum-emacs-version (24 3)
+)

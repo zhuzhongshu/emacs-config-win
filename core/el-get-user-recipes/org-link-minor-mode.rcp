@@ -1,0 +1,7 @@
+(:name org-link-minor-mode
+:auto-generated t
+:type elpa
+:description "Enable org-mode links in non-org modes"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (org)
+)

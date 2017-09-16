@@ -1,0 +1,6 @@
+(:name winner-mode-enable
+:auto-generated t
+:type elpa
+:description "Enables winner mode if its available"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+)

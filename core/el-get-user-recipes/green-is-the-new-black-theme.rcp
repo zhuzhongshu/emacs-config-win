@@ -1,0 +1,6 @@
+(:name green-is-the-new-black-theme
+:auto-generated t
+:type elpa
+:description "A cool and minimalist green blackened theme"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+)

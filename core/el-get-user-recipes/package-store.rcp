@@ -1,0 +1,6 @@
+(:name package-store
+:auto-generated t
+:type elpa
+:description "a package cache"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+)

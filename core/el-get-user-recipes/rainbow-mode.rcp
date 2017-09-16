@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Colorize color names in buffers"
-:repo ("gnu" . "https://elpa.emacs-china.org/gnu/")
+:repo ("gnu" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
 )

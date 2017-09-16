@@ -1,0 +1,8 @@
+(:name maces-game
+:auto-generated t
+:type elpa
+:description "another anagram game."
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (dash cl-lib)
+:minimum-emacs-version (24)
+)

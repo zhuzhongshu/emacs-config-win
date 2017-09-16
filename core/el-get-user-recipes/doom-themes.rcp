@@ -1,8 +1,8 @@
 (:name doom-themes
 :auto-generated t
 :type elpa
-:description "a pack of themes inspired by Atom One"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:description "an opinionated pack of modern color-themes"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (all-the-icons cl-lib)
 :minimum-emacs-version (24 4)
 )

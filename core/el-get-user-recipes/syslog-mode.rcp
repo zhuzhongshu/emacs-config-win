@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Major-mode for viewing log files"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
 :depends (hide-lines)
 )

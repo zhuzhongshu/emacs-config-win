@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Display Flycheck errors in GUI tooltips"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (flycheck pos-tip)
 :minimum-emacs-version (24 1)
 )

@@ -1,0 +1,7 @@
+(:name yasnippet-snippets
+:auto-generated t
+:type elpa
+:description "Collection of yasnippet snippets"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (yasnippet)
+)

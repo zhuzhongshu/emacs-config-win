@@ -1,0 +1,8 @@
+(:name json-navigator
+:auto-generated t
+:type elpa
+:description "View and navigate JSON structures"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (hierarchy)
+:minimum-emacs-version (24 3)
+)

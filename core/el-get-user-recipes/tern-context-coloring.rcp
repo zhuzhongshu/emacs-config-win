@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Use Tern for context coloring"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (context-coloring tern)
 :minimum-emacs-version (24 3)
 )

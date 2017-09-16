@@ -1,0 +1,8 @@
+(:name company-terraform
+:auto-generated t
+:type elpa
+:description "A company backend for terraform"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (company terraform-mode)
+:minimum-emacs-version (24 4)
+)

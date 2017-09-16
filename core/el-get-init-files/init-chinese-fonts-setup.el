@@ -1,4 +1,4 @@
-(require 'chinese-fonts-setup)
+(require 'cnfonts)
 ;; 让 chinese-fonts-setup 随着 emacs 自动生效。
 
 (chinese-fonts-setup-enable)
@@ -33,5 +33,5 @@
 
 
 
-(provide 'chinese-fonts-setup)
-;; ;;; init-auctex-latexmk.el ends here
+(provide 'cnfonts)
+;; ;;; init-cnfonts.el ends here

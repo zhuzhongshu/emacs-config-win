@@ -1,0 +1,7 @@
+(:name yahtzee
+:auto-generated t
+:type elpa
+:description "The yahtzee game"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:minimum-emacs-version (24 3)
+)

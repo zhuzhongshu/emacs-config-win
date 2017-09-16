@@ -1,0 +1,7 @@
+(:name eh-basic
+:auto-generated t
+:type elpa
+:description "tuamshu's emacs basic configure"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+:depends (starter-kit browse-kill-ring)
+)

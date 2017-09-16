@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "ERC nick highlighter that ignores uniquifying chars when colorizing"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 )

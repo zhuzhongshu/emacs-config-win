@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "A modern Packages Menu. Colored, with package ratings, and customizable."
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (seq let-alist spinner hydra)
 :minimum-emacs-version (24 4)
 )

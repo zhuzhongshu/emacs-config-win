@@ -1,0 +1,8 @@
+(:name org-super-agenda
+:auto-generated t
+:type elpa
+:description "Supercharge your agenda"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (s dash org ht)
+:minimum-emacs-version (25 1)
+)

@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Pretty Markdown previews based on mkdown.com"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (markdown-mode)
 )

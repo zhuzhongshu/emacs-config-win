@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "manage and track multiple inferior shells"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (buffer-manage)
 :minimum-emacs-version (25)
 )

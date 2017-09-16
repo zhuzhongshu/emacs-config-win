@@ -1,0 +1,6 @@
+(:name cups
+:auto-generated t
+:type elpa
+:description "CUPS features for Emacs"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+)

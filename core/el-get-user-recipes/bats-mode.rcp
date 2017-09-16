@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Emacs mode for editing and running Bats tests"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 )

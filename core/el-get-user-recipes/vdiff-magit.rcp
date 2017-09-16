@@ -1,0 +1,8 @@
+(:name vdiff-magit
+:auto-generated t
+:type elpa
+:description "magit integration for vdiff"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (vdiff magit)
+:minimum-emacs-version (24 4)
+)

@@ -1,0 +1,7 @@
+(:name dired-sidebar
+:auto-generated t
+:type elpa
+:description "Tree browser leveraging dired"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:minimum-emacs-version (25 1)
+)

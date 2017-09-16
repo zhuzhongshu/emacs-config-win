@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Emacs IPython Notebook"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
-:depends (websocket request cl-generic)
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (websocket auto-complete request deferred request-deferred cl-generic dash s skewer-mode)
 )

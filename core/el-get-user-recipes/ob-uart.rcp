@@ -1,0 +1,6 @@
+(:name ob-uart
+:auto-generated t
+:type elpa
+:description "org-babel support for UART communication"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+)

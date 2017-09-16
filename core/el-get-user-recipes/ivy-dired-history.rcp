@@ -1,0 +1,7 @@
+(:name ivy-dired-history
+:auto-generated t
+:type elpa
+:description "use ivy to open recent directories"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (ivy counsel cl-lib)
+)

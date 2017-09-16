@@ -1,0 +1,8 @@
+(:name slstats
+:auto-generated t
+:type elpa
+:description "Acquire and display stats about Second Life"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

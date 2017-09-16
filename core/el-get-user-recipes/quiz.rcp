@@ -1,0 +1,8 @@
+(:name quiz
+:auto-generated t
+:type elpa
+:description "Multiple choice quiz game"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (cl-lib)
+:minimum-emacs-version (25)
+)

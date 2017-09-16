@@ -1,0 +1,7 @@
+(:name pasp-mode
+:auto-generated t
+:type elpa
+:description "- A major mode for editing Answer Set Programs."
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:minimum-emacs-version (24 3)
+)

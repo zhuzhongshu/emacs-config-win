@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Run processes which will be paused when Emacs is idle"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :minimum-emacs-version (24 4)
 )

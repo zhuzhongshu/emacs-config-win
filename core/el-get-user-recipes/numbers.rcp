@@ -1,0 +1,7 @@
+(:name numbers
+:auto-generated t
+:type elpa
+:description "Display information and trivia about numbers"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:minimum-emacs-version (24)
+)

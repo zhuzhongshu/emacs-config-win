@@ -2,6 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Code navigation, documentation lookup and completion for Ruby"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (inf-ruby)
+:minimum-emacs-version (24 4)
 )

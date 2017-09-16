@@ -1,0 +1,7 @@
+(:name obfusurl
+:auto-generated t
+:type elpa
+:description "Obfuscate URLs so they aren't spoilers"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (cl-lib)
+)

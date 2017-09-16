@@ -1,0 +1,8 @@
+(:name helm-lastpass
+:auto-generated t
+:type elpa
+:description "Helm interface of LastPass"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (helm-core csv)
+:minimum-emacs-version (24 1)
+)

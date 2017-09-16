@@ -1,0 +1,7 @@
+(:name pfuture
+:auto-generated t
+:type elpa
+:description "a simple wrapper around asynchronous processes"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:minimum-emacs-version (25)
+)

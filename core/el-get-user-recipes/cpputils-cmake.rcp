@@ -1,6 +1,6 @@
 (:name cpputils-cmake
 :auto-generated t
 :type elpa
-:description "Easy real time C++ syntax check and intellisense if you use CMake"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:description "Easy realtime C++ syntax check and IntelliSense with CMake."
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 )

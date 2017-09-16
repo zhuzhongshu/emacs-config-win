@@ -1,7 +1,7 @@
 (:name json-mode
 :auto-generated t
 :type elpa
-:description "Major mode for editing JSON files"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:description "Major mode for editing JSON files."
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (json-reformat json-snatcher)
 )

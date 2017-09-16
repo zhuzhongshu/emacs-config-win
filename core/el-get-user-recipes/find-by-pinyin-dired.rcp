@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Find file by first PinYin character of Chinese Hanzi"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (pinyinlib)
 )

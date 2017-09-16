@@ -1,0 +1,7 @@
+(:name binclock
+:auto-generated t
+:type elpa
+:description "Display the current time using a binary clock."
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (cl-lib)
+)

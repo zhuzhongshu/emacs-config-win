@@ -1,0 +1,8 @@
+(:name turing-machine
+:auto-generated t
+:type elpa
+:description "Single-tape Turing machine simulator"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (cl-lib)
+:minimum-emacs-version (24 4)
+)

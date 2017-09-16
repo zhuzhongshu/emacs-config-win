@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "e2wm plugin for svg-clock"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (e2wm svg-clock)
 )

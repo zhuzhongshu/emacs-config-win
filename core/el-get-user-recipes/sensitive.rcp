@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "A dead simple way to load sensitive information"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (sequences)
 :minimum-emacs-version (24)
 )

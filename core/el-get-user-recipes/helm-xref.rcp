@@ -1,0 +1,8 @@
+(:name helm-xref
+:auto-generated t
+:type elpa
+:description "Helm interface for xref results"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (helm)
+:minimum-emacs-version (25 1)
+)

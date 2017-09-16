@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Tagged non-deterministic finite-state automata"
-:repo ("gnu" . "https://elpa.emacs-china.org/gnu/")
+:repo ("gnu" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
 :depends (queue)
 )

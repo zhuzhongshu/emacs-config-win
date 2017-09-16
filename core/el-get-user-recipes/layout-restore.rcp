@@ -1,0 +1,6 @@
+(:name layout-restore
+:auto-generated t
+:type elpa
+:description "keep window configuration as layout and restore it simply."
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+)

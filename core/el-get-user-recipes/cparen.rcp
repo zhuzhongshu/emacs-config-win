@@ -1,0 +1,6 @@
+(:name cparen
+:auto-generated t
+:type elpa
+:description "coloured parentheses in Lisp-derived modes"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+)

@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Tern Completion by auto-complete.el"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (tern auto-complete cl-lib)
 :minimum-emacs-version (24)
 )

@@ -1,0 +1,6 @@
+(:name python-pep8
+:auto-generated t
+:type elpa
+:description "minor mode for running `pep8'"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+)

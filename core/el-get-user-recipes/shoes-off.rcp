@@ -1,0 +1,7 @@
+(:name shoes-off
+:auto-generated t
+:type elpa
+:description "irc bouncer"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+:depends (kv anaphora)
+)

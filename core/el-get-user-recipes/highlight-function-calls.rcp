@@ -1,0 +1,7 @@
+(:name highlight-function-calls
+:auto-generated t
+:type elpa
+:description "Highlight function/macro calls"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:minimum-emacs-version (24 4)
+)

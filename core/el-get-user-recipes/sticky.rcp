@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Sticky key for capital letters"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 )

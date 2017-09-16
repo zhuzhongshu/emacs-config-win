@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Grammar check utility using LanguageTool"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (cl-lib)
 )

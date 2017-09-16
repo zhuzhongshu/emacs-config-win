@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "A Git porcelain inside Emacs"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (async dash with-editor git-commit magit-popup)
 :minimum-emacs-version (24 4)
 )

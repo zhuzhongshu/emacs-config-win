@@ -1,0 +1,7 @@
+(:name ebdb-gnorb
+:auto-generated t
+:type elpa
+:description "Utilities for connecting EBDB to Gnorb"
+:repo ("gnu" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
+:depends (gnorb ebdb)
+)

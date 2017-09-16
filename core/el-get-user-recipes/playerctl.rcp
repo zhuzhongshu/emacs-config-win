@@ -1,0 +1,6 @@
+(:name playerctl
+:auto-generated t
+:type elpa
+:description "Control your music player (e.g. Spotify) with playerctl"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+)

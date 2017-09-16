@@ -1,0 +1,8 @@
+(:name ivy-pass
+:auto-generated t
+:type elpa
+:description "ivy interface for pass"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (ivy password-store)
+:minimum-emacs-version (24)
+)

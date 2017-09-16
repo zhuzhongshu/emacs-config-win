@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Open recentf immediately after Emacs is started"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :minimum-emacs-version (24 4)
 )

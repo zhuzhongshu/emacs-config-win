@@ -1,0 +1,6 @@
+(:name buffer-file-utils
+:auto-generated t
+:type elpa
+:description "utilities operating on a buffer and the associated file"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+)

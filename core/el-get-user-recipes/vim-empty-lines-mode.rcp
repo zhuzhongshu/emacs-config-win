@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Vim-like empty line indicator at end of files."
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :minimum-emacs-version (23)
 )

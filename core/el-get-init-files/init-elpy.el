@@ -38,5 +38,7 @@
 (define-key elpy-mode-map (kbd "<f10>")'elpy-format-code);;格式化代码，与clang-format一致
 (define-key elpy-mode-map (kbd "C-c C-f") nil)
 
+
+(add-hook 'python-mode-hook 'python-docstring-mode)
 (provide 'init-elpy)
 ;;; init-elpy.el ends here

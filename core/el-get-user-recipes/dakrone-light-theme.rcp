@@ -1,0 +1,6 @@
+(:name dakrone-light-theme
+:auto-generated t
+:type elpa
+:description "dakrone's custom light theme"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+)

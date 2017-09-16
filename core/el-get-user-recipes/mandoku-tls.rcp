@@ -1,0 +1,8 @@
+(:name mandoku-tls
+:auto-generated t
+:type elpa
+:description "A tool to access the TLS database"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (mandoku github-clone hydra helm org helm-charinfo)
+:minimum-emacs-version (24 4)
+)

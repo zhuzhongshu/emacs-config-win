@@ -1,0 +1,6 @@
+(:name nssh
+:auto-generated t
+:type elpa
+:description "New SSH mode for Emacs"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+)

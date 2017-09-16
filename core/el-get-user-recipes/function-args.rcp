@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "C++ completion for GNU Emacs"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
-:depends (swiper)
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (ivy)
 )

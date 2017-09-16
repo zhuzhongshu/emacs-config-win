@@ -1,0 +1,7 @@
+(:name sublime
+:auto-generated t
+:type elpa
+:description "REQUIRES EMACS 24 - Sublime Text 2 Emulation for Emacs"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+:depends (coffee-mode find-file-in-project haml-mode ido-ubiquitous less-css-mode magit markdown-mode monokai-theme paredit sass-mode smex yaml-mode yasnippet)
+)

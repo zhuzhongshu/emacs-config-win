@@ -1,0 +1,8 @@
+(:name flycheck-coverity
+:auto-generated t
+:type elpa
+:description "Integrate Coverity with flycheck"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (flycheck dash)
+:minimum-emacs-version (24 4)
+)

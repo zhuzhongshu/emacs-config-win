@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "helm source for yasnippet.el"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (helm yasnippet cl-lib)
 )

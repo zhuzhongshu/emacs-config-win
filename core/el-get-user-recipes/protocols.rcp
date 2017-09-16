@@ -1,0 +1,7 @@
+(:name protocols
+:auto-generated t
+:type elpa
+:description "Protocol database access functions."
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (cl-lib)
+)

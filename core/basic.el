@@ -126,8 +126,23 @@
          (sql-password "Dengtacj2015")  
          (sql-database "db_dengta_info")  
          (sql-port 3306)
-         ))
-      )  
+         )
+        (dengtacj-test-73
+         (sql-product 'mysql)  
+         (sql-server "192.168.9.73")
+         (sql-user "root")  
+         (sql-database "db_dengta_info")  
+         (sql-port 3306)
+         )
+        (dengtacj-test-46
+         (sql-product 'mysql)  
+         (sql-server "192.168.9.46")
+         (sql-user "root")  
+         (sql-database "db_dengta_info")  
+         (sql-port 3306)
+         )
+        ))
+
 
 
 

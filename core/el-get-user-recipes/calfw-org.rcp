@@ -1,0 +1,6 @@
+(:name calfw-org
+:auto-generated t
+:type elpa
+:description "calendar view for org-agenda"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+)

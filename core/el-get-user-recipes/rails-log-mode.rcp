@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Major mode for viewing Rails log files"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 )

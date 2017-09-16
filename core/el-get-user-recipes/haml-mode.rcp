@@ -2,6 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Major mode for editing Haml files"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
-:depends (ruby-mode)
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (cl-lib)
+:minimum-emacs-version (24)
 )

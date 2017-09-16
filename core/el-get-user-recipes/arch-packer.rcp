@@ -1,0 +1,8 @@
+(:name arch-packer
+:auto-generated t
+:type elpa
+:description "Arch Linux package management frontend"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (s async dash)
+:minimum-emacs-version (25 1)
+)

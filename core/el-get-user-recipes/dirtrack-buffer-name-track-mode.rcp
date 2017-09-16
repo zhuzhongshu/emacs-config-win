@@ -1,0 +1,6 @@
+(:name dirtrack-buffer-name-track-mode
+:auto-generated t
+:type elpa
+:description "minor mode to cause shell buffers to reflect the working directory"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+)

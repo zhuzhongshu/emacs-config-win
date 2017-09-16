@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Extensible Vi layer for Emacs."
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (undo-tree goto-chg cl-lib)
 :minimum-emacs-version (24 1)
 )

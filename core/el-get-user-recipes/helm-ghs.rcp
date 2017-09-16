@@ -1,0 +1,8 @@
+(:name helm-ghs
+:auto-generated t
+:type elpa
+:description "ghs with helm interface"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (helm)
+:minimum-emacs-version (24)
+)

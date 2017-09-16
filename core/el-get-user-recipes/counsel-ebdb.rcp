@@ -1,0 +1,7 @@
+(:name counsel-ebdb
+:auto-generated t
+:type elpa
+:description "Counsel integration for EBDB"
+:repo ("gnu" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
+:depends (ivy ebdb)
+)

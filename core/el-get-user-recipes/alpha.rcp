@@ -1,0 +1,6 @@
+(:name alpha
+:auto-generated t
+:type elpa
+:description "increase frame transparency"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+)

@@ -1,0 +1,8 @@
+(:name nlinum-hl
+:auto-generated t
+:type elpa
+:description "heal nlinum's line numbers"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (nlinum cl-lib)
+:minimum-emacs-version (24 4)
+)

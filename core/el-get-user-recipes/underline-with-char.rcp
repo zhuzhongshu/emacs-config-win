@@ -1,0 +1,7 @@
+(:name underline-with-char
+:auto-generated t
+:type elpa
+:description "Underline with a char"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:minimum-emacs-version (24)
+)

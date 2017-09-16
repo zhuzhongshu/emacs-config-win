@@ -1,0 +1,6 @@
+(:name colour-region
+:auto-generated t
+:type elpa
+:description "Toggle regions of the buffer with different text snippets"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+)

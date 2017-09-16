@@ -1,0 +1,6 @@
+(:name fooddice
+:auto-generated t
+:type elpa
+:description "Help me I am hungry and dont know what to eat!"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+)

@@ -1,0 +1,7 @@
+(:name ivy-rtags
+:auto-generated t
+:type elpa
+:description "RTags completion back-end for ivy"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (ivy rtags)
+)

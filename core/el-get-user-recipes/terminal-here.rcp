@@ -1,0 +1,8 @@
+(:name terminal-here
+:auto-generated t
+:type elpa
+:description "Run an external terminal in current directory"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

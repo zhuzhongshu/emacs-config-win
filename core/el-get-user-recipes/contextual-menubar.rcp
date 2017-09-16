@@ -1,0 +1,6 @@
+(:name contextual-menubar
+:auto-generated t
+:type elpa
+:description "display the menubar only on a graphical display"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+)

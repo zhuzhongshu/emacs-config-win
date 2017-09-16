@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Character zapping, `ace-jump-mode` style"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (ace-jump-mode dash)
 )

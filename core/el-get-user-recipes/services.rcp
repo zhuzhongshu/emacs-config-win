@@ -1,0 +1,7 @@
+(:name services
+:auto-generated t
+:type elpa
+:description "Services database access functions."
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (cl-lib)
+)

@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Automatically resize one-window frames to fit"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (fit-frame)
 )

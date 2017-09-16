@@ -1,0 +1,7 @@
+(:name shx
+:auto-generated t
+:type elpa
+:description "\"Extras\" for the (comint-mode) shell"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:minimum-emacs-version (24 4)
+)

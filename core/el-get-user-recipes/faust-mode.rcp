@@ -1,6 +1,6 @@
 (:name faust-mode
 :auto-generated t
 :type elpa
-:description "Basic faust syntax colorizer for emacs."
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:description "Faust syntax colorizer for Emacs."
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 )

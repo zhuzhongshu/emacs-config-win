@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Erlang Development Tool Suite"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
-:depends (auto-complete auto-highlight-symbol dash eproject erlang f popup s)
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (auto-complete auto-highlight-symbol dash erlang f popup s)
 )

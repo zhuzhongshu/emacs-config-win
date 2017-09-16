@@ -1,0 +1,6 @@
+(:name pyim-basedict
+:auto-generated t
+:type elpa
+:description "The default pinyin dict of pyim"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+)

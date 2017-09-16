@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Record screencasts in gif or other formats."
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (names cl-lib)
 :minimum-emacs-version (24)
 )

@@ -1,0 +1,6 @@
+(:name calfw-cal
+:auto-generated t
+:type elpa
+:description "calendar view for emacs diary"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+)

@@ -1,0 +1,7 @@
+(:name gitpatch
+:auto-generated t
+:type elpa
+:description "Git-format patch toolkit"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:minimum-emacs-version (24 3)
+)

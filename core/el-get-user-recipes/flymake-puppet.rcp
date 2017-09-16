@@ -1,7 +1,7 @@
 (:name flymake-puppet
 :auto-generated t
 :type elpa
-:description "An Emacs flymake handler for syntax-checking puppet using puppet-lint"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:description "Flymake handler using puppet-lint"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (flymake-easy)
 )

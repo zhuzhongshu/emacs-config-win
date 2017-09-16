@@ -1,0 +1,7 @@
+(:name kaleidoscope-evil-state-flash
+:auto-generated t
+:type elpa
+:description "Flash keyboard LEDs when changing Evil state"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (evil kaleidoscope s)
+)

@@ -1,7 +1,7 @@
 (:name ox-clip
 :auto-generated t
 :type elpa
-:description "Cross-platform Formatted copy commands for org-mode"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:description "Cross-platform formatted copying for org-mode"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (org htmlize)
 )

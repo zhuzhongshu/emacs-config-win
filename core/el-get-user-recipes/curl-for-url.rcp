@@ -1,0 +1,7 @@
+(:name curl-for-url
+:auto-generated t
+:type elpa
+:description "use url-retrieve with curl doing the work"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+:depends (noflet)
+)

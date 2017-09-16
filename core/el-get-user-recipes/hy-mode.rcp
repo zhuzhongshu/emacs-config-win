@@ -1,6 +1,8 @@
 (:name hy-mode
 :auto-generated t
 :type elpa
-:description "Major mode for Hy code"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:description "Major mode for Hylang"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (dash dash-functional s)
+:minimum-emacs-version (24)
 )

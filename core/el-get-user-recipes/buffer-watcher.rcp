@@ -1,0 +1,7 @@
+(:name buffer-watcher
+:auto-generated t
+:type elpa
+:description "Easily run shell scripts per filetype/directory when a buffer is saved"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (f cl-lib)
+)

@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "helm sources for emmet-mode's snippets"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (helm emmet-mode)
 )

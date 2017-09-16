@@ -1,0 +1,6 @@
+(:name xml-gen
+:auto-generated t
+:type elpa
+:description "A DSL for generating XML."
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+)

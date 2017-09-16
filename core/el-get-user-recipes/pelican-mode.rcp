@@ -1,0 +1,7 @@
+(:name pelican-mode
+:auto-generated t
+:type elpa
+:description "Minor mode for editing Pelican sites"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:minimum-emacs-version (25)
+)

@@ -1,0 +1,6 @@
+(:name typopunct
+:auto-generated t
+:type elpa
+:description "Automatic typographical punctuation marks"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+)

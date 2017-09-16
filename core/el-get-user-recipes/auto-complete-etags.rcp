@@ -1,0 +1,7 @@
+(:name auto-complete-etags
+:auto-generated t
+:type elpa
+:description "Auto-complete etags"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+:depends (auto-complete)
+)

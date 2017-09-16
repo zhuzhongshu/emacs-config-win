@@ -2,6 +2,7 @@
 :auto-generated t
 :type elpa
 :description "evil keybindings for org-mode"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
-:depends (evil org evil-leader)
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (evil org)
+:minimum-emacs-version (24 4)
 )

@@ -2,5 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Helper code for use with the \"ledger\" command-line tool"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:minimum-emacs-version (24 3)
 )

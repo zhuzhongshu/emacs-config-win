@@ -1,6 +1,7 @@
 (:name nix-mode
 :auto-generated t
 :type elpa
-:description "Major mode for editing Nix expressions"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:description "Major mode for editing .nix files"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:minimum-emacs-version (24 3)
 )

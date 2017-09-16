@@ -1,0 +1,8 @@
+(:name all-the-icons-ivy
+:auto-generated t
+:type elpa
+:description "Shows icons while using ivy and counsel"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (all-the-icons ivy)
+:minimum-emacs-version (24 4)
+)

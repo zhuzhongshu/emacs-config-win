@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "flycheck checker for gometalinter"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (flycheck)
 :minimum-emacs-version (24)
 )

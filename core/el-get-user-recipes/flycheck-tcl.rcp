@@ -1,0 +1,7 @@
+(:name flycheck-tcl
+:auto-generated t
+:type elpa
+:description "A flycheck checker for Tcl using ActiveState's tclchecker"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+:depends (flycheck)
+)

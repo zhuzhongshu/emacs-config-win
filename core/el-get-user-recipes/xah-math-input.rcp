@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "a minor mode for inputting math and Unicode symbols."
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :minimum-emacs-version (24 1)
 )

@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Browse dash docsets using Ivy"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (dash dash-functional helm-dash counsel)
 :minimum-emacs-version (24 4)
 )

@@ -1,0 +1,6 @@
+(:name ini-mode
+:auto-generated t
+:type elpa
+:description "Major mode for Windows-style ini files."
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+)

@@ -1,0 +1,7 @@
+(:name ivy-lobsters
+:auto-generated t
+:type elpa
+:description "Browse lobste.rs stories with ivy."
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (ivy cl-lib)
+)

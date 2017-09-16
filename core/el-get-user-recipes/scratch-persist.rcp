@@ -1,0 +1,6 @@
+(:name scratch-persist
+:auto-generated t
+:type elpa
+:description "persist the scratch buffer across sessions"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+)

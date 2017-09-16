@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "make bbdb show if pal is online with ERC, click i to chat"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (bbdb)
 )

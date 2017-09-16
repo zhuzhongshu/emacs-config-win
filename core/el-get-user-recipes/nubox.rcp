@@ -1,0 +1,6 @@
+(:name nubox
+:auto-generated t
+:type elpa
+:description "Nubox color theme (dark, light and tty versions)"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+)

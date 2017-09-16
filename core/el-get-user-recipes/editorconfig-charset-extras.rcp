@@ -1,0 +1,7 @@
+(:name editorconfig-charset-extras
+:auto-generated t
+:type elpa
+:description "Extra EditorConfig Charset Support"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (editorconfig)
+)

@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Add interactive commands for every manpages installed in your computer."
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (cl-lib)
 )

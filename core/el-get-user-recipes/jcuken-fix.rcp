@@ -1,0 +1,6 @@
+(:name jcuken-fix
+:auto-generated t
+:type elpa
+:description "Map Modifier-CyrillicLetter to the underlying Modifier-LatinLetter."
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+)

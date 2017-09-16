@@ -1,0 +1,7 @@
+(:name catmacs
+:auto-generated t
+:type elpa
+:description "Simple CAT interface for Yaesu Transceivers."
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:minimum-emacs-version (24)
+)

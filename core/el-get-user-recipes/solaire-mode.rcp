@@ -1,0 +1,8 @@
+(:name solaire-mode
+:auto-generated t
+:type elpa
+:description "make certain buffers grossly incandescent"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (cl-lib)
+:minimum-emacs-version (24 4)
+)

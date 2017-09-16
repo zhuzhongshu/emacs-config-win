@@ -1,0 +1,8 @@
+(:name cframe
+:auto-generated t
+:type elpa
+:description "customize a frame and fast switch size and positions"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (buffer-manage dash)
+:minimum-emacs-version (25)
+)

@@ -1,0 +1,8 @@
+(:name magit-tbdiff
+:auto-generated t
+:type elpa
+:description "Magit extension for git-tbdiff"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (magit)
+:minimum-emacs-version (24 4)
+)

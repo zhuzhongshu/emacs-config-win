@@ -1,0 +1,8 @@
+(:name ebdb
+:auto-generated t
+:type elpa
+:description "Contact management package"
+:repo ("gnu" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
+:depends (cl-lib seq)
+:minimum-emacs-version (25 1)
+)

@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Indents code as you type"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (es-lib cl-lib)
 )

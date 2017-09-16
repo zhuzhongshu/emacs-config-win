@@ -1,0 +1,6 @@
+(:name current-story
+:auto-generated t
+:type elpa
+:description "Track and insert current Pivotal Tracker"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+)

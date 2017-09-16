@@ -1,0 +1,7 @@
+(:name auto-read-only
+:auto-generated t
+:type elpa
+:description "Automatically make the buffer to read-only"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (cl-lib)
+)

@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Tiny functionality enhancements for evaluating sexps."
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (highlight smartparens thingatpt)
 )

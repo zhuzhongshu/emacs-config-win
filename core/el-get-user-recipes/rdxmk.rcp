@@ -1,0 +1,6 @@
+(:name rdxmk
+:auto-generated t
+:type elpa
+:description "A small set of tools for redox developments"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+)

@@ -1,0 +1,7 @@
+(:name meson-mode
+:auto-generated t
+:type elpa
+:description "Major mode for the Meson build system files"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:minimum-emacs-version (24 3)
+)

@@ -1,0 +1,6 @@
+(:name jam-mode
+:auto-generated t
+:type elpa
+:description "Font-lock support for Jam files"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+)

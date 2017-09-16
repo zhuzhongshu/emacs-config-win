@@ -1,0 +1,7 @@
+(:name helm-frame
+:auto-generated t
+:type elpa
+:description "open helm buffers in a dedicated frame"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:minimum-emacs-version (24 4)
+)

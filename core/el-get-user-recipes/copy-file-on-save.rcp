@@ -1,0 +1,8 @@
+(:name copy-file-on-save
+:auto-generated t
+:type elpa
+:description "Copy file on save, automatic deployment it."
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (cl-lib f s)
+:minimum-emacs-version (24 3)
+)

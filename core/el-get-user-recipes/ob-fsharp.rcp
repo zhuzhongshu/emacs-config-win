@@ -1,0 +1,8 @@
+(:name ob-fsharp
+:auto-generated t
+:type elpa
+:description "Org-Babel F#"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (fsharp-mode)
+:minimum-emacs-version (25)
+)

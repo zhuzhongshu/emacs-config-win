@@ -1,0 +1,8 @@
+(:name flycheck-julia
+:auto-generated t
+:type elpa
+:description "Julia support for Flycheck"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (flycheck)
+:minimum-emacs-version (24)
+)

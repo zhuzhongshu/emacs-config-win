@@ -1,0 +1,6 @@
+(:name grep-o-matic
+:auto-generated t
+:type elpa
+:description "auto grep word under cursor"
+:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+)

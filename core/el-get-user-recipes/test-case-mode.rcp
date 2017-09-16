@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "unit test front-end"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
 :depends (fringe-helper)
 )

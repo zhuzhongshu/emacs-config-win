@@ -1,0 +1,7 @@
+(:name dired-collapse
+:auto-generated t
+:type elpa
+:description "Collapse unique nested paths in dired listing"
+:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+:depends (dash f)
+)
