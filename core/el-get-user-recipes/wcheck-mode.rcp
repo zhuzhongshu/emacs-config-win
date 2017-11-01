@@ -1,6 +1,0 @@
-(:name wcheck-mode
-:auto-generated t
-:type elpa
-:description "General interface for text checkers"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

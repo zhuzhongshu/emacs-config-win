@@ -1,6 +1,0 @@
-(:name yatex
-:auto-generated t
-:type elpa
-:description "Yet Another tex-mode for emacs //\351\207\216\351\263\245//"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
-)

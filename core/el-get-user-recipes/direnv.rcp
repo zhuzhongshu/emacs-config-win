@@ -1,8 +1,0 @@
-(:name direnv
-:auto-generated t
-:type elpa
-:description "direnv support for emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dash with-editor)
-:minimum-emacs-version (24 4)
-)

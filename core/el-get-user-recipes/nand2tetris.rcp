@@ -1,7 +1,0 @@
-(:name nand2tetris
-:auto-generated t
-:type elpa
-:description "Major mode for HDL files in the nand2tetris course"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24)
-)

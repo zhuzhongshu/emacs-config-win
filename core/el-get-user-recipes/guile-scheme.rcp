@@ -1,6 +1,0 @@
-(:name guile-scheme
-:auto-generated t
-:type elpa
-:description "Guile Scheme editing mode"
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-)

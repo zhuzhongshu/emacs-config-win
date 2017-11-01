@@ -1,6 +1,0 @@
-(:name auto-complete-verilog
-:auto-generated t
-:type elpa
-:description "Verukig"
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-)

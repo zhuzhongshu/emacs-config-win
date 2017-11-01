@@ -1,8 +1,0 @@
-(:name importmagic
-:auto-generated t
-:type elpa
-:description "Fix Python imports using importmagic."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (f epc)
-:minimum-emacs-version (24 3)
-)

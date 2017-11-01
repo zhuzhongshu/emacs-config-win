@@ -1,7 +1,0 @@
-(:name vertigo
-:auto-generated t
-:type elpa
-:description "Jump across lines using the home row."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dash)
-)

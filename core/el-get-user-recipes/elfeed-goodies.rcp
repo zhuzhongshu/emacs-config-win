@@ -1,7 +1,0 @@
-(:name elfeed-goodies
-:auto-generated t
-:type elpa
-:description "Elfeed goodies"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (popwin powerline elfeed cl-lib noflet ace-jump-mode)
-)

@@ -1,8 +1,0 @@
-(:name cfml-mode
-:auto-generated t
-:type elpa
-:description "Emacs mode for editing CFML files"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (mmm-mode cftag-mode)
-:minimum-emacs-version (25)
-)

@@ -1,7 +1,0 @@
-(:name let-alist
-:auto-generated t
-:type elpa
-:description "Easily let-bind values of an assoc-list by their names"
-:repo ("gnu" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
-:minimum-emacs-version (24 1)
-)

@@ -1,6 +1,0 @@
-(:name unicode-emoticons
-:auto-generated t
-:type elpa
-:description "Shortcuts for common unicode emoticons"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

@@ -1,7 +1,0 @@
-(:name mocker
-:auto-generated t
-:type elpa
-:description "mocking framework for emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (eieio el-x)
-)

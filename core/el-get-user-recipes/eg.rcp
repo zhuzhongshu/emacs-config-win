@@ -1,8 +1,0 @@
-(:name eg
-:auto-generated t
-:type elpa
-:description "Norton Guide reader"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-:minimum-emacs-version (24 3)
-)

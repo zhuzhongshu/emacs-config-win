@@ -1,6 +1,0 @@
-(:name face-explorer
-:auto-generated t
-:type elpa
-:description "Library and tools for faces and text properties"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

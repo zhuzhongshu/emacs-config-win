@@ -1,6 +1,0 @@
-(:name gulp-task-runner
-:auto-generated t
-:type elpa
-:description "Gulp task runner"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

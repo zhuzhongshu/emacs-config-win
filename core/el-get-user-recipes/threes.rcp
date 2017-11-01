@@ -1,8 +1,0 @@
-(:name threes
-:auto-generated t
-:type elpa
-:description "A clone of Threes (a tiny puzzle game)"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (seq)
-:minimum-emacs-version (24)
-)

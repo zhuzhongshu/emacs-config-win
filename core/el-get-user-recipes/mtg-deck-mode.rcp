@@ -1,7 +1,0 @@
-(:name mtg-deck-mode
-:auto-generated t
-:type elpa
-:description "Major mode to edit MTG decks"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (25 1)
-)

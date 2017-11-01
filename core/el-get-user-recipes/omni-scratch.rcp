@@ -1,6 +1,0 @@
-(:name omni-scratch
-:auto-generated t
-:type elpa
-:description "Easy and mode-specific draft buffers"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

@@ -1,7 +1,0 @@
-(:name anything-project
-:auto-generated t
-:type elpa
-:description "finding any resource of a project"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
-:depends (imakado anything)
-)

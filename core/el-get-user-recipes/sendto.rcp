@@ -1,7 +1,0 @@
-(:name sendto
-:auto-generated t
-:type elpa
-:description "send the region content to a function"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 4)
-)

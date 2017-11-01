@@ -1,6 +1,0 @@
-(:name danneskjold-theme
-:auto-generated t
-:type elpa
-:description "Beautiful high-contrast Emacs theme."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

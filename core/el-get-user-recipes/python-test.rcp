@@ -1,7 +1,0 @@
-(:name python-test
-:auto-generated t
-:type elpa
-:description "Python testing integration"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (25 1)
-)

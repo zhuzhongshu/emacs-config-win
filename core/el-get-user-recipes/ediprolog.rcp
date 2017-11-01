@@ -1,6 +1,0 @@
-(:name ediprolog
-:auto-generated t
-:type elpa
-:description "Emacs Does Interactive Prolog"
-:repo ("gnu" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
-)

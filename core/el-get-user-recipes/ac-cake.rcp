@@ -1,7 +1,0 @@
-(:name ac-cake
-:auto-generated t
-:type elpa
-:description "CakePHP Minor Mode auto-complete.el source"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cake auto-complete)
-)

@@ -1,7 +1,0 @@
-(:name erc-twitch
-:auto-generated t
-:type elpa
-:description "Support for Twitch emotes for ERC."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (json erc)
-)

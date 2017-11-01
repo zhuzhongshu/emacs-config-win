@@ -1,6 +1,0 @@
-(:name sqlup-mode
-:auto-generated t
-:type elpa
-:description "Upcase SQL words for you"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

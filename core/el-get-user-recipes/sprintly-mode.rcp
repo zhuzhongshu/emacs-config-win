@@ -1,7 +1,0 @@
-(:name sprintly-mode
-:auto-generated t
-:type elpa
-:description "Major mode for dealing with sprint.ly"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (furl)
-)

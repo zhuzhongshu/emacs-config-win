@@ -1,7 +1,0 @@
-(:name pcache
-:auto-generated t
-:type elpa
-:description "persistent caching for Emacs."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (eieio)
-)

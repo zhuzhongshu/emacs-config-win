@@ -1,7 +1,0 @@
-(:name eopengrok
-:auto-generated t
-:type elpa
-:description "opengrok interface for emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (s dash magit cl-lib)
-)

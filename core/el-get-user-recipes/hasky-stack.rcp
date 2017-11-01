@@ -1,8 +1,0 @@
-(:name hasky-stack
-:auto-generated t
-:type elpa
-:description "Interface to the Stack Haskell development tool"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (f magit-popup)
-:minimum-emacs-version (24 4)
-)

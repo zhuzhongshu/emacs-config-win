@@ -1,7 +1,0 @@
-(:name helm-rails
-:auto-generated t
-:type elpa
-:description "Helm extension for Rails projects."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (helm inflections)
-)

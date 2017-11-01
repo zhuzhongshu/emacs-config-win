@@ -1,7 +1,0 @@
-(:name helm-cider-history
-:auto-generated t
-:type elpa
-:description "Helm interface for cider history"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (helm cider)
-)

@@ -1,8 +1,0 @@
-(:name ggtags
-:auto-generated t
-:type elpa
-:description "emacs frontend to GNU Global source code tagging system"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-:minimum-emacs-version (24)
-)

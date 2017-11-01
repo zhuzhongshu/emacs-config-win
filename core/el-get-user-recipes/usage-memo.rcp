@@ -1,6 +1,0 @@
-(:name usage-memo
-:auto-generated t
-:type elpa
-:description "integration of Emacs help system and memo"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

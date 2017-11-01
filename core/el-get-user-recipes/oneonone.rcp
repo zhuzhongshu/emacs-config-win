@@ -1,7 +1,0 @@
-(:name oneonone
-:auto-generated t
-:type elpa
-:description "Frame configuration that uses one frame per window."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (hexrgb)
-)

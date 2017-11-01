@@ -1,7 +1,0 @@
-(:name node-resolver
-:auto-generated t
-:type elpa
-:description "hook to install node modules in background"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-)

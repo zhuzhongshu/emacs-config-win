@@ -1,7 +1,0 @@
-(:name alda-mode
-:auto-generated t
-:type elpa
-:description "An Alda major mode"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 0)
-)

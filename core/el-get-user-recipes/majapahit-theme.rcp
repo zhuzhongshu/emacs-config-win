@@ -1,6 +1,0 @@
-(:name majapahit-theme
-:auto-generated t
-:type elpa
-:description "Color theme with a dark and light versions"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

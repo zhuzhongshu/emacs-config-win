@@ -1,6 +1,0 @@
-(:name mark-more-like-this
-:auto-generated t
-:type elpa
-:description "Mark additional regions in buffer matching current region."
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-)

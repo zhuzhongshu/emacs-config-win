@@ -1,6 +1,0 @@
-(:name minimal-session-saver
-:auto-generated t
-:type elpa
-:description "Very lean session saver"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

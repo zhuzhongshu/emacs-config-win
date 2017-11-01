@@ -1,6 +1,0 @@
-(:name pgdevenv
-:auto-generated t
-:type elpa
-:description "Manage your PostgreSQL development envs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

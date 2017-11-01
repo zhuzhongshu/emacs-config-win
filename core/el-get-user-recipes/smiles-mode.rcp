@@ -1,6 +1,0 @@
-(:name smiles-mode
-:auto-generated t
-:type elpa
-:description "Major mode for SMILES."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

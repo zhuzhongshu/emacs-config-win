@@ -1,7 +1,0 @@
-(:name xah-replace-pairs
-:auto-generated t
-:type elpa
-:description "emacs lisp functions for multi-pair find/replace."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 1)
-)

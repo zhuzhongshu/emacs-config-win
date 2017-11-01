@@ -1,7 +1,0 @@
-(:name kubernetes-evil
-:auto-generated t
-:type elpa
-:description "Kubernetes keybindings for evil-mode."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (kubernetes evil)
-)

@@ -1,7 +1,0 @@
-(:name graphene
-:auto-generated t
-:type elpa
-:description "Friendly Emacs defaults"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dash exec-path-from-shell ppd-sr-speedbar sr-speedbar ido-completing-read+ smex web-mode smartparens graphene-meta-theme flycheck company)
-)

@@ -1,6 +1,0 @@
-(:name test-kitchen
-:auto-generated t
-:type elpa
-:description "Run test-kitchen inside of emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

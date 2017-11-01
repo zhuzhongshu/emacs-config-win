@@ -1,8 +1,0 @@
-(:name timp
-:auto-generated t
-:type elpa
-:description "Multithreading library"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib fifo-class signal)
-:minimum-emacs-version (24 4)
-)

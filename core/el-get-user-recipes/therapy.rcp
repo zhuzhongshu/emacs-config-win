@@ -1,7 +1,0 @@
-(:name therapy
-:auto-generated t
-:type elpa
-:description "Hooks for managing multiple Python major versions"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24)
-)

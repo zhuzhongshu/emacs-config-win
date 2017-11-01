@@ -1,8 +1,0 @@
-(:name helm-emms
-:auto-generated t
-:type elpa
-:description "Emms for Helm."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (helm emms cl-lib)
-:minimum-emacs-version (24 1)
-)

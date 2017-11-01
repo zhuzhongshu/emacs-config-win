@@ -1,7 +1,0 @@
-(:name kakapo-mode
-:auto-generated t
-:type elpa
-:description "TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-)

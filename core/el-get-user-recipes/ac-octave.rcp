@@ -1,7 +1,0 @@
-(:name ac-octave
-:auto-generated t
-:type elpa
-:description "An auto-complete source for Octave"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (auto-complete)
-)

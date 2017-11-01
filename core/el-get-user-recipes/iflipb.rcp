@@ -1,6 +1,0 @@
-(:name iflipb
-:auto-generated t
-:type elpa
-:description "interactively flip between recently visited buffers"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

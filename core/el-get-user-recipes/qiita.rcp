@@ -1,7 +1,0 @@
-(:name qiita
-:auto-generated t
-:type elpa
-:description "Qiita API Library for emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (helm markdown-mode)
-)

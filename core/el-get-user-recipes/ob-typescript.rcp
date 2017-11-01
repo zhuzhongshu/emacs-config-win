@@ -1,8 +1,0 @@
-(:name ob-typescript
-:auto-generated t
-:type elpa
-:description "org-babel functions for typescript evaluation"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (org)
-:minimum-emacs-version (24)
-)

@@ -1,7 +1,0 @@
-(:name hierarchy
-:auto-generated t
-:type elpa
-:description "Library to create and display hierarchy structures"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (25 1)
-)

@@ -1,8 +1,0 @@
-(:name all-the-icons-gnus
-:auto-generated t
-:type elpa
-:description "Shows icons for in Gnus"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dash all-the-icons)
-:minimum-emacs-version (24 4)
-)

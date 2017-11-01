@@ -1,7 +1,0 @@
-(:name evil-find-char-pinyin
-:auto-generated t
-:type elpa
-:description "Evil's f/F/t/T/evil-snipe commands with Pinyin support"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (evil pinyinlib)
-)

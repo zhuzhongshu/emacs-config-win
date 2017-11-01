@@ -1,6 +1,0 @@
-(:name corral
-:auto-generated t
-:type elpa
-:description "Quickly surround text with delimiters"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

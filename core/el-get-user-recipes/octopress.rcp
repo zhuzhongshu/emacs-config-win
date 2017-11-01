@@ -1,6 +1,0 @@
-(:name octopress
-:auto-generated t
-:type elpa
-:description "A lightweight wrapper for Jekyll and Octopress."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

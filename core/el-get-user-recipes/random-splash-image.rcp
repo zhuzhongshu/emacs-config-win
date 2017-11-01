@@ -1,6 +1,0 @@
-(:name random-splash-image
-:auto-generated t
-:type elpa
-:description "Randomly sets splash image to *GNU Emacs* buffer on startup."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

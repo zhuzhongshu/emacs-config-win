@@ -1,7 +1,0 @@
-(:name avy-zap
-:auto-generated t
-:type elpa
-:description "Zap to char using `avy'"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (avy)
-)

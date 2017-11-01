@@ -1,7 +1,0 @@
-(:name hexo
-:auto-generated t
-:type elpa
-:description "Major mode & tools for Hexo"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 3)
-)

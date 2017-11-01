@@ -1,6 +1,0 @@
-(:name vhdl-capf
-:auto-generated t
-:type elpa
-:description "Completion at point function (capf) for vhdl-mode."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

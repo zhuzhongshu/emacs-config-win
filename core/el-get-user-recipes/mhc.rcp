@@ -1,7 +1,0 @@
-(:name mhc
-:auto-generated t
-:type elpa
-:description "Message Harmonized Calendaring system."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (calfw)
-)

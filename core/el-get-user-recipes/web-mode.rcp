@@ -1,7 +1,0 @@
-(:name web-mode
-:auto-generated t
-:type elpa
-:description "major mode for editing web templates"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (23 1)
-)

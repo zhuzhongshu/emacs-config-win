@@ -1,6 +1,0 @@
-(:name hungarian-holidays
-:auto-generated t
-:type elpa
-:description "Adds a list of Hungarian public holidays to Emacs calendar"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

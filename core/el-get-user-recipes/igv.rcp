@@ -1,6 +1,0 @@
-(:name igv
-:auto-generated t
-:type elpa
-:description "Control Integrative Genomic Viewer within Emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

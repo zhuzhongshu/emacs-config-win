@@ -1,7 +1,0 @@
-(:name symbol-overlay
-:auto-generated t
-:type elpa
-:description "Highlight symbols with keymap-enabled overlays"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 3)
-)

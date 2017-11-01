@@ -1,6 +1,0 @@
-(:name php-boris
-:auto-generated t
-:type elpa
-:description "Run boris php REPL"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

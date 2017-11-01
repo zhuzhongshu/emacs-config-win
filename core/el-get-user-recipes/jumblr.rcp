@@ -1,7 +1,0 @@
-(:name jumblr
-:auto-generated t
-:type elpa
-:description "an anagram game for emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (s dash)
-)

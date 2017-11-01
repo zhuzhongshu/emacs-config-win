@@ -1,7 +1,0 @@
-(:name bind-chord
-:auto-generated t
-:type elpa
-:description "key-chord binding helper for use-package-chords"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (bind-key key-chord)
-)

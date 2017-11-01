@@ -1,7 +1,0 @@
-(:name kaesar-mode
-:auto-generated t
-:type elpa
-:description "Encrypt/Decrypt buffer by AES with password."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (kaesar cl-lib)
-)

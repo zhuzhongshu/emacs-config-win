@@ -1,6 +1,0 @@
-(:name fireplace
-:auto-generated t
-:type elpa
-:description "A cozy fireplace for emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

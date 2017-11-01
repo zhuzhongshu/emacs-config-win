@@ -1,7 +1,0 @@
-(:name other-frame-window
-:auto-generated t
-:type elpa
-:description "Minor mode to enable global prefix keys for other frame/window buffer placement"
-:repo ("gnu" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
-:minimum-emacs-version (24 4)
-)

@@ -1,7 +1,0 @@
-(:name rally-mode
-:auto-generated t
-:type elpa
-:description "a mode to interact with the Rally Software web site."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (popwin)
-)

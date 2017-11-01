@@ -1,7 +1,0 @@
-(:name historian
-:auto-generated t
-:type elpa
-:description "Persistently store selected minibuffer candidates"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 4)
-)

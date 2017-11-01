@@ -1,8 +1,0 @@
-(:name flycheck-status-emoji
-:auto-generated t
-:type elpa
-:description "Show flycheck status using cute, compact emoji"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib flycheck let-alist)
-:minimum-emacs-version (24)
-)

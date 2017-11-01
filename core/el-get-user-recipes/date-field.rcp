@@ -1,7 +1,0 @@
-(:name date-field
-:auto-generated t
-:type elpa
-:description "Date widget"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dash log4e yaxception)
-)

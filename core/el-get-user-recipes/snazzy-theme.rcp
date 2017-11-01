@@ -1,8 +1,0 @@
-(:name snazzy-theme
-:auto-generated t
-:type elpa
-:description "An elegant syntax theme with bright colors"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (base16-theme)
-:minimum-emacs-version (24)
-)

@@ -1,6 +1,0 @@
-(:name esxml
-:auto-generated t
-:type elpa
-:description "Library for working with xml via esxml and sxml"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

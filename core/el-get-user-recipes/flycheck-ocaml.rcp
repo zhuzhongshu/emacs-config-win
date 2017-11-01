@@ -1,8 +1,0 @@
-(:name flycheck-ocaml
-:auto-generated t
-:type elpa
-:description "Flycheck: OCaml support"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (flycheck merlin let-alist)
-:minimum-emacs-version (24 1)
-)

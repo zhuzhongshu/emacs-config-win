@@ -1,7 +1,0 @@
-(:name cliphist
-:auto-generated t
-:type elpa
-:description "Read data from clipboard managers at Linux and Mac"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (popup)
-)

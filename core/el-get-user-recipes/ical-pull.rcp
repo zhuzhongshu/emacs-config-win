@@ -1,7 +1,0 @@
-(:name ical-pull
-:auto-generated t
-:type elpa
-:description "pull ical feeds into org-agenda"
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-:depends (shadchen dash s noflet web)
-)

@@ -1,7 +1,0 @@
-(:name nixos-options
-:auto-generated t
-:type elpa
-:description "Interface for browsing and completing NixOS options."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24)
-)

@@ -1,6 +1,0 @@
-(:name plan9-theme
-:auto-generated t
-:type elpa
-:description "A color theme for Emacs based on Plan9"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

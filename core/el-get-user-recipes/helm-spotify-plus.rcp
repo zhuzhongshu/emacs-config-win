@@ -1,8 +1,0 @@
-(:name helm-spotify-plus
-:auto-generated t
-:type elpa
-:description "Control Spotify search and select music with Helm."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (helm multi)
-:minimum-emacs-version (24 4)
-)

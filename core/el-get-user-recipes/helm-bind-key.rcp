@@ -1,7 +1,0 @@
-(:name helm-bind-key
-:auto-generated t
-:type elpa
-:description "helm-source for for bind-key."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (bind-key helm)
-)

@@ -1,8 +1,0 @@
-(:name ergoemacs-mode
-:auto-generated t
-:type elpa
-:description "Emacs mode based on common modern interface and ergonomics."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (undo-tree cl-lib)
-:minimum-emacs-version (24 1)
-)

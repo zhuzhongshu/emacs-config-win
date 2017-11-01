@@ -1,6 +1,0 @@
-(:name hugo
-:auto-generated t
-:type elpa
-:description "Helper functions for Hugo"
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-)

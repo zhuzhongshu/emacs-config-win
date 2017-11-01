@@ -1,6 +1,0 @@
-(:name moe-theme
-:auto-generated t
-:type elpa
-:description "A colorful eye-candy theme. Moe, moe, kyun!"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

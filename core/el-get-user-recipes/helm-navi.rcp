@@ -1,8 +1,0 @@
-(:name helm-navi
-:auto-generated t
-:type elpa
-:description "Helm for navi-mode"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (helm navi-mode s)
-:minimum-emacs-version (24 4)
-)

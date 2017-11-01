@@ -1,8 +1,0 @@
-(:name ido-completing-read+
-:auto-generated t
-:type elpa
-:description "A completing-read-function using ido"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib s memoize)
-:minimum-emacs-version (24 4)
-)

@@ -1,6 +1,0 @@
-(:name fingers
-:auto-generated t
-:type elpa
-:description "Modal editing with universal text manipulation helpers."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

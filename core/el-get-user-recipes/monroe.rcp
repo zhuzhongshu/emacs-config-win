@@ -1,6 +1,0 @@
-(:name monroe
-:auto-generated t
-:type elpa
-:description "Yet another client for nREPL"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

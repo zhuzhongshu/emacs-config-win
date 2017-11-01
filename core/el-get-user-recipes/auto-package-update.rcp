@@ -1,8 +1,0 @@
-(:name auto-package-update
-:auto-generated t
-:type elpa
-:description "Automatically update Emacs packages."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dash)
-:minimum-emacs-version (24 4)
-)

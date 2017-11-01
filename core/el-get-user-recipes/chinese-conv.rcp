@@ -1,7 +1,0 @@
-(:name chinese-conv
-:auto-generated t
-:type elpa
-:description "Conversion between Chinese Characters with opencc or cconv"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-)

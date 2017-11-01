@@ -1,7 +1,0 @@
-(:name simple-httpd
-:auto-generated t
-:type elpa
-:description "pure elisp HTTP server"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-)

@@ -1,8 +1,0 @@
-(:name flycheck-purescript
-:auto-generated t
-:type elpa
-:description "Flycheck: PureScript support"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (flycheck dash let-alist seq)
-:minimum-emacs-version (24 3)
-)

@@ -1,7 +1,0 @@
-(:name auto-complete-chunk
-:auto-generated t
-:type elpa
-:description "Auto-completion for dot.separated.words."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (auto-complete)
-)

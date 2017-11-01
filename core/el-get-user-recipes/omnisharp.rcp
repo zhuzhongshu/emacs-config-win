@@ -1,8 +1,0 @@
-(:name omnisharp
-:auto-generated t
-:type elpa
-:description "Omnicompletion (intellisense) and more for C#"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (flycheck dash auto-complete popup csharp-mode cl-lib s shut-up f)
-:minimum-emacs-version (24)
-)

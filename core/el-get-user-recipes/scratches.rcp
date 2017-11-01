@@ -1,7 +1,0 @@
-(:name scratches
-:auto-generated t
-:type elpa
-:description "Multiple scratches in any language"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dash f)
-)

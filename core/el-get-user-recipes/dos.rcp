@@ -1,6 +1,0 @@
-(:name dos
-:auto-generated t
-:type elpa
-:description "Major mode for editing Dos scripts"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
-)

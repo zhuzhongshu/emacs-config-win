@@ -1,7 +1,0 @@
-(:name sound-wav
-:auto-generated t
-:type elpa
-:description "Play wav file"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (deferred cl-lib)
-)

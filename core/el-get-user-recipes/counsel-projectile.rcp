@@ -1,7 +1,0 @@
-(:name counsel-projectile
-:auto-generated t
-:type elpa
-:description "Ivy integration for Projectile"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (counsel projectile)
-)

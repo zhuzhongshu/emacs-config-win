@@ -1,8 +1,0 @@
-(:name orgnav
-:auto-generated t
-:type elpa
-:description "Org tree navigation using helm"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (helm s dash)
-:minimum-emacs-version (24)
-)

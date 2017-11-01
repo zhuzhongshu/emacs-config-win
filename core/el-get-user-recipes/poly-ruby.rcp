@@ -1,8 +1,0 @@
-(:name poly-ruby
-:auto-generated t
-:type elpa
-:description "Provides poly-ruby-mode"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (polymode)
-:minimum-emacs-version (24 3)
-)

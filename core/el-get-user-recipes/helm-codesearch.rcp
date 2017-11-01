@@ -1,7 +1,0 @@
-(:name helm-codesearch
-:auto-generated t
-:type elpa
-:description "helm interface for codesearch"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (s dash helm cl-lib)
-)

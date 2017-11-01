@@ -1,7 +1,0 @@
-(:name shoulda
-:auto-generated t
-:type elpa
-:description "Shoulda test support for ruby"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-)

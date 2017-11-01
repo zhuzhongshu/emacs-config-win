@@ -1,6 +1,0 @@
-(:name dxr
-:auto-generated t
-:type elpa
-:description "Convenient access to a DXR server"
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-)

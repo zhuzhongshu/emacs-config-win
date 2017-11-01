@@ -1,7 +1,0 @@
-(:name evil-indent-textobject
-:auto-generated t
-:type elpa
-:description "evil textobjects based on indentation"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (evil)
-)

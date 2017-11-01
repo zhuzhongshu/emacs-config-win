@@ -1,7 +1,0 @@
-(:name ido-gnus
-:auto-generated t
-:type elpa
-:description "Access gnus groups or servers using ido"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (gnus)
-)

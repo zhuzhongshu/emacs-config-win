@@ -1,6 +1,0 @@
-(:name emacsd-tile
-:auto-generated t
-:type elpa
-:description "tiling windows for emacs"
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-)

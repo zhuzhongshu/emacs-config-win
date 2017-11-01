@@ -1,7 +1,0 @@
-(:name ace-mc
-:auto-generated t
-:type elpa
-:description "Add multiple cursors quickly using ace jump"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (ace-jump-mode multiple-cursors dash)
-)

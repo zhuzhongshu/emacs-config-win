@@ -1,8 +1,0 @@
-(:name redpen-paragraph
-:auto-generated t
-:type elpa
-:description "RedPen interface."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib json)
-:minimum-emacs-version (24)
-)

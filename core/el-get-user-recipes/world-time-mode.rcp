@@ -1,6 +1,0 @@
-(:name world-time-mode
-:auto-generated t
-:type elpa
-:description "show whole days of world-time diffs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

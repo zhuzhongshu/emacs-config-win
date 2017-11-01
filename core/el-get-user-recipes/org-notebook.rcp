@@ -1,8 +1,0 @@
-(:name org-notebook
-:auto-generated t
-:type elpa
-:description "Ease the use of org-mode as a notebook"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (org cl-lib)
-:minimum-emacs-version (24)
-)

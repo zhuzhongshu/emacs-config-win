@@ -1,7 +1,0 @@
-(:name evil-tutor-ja
-:auto-generated t
-:type elpa
-:description "Japanese Vimtutor adapted to Evil and wrapped in a major-mode"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (evil evil-tutor)
-)

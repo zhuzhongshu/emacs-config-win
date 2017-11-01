@@ -1,8 +1,0 @@
-(:name hl-indent
-:auto-generated t
-:type elpa
-:description "Highlight irregular indentation."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-:minimum-emacs-version (24)
-)

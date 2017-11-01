@@ -1,7 +1,0 @@
-(:name evil-anzu
-:auto-generated t
-:type elpa
-:description "anzu for evil-mode"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (evil anzu)
-)

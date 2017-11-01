@@ -1,7 +1,0 @@
-(:name git-gutter-fringe+
-:auto-generated t
-:type elpa
-:description "Fringe version of git-gutter+.el"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (git-gutter+ fringe-helper)
-)

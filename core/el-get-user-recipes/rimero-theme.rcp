@@ -1,7 +1,0 @@
-(:name rimero-theme
-:auto-generated t
-:type elpa
-:description "Theme with a dark background suitable for UI and terminal usage."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24)
-)

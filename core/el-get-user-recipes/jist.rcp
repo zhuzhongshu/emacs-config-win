@@ -1,8 +1,0 @@
-(:name jist
-:auto-generated t
-:type elpa
-:description "Gist integration"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dash seq let-alist magit request)
-:minimum-emacs-version (24 4)
-)

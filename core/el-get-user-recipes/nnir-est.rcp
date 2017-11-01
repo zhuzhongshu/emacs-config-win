@@ -1,6 +1,0 @@
-(:name nnir-est
-:auto-generated t
-:type elpa
-:description "Gnus nnir interface for HyperEstraier"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

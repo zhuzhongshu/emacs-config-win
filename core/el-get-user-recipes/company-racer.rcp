@@ -1,8 +1,0 @@
-(:name company-racer
-:auto-generated t
-:type elpa
-:description "Company integration for racer"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib company deferred dash)
-:minimum-emacs-version (24)
-)

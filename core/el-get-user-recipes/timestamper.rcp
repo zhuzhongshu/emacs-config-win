@@ -1,6 +1,0 @@
-(:name timestamper
-:auto-generated t
-:type elpa
-:description "A minor mode for easy timelogging"
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-)

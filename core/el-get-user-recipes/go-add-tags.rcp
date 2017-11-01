@@ -1,8 +1,0 @@
-(:name go-add-tags
-:auto-generated t
-:type elpa
-:description "Add field tags for struct fields"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (s)
-:minimum-emacs-version (24 3)
-)

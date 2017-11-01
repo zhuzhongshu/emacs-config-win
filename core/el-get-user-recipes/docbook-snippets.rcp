@@ -1,7 +1,0 @@
-(:name docbook-snippets
-:auto-generated t
-:type elpa
-:description "Yasnippets for DocBook"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (yasnippet)
-)

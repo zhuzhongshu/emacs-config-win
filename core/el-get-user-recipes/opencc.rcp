@@ -1,7 +1,0 @@
-(:name opencc
-:auto-generated t
-:type elpa
-:description "中文简繁转换 <-> 中文簡繁轉換 (Convert Chinese with OpenCC)"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 4)
-)

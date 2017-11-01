@@ -1,6 +1,0 @@
-(:name instapaper
-:auto-generated t
-:type elpa
-:description "add URLs to instapaper from emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

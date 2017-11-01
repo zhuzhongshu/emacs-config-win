@@ -1,7 +1,0 @@
-(:name fix-input
-:auto-generated t
-:type elpa
-:description "Make input methods play nicely with alternative keyboard layout on OS level"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 4)
-)

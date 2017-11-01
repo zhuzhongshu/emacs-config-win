@@ -1,7 +1,0 @@
-(:name mb-url
-:auto-generated t
-:type elpa
-:description "Multiple Backends for Emacs URL package."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-)

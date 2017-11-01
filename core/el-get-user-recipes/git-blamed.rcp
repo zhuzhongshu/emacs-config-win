@@ -1,6 +1,0 @@
-(:name git-blamed
-:auto-generated t
-:type elpa
-:description "Minor mode for incremental blame for Git"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

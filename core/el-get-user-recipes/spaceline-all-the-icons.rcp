@@ -1,8 +1,0 @@
-(:name spaceline-all-the-icons
-:auto-generated t
-:type elpa
-:description "A Spaceline theme using All The Icons"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (all-the-icons spaceline memoize)
-:minimum-emacs-version (24 4)
-)

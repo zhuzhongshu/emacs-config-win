@@ -1,7 +1,0 @@
-(:name pony-snippets
-:auto-generated t
-:type elpa
-:description "Yasnippets for Pony"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (yasnippet)
-)

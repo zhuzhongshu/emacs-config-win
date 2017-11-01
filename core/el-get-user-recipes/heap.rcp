@@ -1,6 +1,0 @@
-(:name heap
-:auto-generated t
-:type elpa
-:description "Heap (a.k.a. priority queue) data structure"
-:repo ("gnu" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
-)

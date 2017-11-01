@@ -1,7 +1,0 @@
-(:name imenu-anywhere
-:auto-generated t
-:type elpa
-:description "ido/ivy/helm imenu across same mode/project/etc buffers"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-)

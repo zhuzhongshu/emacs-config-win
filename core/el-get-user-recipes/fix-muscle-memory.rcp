@@ -1,6 +1,0 @@
-(:name fix-muscle-memory
-:auto-generated t
-:type elpa
-:description "Simple hacks to fix muscle memory problems"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

@@ -1,7 +1,0 @@
-(:name esqlite-helm
-:auto-generated t
-:type elpa
-:description "Define helm source for sqlite database"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (esqlite helm)
-)

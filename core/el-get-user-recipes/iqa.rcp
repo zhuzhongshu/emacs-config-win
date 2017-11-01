@@ -1,7 +1,0 @@
-(:name iqa
-:auto-generated t
-:type elpa
-:description "Init file(and directory) Quick Access."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 3)
-)

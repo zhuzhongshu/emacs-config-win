@@ -1,6 +1,0 @@
-(:name babcore
-:auto-generated t
-:type elpa
-:description "Core Emacs configuration. This should be the minimum in every emacs config."
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-)

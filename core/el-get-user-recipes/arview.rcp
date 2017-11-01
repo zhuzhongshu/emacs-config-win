@@ -1,6 +1,0 @@
-(:name arview
-:auto-generated t
-:type elpa
-:description "extract and view archives in the temporary directory"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

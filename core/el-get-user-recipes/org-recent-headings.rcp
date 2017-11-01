@@ -1,8 +1,0 @@
-(:name org-recent-headings
-:auto-generated t
-:type elpa
-:description "Jump to recently used Org headings"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (org dash frecency)
-:minimum-emacs-version (25 1)
-)

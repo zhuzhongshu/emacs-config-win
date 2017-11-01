@@ -1,7 +1,0 @@
-(:name digit-groups
-:auto-generated t
-:type elpa
-:description "Highlight place-value positions in numbers"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dash)
-)

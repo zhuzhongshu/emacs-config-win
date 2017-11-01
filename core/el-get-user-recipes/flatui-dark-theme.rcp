@@ -1,7 +1,0 @@
-(:name flatui-dark-theme
-:auto-generated t
-:type elpa
-:description "Dark color theme with colors from https://flatuicolors.com/"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24)
-)

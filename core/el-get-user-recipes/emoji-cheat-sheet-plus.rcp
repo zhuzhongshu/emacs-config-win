@@ -1,8 +1,0 @@
-(:name emoji-cheat-sheet-plus
-:auto-generated t
-:type elpa
-:description "emoji-cheat-sheet for emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (helm)
-:minimum-emacs-version (24)
-)

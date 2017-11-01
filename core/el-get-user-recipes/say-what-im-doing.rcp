@@ -1,6 +1,0 @@
-(:name say-what-im-doing
-:auto-generated t
-:type elpa
-:description "dictate what you're doing with text to speech"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

@@ -1,7 +1,0 @@
-(:name ranger
-:auto-generated t
-:type elpa
-:description "Make dired more like ranger"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 4)
-)

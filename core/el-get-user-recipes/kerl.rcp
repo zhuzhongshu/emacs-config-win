@@ -1,6 +1,0 @@
-(:name kerl
-:auto-generated t
-:type elpa
-:description "Emacs integration for kerl"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

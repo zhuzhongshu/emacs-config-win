@@ -1,7 +1,0 @@
-(:name cobol-mode
-:auto-generated t
-:type elpa
-:description "Mode for editing COBOL code"
-:repo ("gnu" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
-:depends (cl-lib)
-)

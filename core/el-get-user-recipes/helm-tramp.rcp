@@ -1,8 +1,0 @@
-(:name helm-tramp
-:auto-generated t
-:type elpa
-:description "Tramp helm interface for ssh, docker, vagrant"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (helm)
-:minimum-emacs-version (24 3)
-)

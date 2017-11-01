@@ -1,6 +1,0 @@
-(:name osc
-:auto-generated t
-:type elpa
-:description "Open Sound Control protocol library"
-:repo ("gnu" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
-)

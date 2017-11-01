@@ -1,6 +1,0 @@
-(:name jsfmt
-:auto-generated t
-:type elpa
-:description "Interface to jsfmt command for javascript files"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

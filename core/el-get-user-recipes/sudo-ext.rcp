@@ -1,6 +1,0 @@
-(:name sudo-ext
-:auto-generated t
-:type elpa
-:description "sudo support"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

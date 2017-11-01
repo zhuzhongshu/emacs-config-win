@@ -1,7 +1,0 @@
-(:name cider-profile
-:auto-generated t
-:type elpa
-:description "CIDER profiling support"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cider)
-)

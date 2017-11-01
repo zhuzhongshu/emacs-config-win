@@ -1,7 +1,0 @@
-(:name treepy
-:auto-generated t
-:type elpa
-:description "Generic tree traversing tools"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (25 1)
-)

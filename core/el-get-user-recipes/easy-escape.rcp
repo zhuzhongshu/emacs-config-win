@@ -1,6 +1,0 @@
-(:name easy-escape
-:auto-generated t
-:type elpa
-:description "Improve readability of escape characters in regular expressions"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

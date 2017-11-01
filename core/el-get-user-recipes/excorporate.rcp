@@ -1,8 +1,0 @@
-(:name excorporate
-:auto-generated t
-:type elpa
-:description "Exchange integration"
-:repo ("gnu" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
-:depends (fsm soap-client url-http-ntlm)
-:minimum-emacs-version (24 1)
-)

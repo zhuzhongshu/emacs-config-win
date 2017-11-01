@@ -1,8 +1,0 @@
-(:name emojify
-:auto-generated t
-:type elpa
-:description "Display emojis in Emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (seq ht)
-:minimum-emacs-version (24 3)
-)

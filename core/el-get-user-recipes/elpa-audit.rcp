@@ -1,6 +1,0 @@
-(:name elpa-audit
-:auto-generated t
-:type elpa
-:description "Handy functions for inspecting and comparing package archives"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

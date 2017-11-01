@@ -1,6 +1,0 @@
-(:name enotify
-:auto-generated t
-:type elpa
-:description "A networked notification system for emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

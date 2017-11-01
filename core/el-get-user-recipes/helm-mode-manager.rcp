@@ -1,7 +1,0 @@
-(:name helm-mode-manager
-:auto-generated t
-:type elpa
-:description "Select and toggle major and minor modes with helm"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (helm)
-)

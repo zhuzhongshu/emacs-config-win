@@ -1,6 +1,0 @@
-(:name eagle-eye
-:auto-generated t
-:type elpa
-:description "A utility to zoom-in and zoom-out while editing text"
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-)

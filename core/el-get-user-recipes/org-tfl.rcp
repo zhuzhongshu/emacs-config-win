@@ -1,8 +1,0 @@
-(:name org-tfl
-:auto-generated t
-:type elpa
-:description "Transport for London meets Orgmode"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (org cl-lib)
-:minimum-emacs-version (24 1)
-)

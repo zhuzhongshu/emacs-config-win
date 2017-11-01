@@ -1,6 +1,0 @@
-(:name text-language
-:auto-generated t
-:type elpa
-:description "tracking, setting, guessing language of text"
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-)

@@ -1,7 +1,0 @@
-(:name helm-sql-connect
-:auto-generated t
-:type elpa
-:description "Choose a database to connect to via Helm."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (helm)
-)

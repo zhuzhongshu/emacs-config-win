@@ -1,7 +1,0 @@
-(:name mag-menu
-:auto-generated t
-:type elpa
-:description "Intuitive keyboard-centric menu system"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (splitter)
-)

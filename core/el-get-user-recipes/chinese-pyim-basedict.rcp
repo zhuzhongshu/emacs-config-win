@@ -1,6 +1,0 @@
-(:name chinese-pyim-basedict
-:auto-generated t
-:type elpa
-:description "The default pinyin dict of chinese-pyim"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
-)

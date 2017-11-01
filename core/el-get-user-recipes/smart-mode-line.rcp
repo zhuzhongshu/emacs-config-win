@@ -1,8 +1,0 @@
-(:name smart-mode-line
-:auto-generated t
-:type elpa
-:description "A color coded smart mode-line."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (rich-minority)
-:minimum-emacs-version (24 3)
-)

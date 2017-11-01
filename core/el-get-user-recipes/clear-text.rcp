@@ -1,6 +1,0 @@
-(:name clear-text
-:auto-generated t
-:type elpa
-:description "Make you use clear text"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

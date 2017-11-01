@@ -1,6 +1,0 @@
-(:name ssh-deploy
-:auto-generated t
-:type elpa
-:description "Deployment via SSH or FTP, global or per directory."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

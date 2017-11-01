@@ -1,8 +1,0 @@
-(:name pocket-mode
-:auto-generated t
-:type elpa
-:description "Manage your pocket"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (pocket-api)
-:minimum-emacs-version (24 4)
-)

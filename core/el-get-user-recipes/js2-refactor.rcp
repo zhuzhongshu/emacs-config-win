@@ -1,7 +1,0 @@
-(:name js2-refactor
-:auto-generated t
-:type elpa
-:description "A JavaScript refactoring library for emacs."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (js2-mode s multiple-cursors dash s yasnippet)
-)

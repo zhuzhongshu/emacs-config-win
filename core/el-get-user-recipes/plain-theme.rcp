@@ -1,6 +1,0 @@
-(:name plain-theme
-:auto-generated t
-:type elpa
-:description "Plain theme without syntax highlighting"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

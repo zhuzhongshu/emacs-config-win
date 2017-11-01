@@ -1,7 +1,0 @@
-(:name nameless
-:auto-generated t
-:type elpa
-:description "Hide package namespace in your emacs-lisp code"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 4)
-)

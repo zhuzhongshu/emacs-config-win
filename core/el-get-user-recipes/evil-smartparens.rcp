@@ -1,8 +1,0 @@
-(:name evil-smartparens
-:auto-generated t
-:type elpa
-:description "Evil support for smartparens"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (evil smartparens)
-:minimum-emacs-version (24 4)
-)

@@ -1,8 +1,0 @@
-(:name intero
-:auto-generated t
-:type elpa
-:description "Complete development mode for Haskell"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (flycheck company haskell-mode)
-:minimum-emacs-version (24 4)
-)

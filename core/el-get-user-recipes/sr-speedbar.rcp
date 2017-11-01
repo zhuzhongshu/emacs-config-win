@@ -1,6 +1,0 @@
-(:name sr-speedbar
-:auto-generated t
-:type elpa
-:description "Same frame speedbar"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

@@ -1,7 +1,0 @@
-(:name ert-runner
-:auto-generated t
-:type elpa
-:description "Opinionated Ert testing workflow"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (s dash f commander ansi shut-up)
-)

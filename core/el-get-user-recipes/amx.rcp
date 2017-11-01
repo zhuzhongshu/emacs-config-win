@@ -1,7 +1,0 @@
-(:name amx
-:auto-generated t
-:type elpa
-:description "Alternative M-x with extra features."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 4)
-)

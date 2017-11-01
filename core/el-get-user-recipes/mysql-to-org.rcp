@@ -1,8 +1,0 @@
-(:name mysql-to-org
-:auto-generated t
-:type elpa
-:description "Minor mode to output the results of mysql queries to org tables"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (s)
-:minimum-emacs-version (24 3)
-)

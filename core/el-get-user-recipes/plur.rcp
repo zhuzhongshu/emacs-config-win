@@ -1,7 +1,0 @@
-(:name plur
-:auto-generated t
-:type elpa
-:description "Easily search and replace multiple variants of a word"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 4)
-)

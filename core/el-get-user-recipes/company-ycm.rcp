@@ -1,7 +1,0 @@
-(:name company-ycm
-:auto-generated t
-:type elpa
-:description "company-ycm"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (ycm)
-)

@@ -1,8 +1,0 @@
-(:name jonprl-mode
-:auto-generated t
-:type elpa
-:description "A major mode for editing JonPRL files"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib yasnippet)
-:minimum-emacs-version (24 3)
-)

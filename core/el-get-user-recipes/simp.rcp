@@ -1,6 +1,0 @@
-(:name simp
-:auto-generated t
-:type elpa
-:description "Simple project definition, chiefly for file finding, and grepping"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

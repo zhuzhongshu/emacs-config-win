@@ -1,7 +1,0 @@
-(:name zotxt
-:auto-generated t
-:type elpa
-:description "Tools to integrate emacs with Zotero via the zotxt plugin."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (request-deferred)
-)

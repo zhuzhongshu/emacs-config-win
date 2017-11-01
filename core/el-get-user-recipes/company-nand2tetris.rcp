@@ -1,7 +1,0 @@
-(:name company-nand2tetris
-:auto-generated t
-:type elpa
-:description "Company backend for nand2tetris major mode"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (nand2tetris company cl-lib)
-)

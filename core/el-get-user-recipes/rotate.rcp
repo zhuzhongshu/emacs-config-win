@@ -1,6 +1,0 @@
-(:name rotate
-:auto-generated t
-:type elpa
-:description "Rotate the layout of emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

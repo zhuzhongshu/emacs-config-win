@@ -1,6 +1,0 @@
-(:name windata
-:auto-generated t
-:type elpa
-:description "convert window configuration to list"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

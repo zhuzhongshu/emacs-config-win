@@ -1,7 +1,0 @@
-(:name command-queue
-:auto-generated t
-:type elpa
-:description "shell command queue"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 3)
-)

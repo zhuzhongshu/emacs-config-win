@@ -1,6 +1,0 @@
-(:name css-comb
-:auto-generated t
-:type elpa
-:description "Sort CSS properties in a particular order using CSS Comb"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

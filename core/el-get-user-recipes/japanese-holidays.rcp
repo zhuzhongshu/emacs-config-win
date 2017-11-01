@@ -1,7 +1,0 @@
-(:name japanese-holidays
-:auto-generated t
-:type elpa
-:description "calendar functions for the Japanese calendar"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-)

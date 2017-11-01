@@ -1,6 +1,0 @@
-(:name grapnel
-:auto-generated t
-:type elpa
-:description "HTTP request lib with flexible callback dispatch"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

@@ -1,7 +1,0 @@
-(:name flycheck-mix
-:auto-generated t
-:type elpa
-:description "Elixir mix flycheck integration"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (flycheck elixir-mode)
-)

@@ -1,6 +1,0 @@
-(:name chatwork
-:auto-generated t
-:type elpa
-:description "ChatWork client for Emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

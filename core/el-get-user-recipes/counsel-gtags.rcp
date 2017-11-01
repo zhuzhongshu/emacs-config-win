@@ -1,8 +1,0 @@
-(:name counsel-gtags
-:auto-generated t
-:type elpa
-:description "ivy for GNU global"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (counsel)
-:minimum-emacs-version (24 3)
-)

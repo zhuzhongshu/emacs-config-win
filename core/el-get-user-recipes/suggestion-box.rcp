@@ -1,8 +1,0 @@
-(:name suggestion-box
-:auto-generated t
-:type elpa
-:description "show tooltip on the cursor"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (popup)
-:minimum-emacs-version (25 1)
-)

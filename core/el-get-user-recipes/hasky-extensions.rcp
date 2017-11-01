@@ -1,8 +1,0 @@
-(:name hasky-extensions
-:auto-generated t
-:type elpa
-:description "Toggle Haskell language extensions"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (avy-menu)
-:minimum-emacs-version (24 4)
-)

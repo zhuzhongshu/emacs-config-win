@@ -1,8 +1,0 @@
-(:name wttrin
-:auto-generated t
-:type elpa
-:description "Emacs frontend for weather web service wttr.in"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (xterm-color)
-:minimum-emacs-version (24 4)
-)

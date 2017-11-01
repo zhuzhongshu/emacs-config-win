@@ -1,7 +1,0 @@
-(:name interaction-log
-:auto-generated t
-:type elpa
-:description "exhaustive log of interactions with Emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-)

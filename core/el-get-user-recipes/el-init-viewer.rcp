@@ -1,8 +1,0 @@
-(:name el-init-viewer
-:auto-generated t
-:type elpa
-:description "Record viewer for el-init"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib ctable dash anaphora el-init)
-:minimum-emacs-version (24)
-)

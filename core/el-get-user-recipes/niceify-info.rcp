@@ -1,6 +1,0 @@
-(:name niceify-info
-:auto-generated t
-:type elpa
-:description "improve usability of Info pages"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

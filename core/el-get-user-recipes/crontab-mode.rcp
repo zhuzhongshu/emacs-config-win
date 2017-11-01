@@ -1,6 +1,0 @@
-(:name crontab-mode
-:auto-generated t
-:type elpa
-:description "Mode for editing crontab files"
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-)

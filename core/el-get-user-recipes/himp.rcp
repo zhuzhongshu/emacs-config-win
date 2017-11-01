@@ -1,8 +1,0 @@
-(:name himp
-:auto-generated t
-:type elpa
-:description "Automatically hide imports/documentation"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (vimish-fold)
-:minimum-emacs-version (24 3)
-)

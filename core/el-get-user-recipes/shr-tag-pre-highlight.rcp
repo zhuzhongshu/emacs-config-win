@@ -1,8 +1,0 @@
-(:name shr-tag-pre-highlight
-:auto-generated t
-:type elpa
-:description "Syntax highlighting code block in HTML"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (language-detection)
-:minimum-emacs-version (24)
-)

@@ -1,6 +1,0 @@
-(:name eshell-autojump
-:auto-generated t
-:type elpa
-:description "autojump command for Eshell"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

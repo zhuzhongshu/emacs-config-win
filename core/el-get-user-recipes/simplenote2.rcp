@@ -1,7 +1,0 @@
-(:name simplenote2
-:auto-generated t
-:type elpa
-:description "Interact with simple-note.appspot.com"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (request-deferred)
-)

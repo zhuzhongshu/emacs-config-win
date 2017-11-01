@@ -1,7 +1,0 @@
-(:name ivy-gitlab
-:auto-generated t
-:type elpa
-:description "Ivy interface to Gitlab"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (s dash ivy gitlab)
-)

@@ -1,7 +1,0 @@
-(:name hl-anything
-:auto-generated t
-:type elpa
-:description "Highlight symbols, selections, enclosing parens and more."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 3)
-)

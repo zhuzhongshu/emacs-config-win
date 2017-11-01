@@ -1,8 +1,0 @@
-(:name emacs-home
-:auto-generated t
-:type elpa
-:description "A home-screen for Emacs"
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-:depends (cl-lib)
-:minimum-emacs-version (24)
-)

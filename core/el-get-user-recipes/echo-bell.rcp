@@ -1,6 +1,0 @@
-(:name echo-bell
-:auto-generated t
-:type elpa
-:description "Show visual bell at right in the echo area."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

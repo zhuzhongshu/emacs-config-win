@@ -1,7 +1,0 @@
-(:name web-narrow-mode
-:auto-generated t
-:type elpa
-:description "quick narrow code block in web-mode"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (web-mode)
-)

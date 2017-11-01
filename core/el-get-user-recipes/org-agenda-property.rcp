@@ -1,7 +1,0 @@
-(:name org-agenda-property
-:auto-generated t
-:type elpa
-:description "Display org properties in the agenda buffer."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 2)
-)

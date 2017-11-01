@@ -1,7 +1,0 @@
-(:name colemak-evil
-:auto-generated t
-:type elpa
-:description "Colemak-friendly keybindings for Evil."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (evil)
-)

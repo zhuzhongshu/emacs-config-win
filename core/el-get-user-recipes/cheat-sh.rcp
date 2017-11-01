@@ -1,7 +1,0 @@
-(:name cheat-sh
-:auto-generated t
-:type elpa
-:description "Interact with cheat.sh"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24)
-)

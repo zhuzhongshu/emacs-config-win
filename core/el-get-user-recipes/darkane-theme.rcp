@@ -1,7 +1,0 @@
-(:name darkane-theme
-:auto-generated t
-:type elpa
-:description "A dark theme with strong colors"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
-:minimum-emacs-version (24)
-)

@@ -1,7 +1,0 @@
-(:name stock-ticker
-:auto-generated t
-:type elpa
-:description "Show stock prices in mode line"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (s request)
-)

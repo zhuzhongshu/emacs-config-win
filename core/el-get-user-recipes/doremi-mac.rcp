@@ -1,6 +1,0 @@
-(:name doremi-mac
-:auto-generated t
-:type elpa
-:description "A macro for defining Do Re Mi commands."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

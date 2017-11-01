@@ -1,8 +1,0 @@
-(:name irony-eldoc
-:auto-generated t
-:type elpa
-:description "irony-mode support for eldoc-mode"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib irony)
-:minimum-emacs-version (24)
-)

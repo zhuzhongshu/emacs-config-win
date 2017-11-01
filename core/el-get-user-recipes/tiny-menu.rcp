@@ -1,7 +1,0 @@
-(:name tiny-menu
-:auto-generated t
-:type elpa
-:description "Display tiny menus."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 4)
-)

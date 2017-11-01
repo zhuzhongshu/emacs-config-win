@@ -1,7 +1,0 @@
-(:name polymode
-:auto-generated t
-:type elpa
-:description "Versatile multiple modes with extensive literate programming support"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24)
-)

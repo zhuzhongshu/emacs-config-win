@@ -1,6 +1,0 @@
-(:name distel-completion-lib
-:auto-generated t
-:type elpa
-:description "Completion library for Erlang/Distel"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

@@ -1,7 +1,0 @@
-(:name replace-with-inflections
-:auto-generated t
-:type elpa
-:description "Inflection aware `query-replace'"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib string-inflection inflections)
-)

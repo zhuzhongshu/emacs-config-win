@@ -1,8 +1,0 @@
-(:name dkdo
-:auto-generated t
-:type elpa
-:description "Do List major mode based on org-mode."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dkmisc)
-:minimum-emacs-version (24 1)
-)

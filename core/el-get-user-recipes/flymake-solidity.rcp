@@ -1,7 +1,0 @@
-(:name flymake-solidity
-:auto-generated t
-:type elpa
-:description "A flymake handler for solidity using solc"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (flymake-easy)
-)

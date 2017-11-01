@@ -1,7 +1,0 @@
-(:name auto-complete-distel
-:auto-generated t
-:type elpa
-:description "Erlang/distel completion backend for auto-complete-mode"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (auto-complete distel-completion-lib)
-)

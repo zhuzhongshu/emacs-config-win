@@ -955,8 +955,8 @@ Takes and optional `FRAME' as reference."
                              :foreground ,monokai-grey-2
                              :underline t))))
      `(company-template-field
-              ((,class (:background ,solarized-ivory
-                             :foreground ,monokai-grey+5
+              ((,class (:background ,monokai-grey+2
+                             :foreground ,monokai-fg
                              :underline nil))))
        ;; ((t (
        ;;      :inherit region))))

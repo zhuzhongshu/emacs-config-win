@@ -1,7 +1,0 @@
-(:name doremi-cmd
-:auto-generated t
-:type elpa
-:description "Miscellaneous Do Re Mi commands"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (doremi)
-)

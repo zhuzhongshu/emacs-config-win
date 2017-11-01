@@ -1,7 +1,0 @@
-(:name metaweblog
-:auto-generated t
-:type elpa
-:description "An emacs library to access metaweblog based weblogs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (xml-rpc)
-)

@@ -1,7 +1,0 @@
-(:name sayid
-:auto-generated t
-:type elpa
-:description "sayid nREPL middleware client"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cider)
-)

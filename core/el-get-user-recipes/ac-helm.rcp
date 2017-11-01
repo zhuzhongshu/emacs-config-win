@@ -1,7 +1,0 @@
-(:name ac-helm
-:auto-generated t
-:type elpa
-:description "Helm interface for auto-complete"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (helm auto-complete popup cl-lib)
-)

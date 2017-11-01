@@ -1,7 +1,0 @@
-(:name clojars
-:auto-generated t
-:type elpa
-:description "clojars.org search interface"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (request-deferred)
-)

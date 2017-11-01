@@ -1,7 +1,0 @@
-(:name web-search
-:auto-generated t
-:type elpa
-:description "Open a web search"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 3)
-)

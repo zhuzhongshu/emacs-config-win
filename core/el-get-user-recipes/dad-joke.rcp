@@ -1,7 +1,0 @@
-(:name dad-joke
-:auto-generated t
-:type elpa
-:description "Get/display dad jokes"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24)
-)

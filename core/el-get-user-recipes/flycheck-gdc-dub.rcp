@@ -1,7 +1,0 @@
-(:name flycheck-gdc-dub
-:auto-generated t
-:type elpa
-:description "Provides support for retrieving include paths from dub build descriptions.."
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-:depends (d-mode flycheck)
-)

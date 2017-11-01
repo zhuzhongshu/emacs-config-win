@@ -1,6 +1,0 @@
-(:name maude-mode
-:auto-generated t
-:type elpa
-:description "Emacs mode for the programming language Maude"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

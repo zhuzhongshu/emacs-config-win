@@ -1,7 +1,0 @@
-(:name howm
-:auto-generated t
-:type elpa
-:description "Wiki-like note-taking tool"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-)

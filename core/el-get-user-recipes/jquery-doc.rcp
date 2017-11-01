@@ -1,6 +1,0 @@
-(:name jquery-doc
-:auto-generated t
-:type elpa
-:description "jQuery api documentation interface for emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

@@ -1,7 +1,0 @@
-(:name sphinx-doc
-:auto-generated t
-:type elpa
-:description "Sphinx friendly docstrings for Python functions"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (s cl-lib dash)
-)

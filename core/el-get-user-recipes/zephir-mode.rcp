@@ -1,8 +1,0 @@
-(:name zephir-mode
-:auto-generated t
-:type elpa
-:description "Major mode for editing Zephir code"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib pkg-info)
-:minimum-emacs-version (24 3)
-)

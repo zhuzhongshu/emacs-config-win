@@ -1,7 +1,0 @@
-(:name prassee-theme
-:auto-generated t
-:type elpa
-:description "A high contrast color theme for Emacs."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24)
-)

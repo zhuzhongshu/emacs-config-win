@@ -1,8 +1,0 @@
-(:name xml+
-:auto-generated t
-:type elpa
-:description "Utilities for xml and html trees"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dash)
-:minimum-emacs-version (24 4)
-)

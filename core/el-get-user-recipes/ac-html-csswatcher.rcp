@@ -1,7 +1,0 @@
-(:name ac-html-csswatcher
-:auto-generated t
-:type elpa
-:description "css/less class/id completion with `ac-html' or `company-web'"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (web-completion-data)
-)

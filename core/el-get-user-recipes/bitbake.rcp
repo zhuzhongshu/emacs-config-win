@@ -1,8 +1,0 @@
-(:name bitbake
-:auto-generated t
-:type elpa
-:description "Running bitbake from emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dash mmm-mode s)
-:minimum-emacs-version (24 1)
-)

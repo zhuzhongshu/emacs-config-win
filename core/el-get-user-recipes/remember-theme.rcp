@@ -1,6 +1,0 @@
-(:name remember-theme
-:auto-generated t
-:type elpa
-:description "Remembers the last theme in use and re-loads for the next session."
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-)

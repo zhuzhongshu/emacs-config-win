@@ -1,6 +1,0 @@
-(:name smmry
-:auto-generated t
-:type elpa
-:description "SMMRY client"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

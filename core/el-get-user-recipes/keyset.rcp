@@ -1,7 +1,0 @@
-(:name keyset
-:auto-generated t
-:type elpa
-:description "A small library for structuring key bindings."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dash cl-lib)
-)

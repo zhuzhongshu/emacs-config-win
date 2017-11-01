@@ -1,7 +1,0 @@
-(:name inverse-acme-theme
-:auto-generated t
-:type elpa
-:description "A theme that looks like an inverse of Acme's color scheme."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (autothemer cl-lib)
-)

@@ -1,8 +1,0 @@
-(:name simple-call-tree
-:auto-generated t
-:type elpa
-:description "analyze source code based on font-lock text-properties"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (anaphora)
-:minimum-emacs-version (24 3)
-)

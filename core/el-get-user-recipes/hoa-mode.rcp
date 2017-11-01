@@ -1,6 +1,0 @@
-(:name hoa-mode
-:auto-generated t
-:type elpa
-:description "Major mode for the Hanoi Omega Automata format"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

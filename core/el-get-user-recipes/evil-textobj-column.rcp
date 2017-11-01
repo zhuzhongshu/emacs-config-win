@@ -1,8 +1,0 @@
-(:name evil-textobj-column
-:auto-generated t
-:type elpa
-:description "Provides column text objects."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (names evil)
-:minimum-emacs-version (24)
-)

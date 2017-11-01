@@ -1,8 +1,0 @@
-(:name flycheck-inline
-:auto-generated t
-:type elpa
-:description "Display flycheck error messages with inline popup style."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib inline-docs flycheck)
-:minimum-emacs-version (24 4)
-)

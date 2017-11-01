@@ -1,7 +1,0 @@
-(:name makey
-:auto-generated t
-:type elpa
-:description "interactive commandline mode"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-)

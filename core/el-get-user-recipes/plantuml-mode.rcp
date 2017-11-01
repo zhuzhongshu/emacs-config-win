@@ -1,6 +1,0 @@
-(:name plantuml-mode
-:auto-generated t
-:type elpa
-:description "Major mode for PlantUML"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

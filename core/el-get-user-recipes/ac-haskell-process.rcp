@@ -1,7 +1,0 @@
-(:name ac-haskell-process
-:auto-generated t
-:type elpa
-:description "Haskell auto-complete source which uses the current haskell process"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (auto-complete haskell-mode)
-)

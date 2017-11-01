@@ -1,7 +1,0 @@
-(:name rigid-tabs
-:auto-generated t
-:type elpa
-:description "Fix TAB alignment in diff buffers"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 3)
-)

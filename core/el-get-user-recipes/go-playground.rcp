@@ -1,8 +1,0 @@
-(:name go-playground
-:auto-generated t
-:type elpa
-:description "Local Golang playground for short snippets."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (go-mode gotest)
-:minimum-emacs-version (24)
-)

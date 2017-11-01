@@ -1,6 +1,0 @@
-(:name demo-it
-:auto-generated t
-:type elpa
-:description "Create demonstrations"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

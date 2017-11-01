@@ -1,7 +1,0 @@
-(:name ace-jump-helm-line
-:auto-generated t
-:type elpa
-:description "Ace-jump to a candidate in helm window"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (avy helm)
-)

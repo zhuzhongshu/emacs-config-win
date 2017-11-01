@@ -1,7 +1,0 @@
-(:name nv-delete-back
-:auto-generated t
-:type elpa
-:description "backward delete like modern text editors"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24)
-)

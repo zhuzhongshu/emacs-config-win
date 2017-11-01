@@ -1,6 +1,0 @@
-(:name libmpdee
-:auto-generated t
-:type elpa
-:description "Client end library for mpd, a music playing daemon"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

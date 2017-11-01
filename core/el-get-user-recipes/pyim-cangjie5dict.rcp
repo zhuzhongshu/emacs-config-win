@@ -1,7 +1,0 @@
-(:name pyim-cangjie5dict
-:auto-generated t
-:type elpa
-:description "Some cangjie5 dicts for pyim"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (pyim)
-)

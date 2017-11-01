@@ -1,7 +1,0 @@
-(:name geeknote
-:auto-generated t
-:type elpa
-:description "Use Evernote in Emacs through geeknote"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24)
-)

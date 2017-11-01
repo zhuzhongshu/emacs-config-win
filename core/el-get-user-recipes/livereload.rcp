@@ -1,8 +1,0 @@
-(:name livereload
-:auto-generated t
-:type elpa
-:description "Livereload server"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (websocket)
-:minimum-emacs-version (25)
-)

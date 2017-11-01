@@ -1,7 +1,0 @@
-(:name rcirc-styles
-:auto-generated t
-:type elpa
-:description "support mIRC-style color and attribute codes"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-)

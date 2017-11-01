@@ -1,7 +1,0 @@
-(:name go-guru
-:auto-generated t
-:type elpa
-:description "Integration of the Go 'guru' analysis tool into Emacs."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (go-mode cl-lib)
-)

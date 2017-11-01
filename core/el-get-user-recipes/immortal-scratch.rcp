@@ -1,6 +1,0 @@
-(:name immortal-scratch
-:auto-generated t
-:type elpa
-:description "respawn the scratch buffer when it's killed"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

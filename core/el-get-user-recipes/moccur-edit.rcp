@@ -1,7 +1,0 @@
-(:name moccur-edit
-:auto-generated t
-:type elpa
-:description "apply replaces to multiple files"
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-:depends (color-moccur)
-)

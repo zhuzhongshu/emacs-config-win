@@ -1,6 +1,0 @@
-(:name calfw-howm
-:auto-generated t
-:type elpa
-:description "calendar view for howm"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

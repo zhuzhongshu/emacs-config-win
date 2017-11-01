@@ -1,7 +1,0 @@
-(:name ido-yes-or-no
-:auto-generated t
-:type elpa
-:description "Use Ido to answer yes-or-no questions"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (ido-completing-read+)
-)

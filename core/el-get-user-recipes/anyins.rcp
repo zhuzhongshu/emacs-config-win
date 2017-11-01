@@ -1,6 +1,0 @@
-(:name anyins
-:auto-generated t
-:type elpa
-:description "Insert content at multiple places from shell command or kill-ring"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

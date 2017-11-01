@@ -1,7 +1,0 @@
-(:name evil-search-highlight-persist
-:auto-generated t
-:type elpa
-:description "Persistent highlights after search"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (highlight)
-)

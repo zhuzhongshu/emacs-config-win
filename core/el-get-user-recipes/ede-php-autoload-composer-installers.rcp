@@ -1,7 +1,0 @@
-(:name ede-php-autoload-composer-installers
-:auto-generated t
-:type elpa
-:description "Composer installers support for ede-php-autoload"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (ede-php-autoload f s)
-)

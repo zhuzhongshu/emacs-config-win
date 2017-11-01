@@ -1,6 +1,0 @@
-(:name emacs-setup
-:auto-generated t
-:type elpa
-:description "Package for maintaining your emacs configuration. Clean up your .emacs!"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

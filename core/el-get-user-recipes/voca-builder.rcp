@@ -1,7 +1,0 @@
-(:name voca-builder
-:auto-generated t
-:type elpa
-:description "Helps you build up your vocabulary"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (popup)
-)

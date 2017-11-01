@@ -1,7 +1,0 @@
-(:name db-pg
-:auto-generated t
-:type elpa
-:description "A PostgreSQL adapter for emacs-db"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (pg db)
-)

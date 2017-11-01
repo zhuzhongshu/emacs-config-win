@@ -1,7 +1,0 @@
-(:name coverage
-:auto-generated t
-:type elpa
-:description "Code coverage line highlighting"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (ov cl-lib)
-)

@@ -1,8 +1,0 @@
-(:name helm-cider
-:auto-generated t
-:type elpa
-:description "Helm interface to CIDER"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cider helm-core)
-:minimum-emacs-version (24 4)
-)

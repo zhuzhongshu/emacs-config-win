@@ -1,6 +1,0 @@
-(:name calfw-ical
-:auto-generated t
-:type elpa
-:description "calendar view for ical format"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

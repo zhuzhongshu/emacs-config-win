@@ -1,8 +1,0 @@
-(:name helm-addressbook
-:auto-generated t
-:type elpa
-:description "Helm for addressbook bookmarks."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (helm addressbook-bookmark cl-lib)
-:minimum-emacs-version (24 4)
-)

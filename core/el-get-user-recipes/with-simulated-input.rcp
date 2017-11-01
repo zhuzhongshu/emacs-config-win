@@ -1,8 +1,0 @@
-(:name with-simulated-input
-:auto-generated t
-:type elpa
-:description "A macro to simulate user input non-interactively"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (seq s)
-:minimum-emacs-version (24 4)
-)

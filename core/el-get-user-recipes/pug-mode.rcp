@@ -1,7 +1,0 @@
-(:name pug-mode
-:auto-generated t
-:type elpa
-:description "Major mode for jade/pug template files"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 3)
-)

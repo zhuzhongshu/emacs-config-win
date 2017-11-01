@@ -1,8 +1,0 @@
-(:name avy-menu
-:auto-generated t
-:type elpa
-:description "Library providing avy-powered popup menu"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (avy)
-:minimum-emacs-version (24 3)
-)

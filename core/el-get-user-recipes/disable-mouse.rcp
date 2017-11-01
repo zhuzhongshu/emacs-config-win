@@ -1,6 +1,0 @@
-(:name disable-mouse
-:auto-generated t
-:type elpa
-:description "Disable mouse commands globally"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

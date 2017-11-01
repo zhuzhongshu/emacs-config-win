@@ -1,7 +1,0 @@
-(:name stickyfunc-enhance
-:auto-generated t
-:type elpa
-:description "An enhancement to stock `semantic-stickyfunc-mode'"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 3)
-)

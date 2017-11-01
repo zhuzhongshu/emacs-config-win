@@ -1,8 +1,0 @@
-(:name flycheck-swift3
-:auto-generated t
-:type elpa
-:description "Flycheck: Swift support for Apple swift-mode"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (flycheck)
-:minimum-emacs-version (24 4)
-)

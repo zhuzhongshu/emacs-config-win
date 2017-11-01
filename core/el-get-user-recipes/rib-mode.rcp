@@ -1,7 +1,0 @@
-(:name rib-mode
-:auto-generated t
-:type elpa
-:description "RenderMan® Interface Bytestream (RIB) Major Mode"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24)
-)

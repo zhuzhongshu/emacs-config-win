@@ -1,6 +1,0 @@
-(:name yasnippet-bundle
-:auto-generated t
-:type elpa
-:description "Yet another snippet extension (Auto compiled bundle)"
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-)

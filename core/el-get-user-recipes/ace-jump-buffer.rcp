@@ -1,7 +1,0 @@
-(:name ace-jump-buffer
-:auto-generated t
-:type elpa
-:description "fast buffer switching extension to `avy'"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (avy dash)
-)

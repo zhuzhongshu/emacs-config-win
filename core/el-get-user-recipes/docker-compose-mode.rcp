@@ -1,8 +1,0 @@
-(:name docker-compose-mode
-:auto-generated t
-:type elpa
-:description "Major mode for editing docker-compose files"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dash yaml-mode)
-:minimum-emacs-version (24 3)
-)

@@ -1,7 +1,0 @@
-(:name autofit-frame
-:auto-generated t
-:type elpa
-:description "Automatically resize one-window frames to fit"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (fit-frame)
-)

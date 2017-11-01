@@ -1,8 +1,0 @@
-(:name copyit
-:auto-generated t
-:type elpa
-:description "Copy it, yank anything!"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib s)
-:minimum-emacs-version (24)
-)

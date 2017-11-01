@@ -1,7 +1,0 @@
-(:name helm-img-tiqav
-:auto-generated t
-:type elpa
-:description "An helm-source for joking."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (helm-img)
-)

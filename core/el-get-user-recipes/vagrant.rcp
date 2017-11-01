@@ -1,6 +1,0 @@
-(:name vagrant
-:auto-generated t
-:type elpa
-:description "Manage a vagrant box from emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

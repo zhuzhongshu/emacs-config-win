@@ -1,8 +1,0 @@
-(:name helm-kythe
-:auto-generated t
-:type elpa
-:description "Google Kythe helm interface"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dash helm)
-:minimum-emacs-version (25)
-)

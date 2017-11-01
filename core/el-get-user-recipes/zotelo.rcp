@@ -1,7 +1,0 @@
-(:name zotelo
-:auto-generated t
-:type elpa
-:description "Manage Zotero collections from emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-)

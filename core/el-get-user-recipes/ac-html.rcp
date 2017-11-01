@@ -1,7 +1,0 @@
-(:name ac-html
-:auto-generated t
-:type elpa
-:description "auto complete source for html tags and attributes"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (auto-complete s f dash)
-)

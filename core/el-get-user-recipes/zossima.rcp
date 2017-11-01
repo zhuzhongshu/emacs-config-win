@@ -1,7 +1,0 @@
-(:name zossima
-:auto-generated t
-:type elpa
-:description "Ruby from Emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (inf-ruby)
-)

@@ -1,7 +1,0 @@
-(:name repo
-:auto-generated t
-:type elpa
-:description "Running repo from Emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 3)
-)

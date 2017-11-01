@@ -1,8 +1,0 @@
-(:name anything-tramp
-:auto-generated t
-:type elpa
-:description "Tramp with anything for ssh and docker and vagrant"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (anything)
-:minimum-emacs-version (24 3)
-)

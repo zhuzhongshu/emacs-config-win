@@ -1,7 +1,0 @@
-(:name es-mode
-:auto-generated t
-:type elpa
-:description "A major mode for editing and executing Elasticsearch queries"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dash cl-lib spark s request)
-)

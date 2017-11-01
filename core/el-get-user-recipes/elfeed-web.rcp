@@ -1,8 +1,0 @@
-(:name elfeed-web
-:auto-generated t
-:type elpa
-:description "web interface to Elfeed"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (simple-httpd elfeed)
-:minimum-emacs-version (24 1)
-)

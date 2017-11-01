@@ -1,7 +1,0 @@
-(:name dot-mode
-:auto-generated t
-:type elpa
-:description "minor mode to repeat typing or commands"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 3)
-)

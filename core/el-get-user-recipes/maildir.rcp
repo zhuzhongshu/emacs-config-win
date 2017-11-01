@@ -1,7 +1,0 @@
-(:name maildir
-:auto-generated t
-:type elpa
-:description "Simple maildir based MUA."
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-:depends (kv dash s noflet)
-)

@@ -1,6 +1,0 @@
-(:name jammer
-:auto-generated t
-:type elpa
-:description "Punish yourself for using Emacs inefficiently"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

@@ -1,7 +1,0 @@
-(:name dmenu
-:auto-generated t
-:type elpa
-:description "simulate the dmenu command line program"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-)

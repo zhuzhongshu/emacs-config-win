@@ -1,7 +1,0 @@
-(:name evil-rails
-:auto-generated t
-:type elpa
-:description "Rails support for Evil Mode"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (evil projectile-rails)
-)

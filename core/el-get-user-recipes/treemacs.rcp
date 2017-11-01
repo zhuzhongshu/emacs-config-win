@@ -1,8 +1,0 @@
-(:name treemacs
-:auto-generated t
-:type elpa
-:description "A tree style file explorer package"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib dash s f ace-window pfuture hydra)
-:minimum-emacs-version (25 1)
-)

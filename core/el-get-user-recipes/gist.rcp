@@ -1,8 +1,0 @@
-(:name gist
-:auto-generated t
-:type elpa
-:description "Emacs integration for gist.github.com"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (gh)
-:minimum-emacs-version (24 1)
-)

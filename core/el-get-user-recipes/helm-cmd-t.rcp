@@ -1,6 +1,0 @@
-(:name helm-cmd-t
-:auto-generated t
-:type elpa
-:description "cmd-t style completion"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

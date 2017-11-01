@@ -1,7 +1,0 @@
-(:name lsp-python
-:auto-generated t
-:type elpa
-:description "Python support for lsp-mode"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (lsp-mode)
-)

@@ -1,8 +1,0 @@
-(:name magit-imerge
-:auto-generated t
-:type elpa
-:description "Magit extension for git-imerge"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (magit)
-:minimum-emacs-version (24 4)
-)

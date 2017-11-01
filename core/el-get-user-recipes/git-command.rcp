@@ -1,7 +1,0 @@
-(:name git-command
-:auto-generated t
-:type elpa
-:description "Yet another Git interface"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (term-run with-editor)
-)

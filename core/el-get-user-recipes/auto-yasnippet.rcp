@@ -1,7 +1,0 @@
-(:name auto-yasnippet
-:auto-generated t
-:type elpa
-:description "Quickly create disposable yasnippets"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (yasnippet)
-)

@@ -1,8 +1,0 @@
-(:name guix
-:auto-generated t
-:type elpa
-:description "Interface for GNU Guix"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dash geiser bui magit-popup)
-:minimum-emacs-version (24 3)
-)

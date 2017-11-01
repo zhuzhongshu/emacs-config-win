@@ -1,7 +1,0 @@
-(:name easy-lentic
-:auto-generated t
-:type elpa
-:description "Write org style comment with lentic"
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
-:depends (lentic cl-lib)
-)

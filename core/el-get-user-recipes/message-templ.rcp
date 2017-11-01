@@ -1,6 +1,0 @@
-(:name message-templ
-:auto-generated t
-:type elpa
-:description "Templates for message-mode."
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-)

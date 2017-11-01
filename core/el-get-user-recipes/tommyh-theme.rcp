@@ -1,6 +1,0 @@
-(:name tommyh-theme
-:auto-generated t
-:type elpa
-:description "A bright, bold-colored theme for emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

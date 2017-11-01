@@ -1,7 +1,0 @@
-(:name python-x
-:auto-generated t
-:type elpa
-:description "python.el extras for interactive evaluation"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (python folding cl-lib)
-)

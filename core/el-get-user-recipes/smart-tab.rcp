@@ -1,6 +1,0 @@
-(:name smart-tab
-:auto-generated t
-:type elpa
-:description "Intelligent tab completion and indentation."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

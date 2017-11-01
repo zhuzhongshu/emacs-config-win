@@ -1,7 +1,0 @@
-(:name strie
-:auto-generated t
-:type elpa
-:description "A simple trie data structure implementation"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-)

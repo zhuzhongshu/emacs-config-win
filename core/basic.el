@@ -6,11 +6,13 @@
 ;;============================================================================================================
 ;;                                             tramp
 (require 'tramp)
-
+(setq tramp-default-method "ssh")
 ;; usage C-x C-f /mqq@192.168.9.110:/path/to/your/file
 ;; tramp可以读取.ssh目录下的known_host
 ;;============================================================================================================
 ;; (setq explicit-shell-file-name "C:/msys64/usr/bin/zsh.exe") 
+
+
 
 
 
@@ -121,9 +123,17 @@
       ;;    ))
       '((dengtacj
          (sql-product 'mysql)  
-         (sql-server "rm-bp1m764uvk6bejg2wo.mysql.rds.aliyuncs.com")
+         (sql-server "rds5o6p543rd9leq9tl7.mysql.rds.aliyuncs.com")
          (sql-user "dengtacj")  
-         (sql-password "Dengtacj2015")  
+         (sql-password "dengtacj2015")  
+         (sql-database "db_dengta_info")  
+         (sql-port 3306)
+         )
+        (dengtacj-2
+         (sql-product 'mysql)  
+         (sql-server "rdsferjo6s7315dvn71vo.mysql.rds.aliyuncs.com")
+         (sql-user "dengtacj")  
+         (sql-password "dengtacj2015")  
          (sql-database "db_dengta_info")  
          (sql-port 3306)
          )

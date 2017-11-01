@@ -1,6 +1,0 @@
-(:name fillcode
-:auto-generated t
-:type elpa
-:description "Fill (wrap) function calls and expressions in source code"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

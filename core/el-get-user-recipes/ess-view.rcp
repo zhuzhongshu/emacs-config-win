@@ -1,7 +1,0 @@
-(:name ess-view
-:auto-generated t
-:type elpa
-:description "View R dataframes in a spreadsheet software"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (ess s f)
-)

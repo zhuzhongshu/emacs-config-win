@@ -1,7 +1,0 @@
-(:name flycheck-flow
-:auto-generated t
-:type elpa
-:description "Support Flow in flycheck"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (flycheck json)
-)

@@ -1,8 +1,0 @@
-(:name ghub+
-:auto-generated t
-:type elpa
-:description "a thick GitHub API client built on ghub"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (ghub apiwrap)
-:minimum-emacs-version (25)
-)

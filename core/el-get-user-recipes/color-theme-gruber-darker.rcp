@@ -1,7 +1,0 @@
-(:name color-theme-gruber-darker
-:auto-generated t
-:type elpa
-:description "Gruber Darker color theme for Emacs by Jason Blevins"
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-:depends (color-theme)
-)

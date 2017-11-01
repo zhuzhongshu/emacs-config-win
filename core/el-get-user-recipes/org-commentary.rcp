@@ -1,8 +1,0 @@
-(:name org-commentary
-:auto-generated t
-:type elpa
-:description "generate or update conventional library headers using Org mode files"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dash org)
-:minimum-emacs-version (24 4)
-)

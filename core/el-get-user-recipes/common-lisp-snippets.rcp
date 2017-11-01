@@ -1,7 +1,0 @@
-(:name common-lisp-snippets
-:auto-generated t
-:type elpa
-:description "Yasnippets for Common Lisp"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (yasnippet)
-)

@@ -1,7 +1,0 @@
-(:name php-cs-fixer
-:auto-generated t
-:type elpa
-:description "php-cs-fixer wrapper."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-)

@@ -1,7 +1,0 @@
-(:name rand-theme
-:auto-generated t
-:type elpa
-:description "Random Emacs theme at start-up!"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-)

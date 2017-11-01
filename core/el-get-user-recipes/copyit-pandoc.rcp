@@ -1,8 +1,0 @@
-(:name copyit-pandoc
-:auto-generated t
-:type elpa
-:description "Copy it, yank anything!"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (copyit pandoc)
-:minimum-emacs-version (24)
-)

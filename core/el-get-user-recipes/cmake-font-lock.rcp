@@ -1,7 +1,0 @@
-(:name cmake-font-lock
-:auto-generated t
-:type elpa
-:description "Advanced, type aware, highlight support for CMake"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cmake-mode)
-)

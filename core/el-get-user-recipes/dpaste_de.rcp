@@ -1,7 +1,0 @@
-(:name dpaste_de
-:auto-generated t
-:type elpa
-:description "Emacs mode to paste to dpaste.de"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (web)
-)

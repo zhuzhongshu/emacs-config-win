@@ -1,7 +1,0 @@
-(:name evil-mark-replace
-:auto-generated t
-:type elpa
-:description "replace the thing in marked area"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (evil)
-)

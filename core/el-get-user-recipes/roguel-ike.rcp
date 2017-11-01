@@ -1,7 +1,0 @@
-(:name roguel-ike
-:auto-generated t
-:type elpa
-:description "A coffee-break roguelike"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (popup)
-)

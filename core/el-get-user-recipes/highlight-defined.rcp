@@ -1,7 +1,0 @@
-(:name highlight-defined
-:auto-generated t
-:type elpa
-:description "Syntax highlighting of known Elisp symbols"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24)
-)

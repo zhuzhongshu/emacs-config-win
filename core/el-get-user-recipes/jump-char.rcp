@@ -1,6 +1,0 @@
-(:name jump-char
-:auto-generated t
-:type elpa
-:description "navigation by char"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

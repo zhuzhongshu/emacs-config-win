@@ -1,6 +1,0 @@
-(:name ucs-cmds
-:auto-generated t
-:type elpa
-:description "Commands to create commands that insert Unicode chars."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

@@ -1,7 +1,0 @@
-(:name debpaste
-:auto-generated t
-:type elpa
-:description "Interface for getting/posting/deleting pastes from paste.debian.net"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (xml-rpc)
-)

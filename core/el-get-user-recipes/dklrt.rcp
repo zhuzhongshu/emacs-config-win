@@ -1,8 +1,0 @@
-(:name dklrt
-:auto-generated t
-:type elpa
-:description "Ledger Recurring Transactions."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dkmisc ledger-mode)
-:minimum-emacs-version (24 1)
-)

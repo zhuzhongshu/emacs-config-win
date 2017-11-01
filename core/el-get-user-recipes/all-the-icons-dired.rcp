@@ -1,8 +1,0 @@
-(:name all-the-icons-dired
-:auto-generated t
-:type elpa
-:description "Shows icons for each file in dired mode"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (all-the-icons)
-:minimum-emacs-version (24 4)
-)

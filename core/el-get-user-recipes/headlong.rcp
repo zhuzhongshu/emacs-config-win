@@ -1,6 +1,0 @@
-(:name headlong
-:auto-generated t
-:type elpa
-:description "reckless completion"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

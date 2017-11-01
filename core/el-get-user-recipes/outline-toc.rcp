@@ -1,6 +1,0 @@
-(:name outline-toc
-:auto-generated t
-:type elpa
-:description "Sidebar showing a \"table of contents\"."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

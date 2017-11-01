@@ -1,8 +1,0 @@
-(:name gited
-:auto-generated t
-:type elpa
-:description "Operate on Git branches like dired"
-:repo ("gnu" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
-:depends (cl-lib)
-:minimum-emacs-version (24 4)
-)

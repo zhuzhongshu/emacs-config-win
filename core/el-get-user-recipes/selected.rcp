@@ -1,6 +1,0 @@
-(:name selected
-:auto-generated t
-:type elpa
-:description "Keymap for when region is active"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

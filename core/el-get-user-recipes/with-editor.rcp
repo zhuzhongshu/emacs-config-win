@@ -1,8 +1,0 @@
-(:name with-editor
-:auto-generated t
-:type elpa
-:description "Use the Emacsclient as $EDITOR"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (async)
-:minimum-emacs-version (24 4)
-)

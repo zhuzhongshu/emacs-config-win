@@ -1,6 +1,0 @@
-(:name smarter-compile
-:auto-generated t
-:type elpa
-:description "a smarter wrapper for `compile'"
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-)

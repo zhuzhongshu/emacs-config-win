@@ -1,8 +1,0 @@
-(:name sotclojure
-:auto-generated t
-:type elpa
-:description "Write clojure at the speed of thought."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (clojure-mode cider sotlisp)
-:minimum-emacs-version (24 1)
-)

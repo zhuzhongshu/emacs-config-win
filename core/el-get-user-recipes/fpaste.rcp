@@ -1,6 +1,0 @@
-(:name fpaste
-:auto-generated t
-:type elpa
-:description "Send text to http://fpaste.org"
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-)

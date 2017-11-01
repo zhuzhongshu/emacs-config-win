@@ -1,6 +1,0 @@
-(:name highlight-indentation
-:auto-generated t
-:type elpa
-:description "Minor modes for highlighting indentation"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

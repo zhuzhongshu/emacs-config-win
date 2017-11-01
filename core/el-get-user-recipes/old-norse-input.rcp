@@ -1,7 +1,0 @@
-(:name old-norse-input
-:auto-generated t
-:type elpa
-:description "An input method for Old Norse"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24)
-)

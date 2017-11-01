@@ -1,7 +1,0 @@
-(:name cnfonts
-:auto-generated t
-:type elpa
-:description "A simple Chinese fonts config tool"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24)
-)

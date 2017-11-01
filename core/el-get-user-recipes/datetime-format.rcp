@@ -1,6 +1,0 @@
-(:name datetime-format
-:auto-generated t
-:type elpa
-:description "Datetime functions"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

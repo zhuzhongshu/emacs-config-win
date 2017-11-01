@@ -1,7 +1,0 @@
-(:name evil-lispy
-:auto-generated t
-:type elpa
-:description "precision Lisp editing with Evil and Lispy"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (lispy evil hydra)
-)

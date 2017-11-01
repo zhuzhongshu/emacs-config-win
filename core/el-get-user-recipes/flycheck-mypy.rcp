@@ -1,7 +1,0 @@
-(:name flycheck-mypy
-:auto-generated t
-:type elpa
-:description "Support mypy in flycheck"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (flycheck)
-)

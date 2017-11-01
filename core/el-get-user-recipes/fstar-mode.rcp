@@ -1,8 +1,0 @@
-(:name fstar-mode
-:auto-generated t
-:type elpa
-:description "Support for F* programming"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dash company quick-peek yasnippet flycheck company-quickhelp)
-:minimum-emacs-version (24 3)
-)

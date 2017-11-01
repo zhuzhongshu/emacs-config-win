@@ -1,6 +1,0 @@
-(:name transpose-mark
-:auto-generated t
-:type elpa
-:description "Transpose data using the Emacs mark"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

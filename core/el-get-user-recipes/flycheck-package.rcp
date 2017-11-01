@@ -1,7 +1,0 @@
-(:name flycheck-package
-:auto-generated t
-:type elpa
-:description "A Flycheck checker for elisp package authors"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (flycheck package-lint)
-)

@@ -1,6 +1,0 @@
-(:name unicode-troll-stopper
-:auto-generated t
-:type elpa
-:description "Minor mode for Highlighting Unicode homoglyphs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

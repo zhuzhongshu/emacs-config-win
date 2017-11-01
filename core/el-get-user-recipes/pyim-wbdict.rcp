@@ -1,7 +1,0 @@
-(:name pyim-wbdict
-:auto-generated t
-:type elpa
-:description "Some wubi dicts for pyim"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (pyim)
-)

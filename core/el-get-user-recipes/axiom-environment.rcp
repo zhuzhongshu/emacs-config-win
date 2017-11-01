@@ -1,7 +1,0 @@
-(:name axiom-environment
-:auto-generated t
-:type elpa
-:description "An environment for using Axiom/OpenAxiom/FriCAS"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 2)
-)

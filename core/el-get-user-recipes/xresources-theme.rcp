@@ -1,6 +1,0 @@
-(:name xresources-theme
-:auto-generated t
-:type elpa
-:description "Use your .Xresources as your emacs theme"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

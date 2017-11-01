@@ -1,7 +1,0 @@
-(:name color-theme-tangotango
-:auto-generated t
-:type elpa
-:description "Tango Palette color theme for Emacs."
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-:depends (color-theme)
-)

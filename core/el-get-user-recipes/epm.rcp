@@ -1,8 +1,0 @@
-(:name epm
-:auto-generated t
-:type elpa
-:description "Emacs Package Manager"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (epl)
-:minimum-emacs-version (24 3)
-)

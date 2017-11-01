@@ -1,7 +1,0 @@
-(:name rufo
-:auto-generated t
-:type elpa
-:description "use rufo to automatically format ruby files"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 3)
-)

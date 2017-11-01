@@ -1,7 +1,0 @@
-(:name exotica-theme
-:auto-generated t
-:type elpa
-:description "A dark theme with vibrant colors"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24)
-)

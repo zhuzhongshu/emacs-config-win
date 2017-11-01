@@ -1,6 +1,0 @@
-(:name preproc-font-lock
-:auto-generated t
-:type elpa
-:description "Highlight C-style preprocessor directives."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

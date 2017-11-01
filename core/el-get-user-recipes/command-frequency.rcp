@@ -1,6 +1,0 @@
-(:name command-frequency
-:auto-generated t
-:type elpa
-:description "Track command frequencies"
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-)

@@ -1,8 +1,0 @@
-(:name paper-theme
-:auto-generated t
-:type elpa
-:description "A minimal Emacs colour theme."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (hexrgb)
-:minimum-emacs-version (24)
-)

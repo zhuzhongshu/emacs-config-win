@@ -1,6 +1,0 @@
-(:name recentf-ext
-:auto-generated t
-:type elpa
-:description "Recentf extensions"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

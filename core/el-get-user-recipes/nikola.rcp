@@ -1,8 +1,0 @@
-(:name nikola
-:auto-generated t
-:type elpa
-:description "Simple wrapper for nikola"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (async)
-:minimum-emacs-version (24 3)
-)

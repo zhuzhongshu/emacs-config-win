@@ -1,8 +1,0 @@
-(:name salt-mode
-:auto-generated t
-:type elpa
-:description "Major mode for Salt States"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (yaml-mode mmm-mode mmm-jinja2)
-:minimum-emacs-version (24 4)
-)

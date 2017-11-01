@@ -1,6 +1,0 @@
-(:name monky
-:auto-generated t
-:type elpa
-:description "Control Hg from Emacs."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

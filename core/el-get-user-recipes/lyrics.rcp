@@ -1,8 +1,0 @@
-(:name lyrics
-:auto-generated t
-:type elpa
-:description "Show lyrics"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (seq)
-:minimum-emacs-version (25 1)
-)

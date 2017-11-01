@@ -1,8 +1,0 @@
-(:name psysh
-:auto-generated t
-:type elpa
-:description "PsySH, PHP interactive shell (REPL)"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (s f)
-:minimum-emacs-version (24 3)
-)

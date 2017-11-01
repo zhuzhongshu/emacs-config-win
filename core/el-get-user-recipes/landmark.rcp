@@ -1,6 +1,0 @@
-(:name landmark
-:auto-generated t
-:type elpa
-:description "Neural-network robot that learns landmarks"
-:repo ("gnu" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
-)

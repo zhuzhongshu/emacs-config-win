@@ -1,6 +1,0 @@
-(:name org-if
-:auto-generated t
-:type elpa
-:description "Interactive Fiction Authoring System for Org-Mode."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

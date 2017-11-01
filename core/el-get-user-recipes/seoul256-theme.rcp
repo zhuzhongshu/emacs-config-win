@@ -1,7 +1,0 @@
-(:name seoul256-theme
-:auto-generated t
-:type elpa
-:description "Low-contrast color scheme based on Seoul Colors."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 3)
-)

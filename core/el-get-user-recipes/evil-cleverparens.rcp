@@ -1,8 +1,0 @@
-(:name evil-cleverparens
-:auto-generated t
-:type elpa
-:description "Evil friendly minor-mode for editing lisp."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (evil paredit smartparens dash)
-:minimum-emacs-version (24 4)
-)

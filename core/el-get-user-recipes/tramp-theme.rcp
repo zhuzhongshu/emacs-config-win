@@ -1,7 +1,0 @@
-(:name tramp-theme
-:auto-generated t
-:type elpa
-:description "Custom theme for remote buffers"
-:repo ("gnu" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
-:minimum-emacs-version (24 1)
-)

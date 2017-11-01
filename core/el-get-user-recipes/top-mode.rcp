@@ -1,6 +1,0 @@
-(:name top-mode
-:auto-generated t
-:type elpa
-:description "run \"top\" from emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

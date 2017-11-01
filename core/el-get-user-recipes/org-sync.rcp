@@ -1,8 +1,0 @@
-(:name org-sync
-:auto-generated t
-:type elpa
-:description "Synchronize Org documents with External Issue Trackers"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib org)
-:minimum-emacs-version (24)
-)

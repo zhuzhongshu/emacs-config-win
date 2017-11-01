@@ -1,8 +1,0 @@
-(:name makefile-executor
-:auto-generated t
-:type elpa
-:description "Commands for conveniently running makefile targets"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dash f s)
-:minimum-emacs-version (24 3)
-)

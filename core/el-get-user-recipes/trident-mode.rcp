@@ -1,8 +1,0 @@
-(:name trident-mode
-:auto-generated t
-:type elpa
-:description "Live Parenscript interaction"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (slime skewer-mode dash)
-:minimum-emacs-version (24)
-)

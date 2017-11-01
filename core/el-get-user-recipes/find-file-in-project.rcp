@@ -1,8 +1,0 @@
-(:name find-file-in-project
-:auto-generated t
-:type elpa
-:description "Find file/directory and review Diff/Patch/Commit efficiently everywhere"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (ivy)
-:minimum-emacs-version (24 3)
-)

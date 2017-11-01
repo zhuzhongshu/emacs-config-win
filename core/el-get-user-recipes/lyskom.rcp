@@ -1,6 +1,0 @@
-(:name lyskom
-:auto-generated t
-:type elpa
-:description "LysKOM elisp client."
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-)

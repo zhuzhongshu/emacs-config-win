@@ -1,7 +1,0 @@
-(:name read-aloud
-:auto-generated t
-:type elpa
-:description "A simple interface to TTS engines"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 4)
-)

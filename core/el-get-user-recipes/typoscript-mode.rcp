@@ -1,8 +1,0 @@
-(:name typoscript-mode
-:auto-generated t
-:type elpa
-:description "mode for TypoScript files"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (use-package)
-:minimum-emacs-version (24 4)
-)

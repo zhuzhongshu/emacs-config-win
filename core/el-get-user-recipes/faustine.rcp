@@ -1,8 +1,0 @@
-(:name faustine
-:auto-generated t
-:type elpa
-:description "Edit, visualize, build and run Faust code"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (faust-mode)
-:minimum-emacs-version (24 3)
-)

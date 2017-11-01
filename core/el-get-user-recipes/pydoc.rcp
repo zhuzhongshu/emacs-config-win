@@ -1,6 +1,0 @@
-(:name pydoc
-:auto-generated t
-:type elpa
-:description "functional, syntax highlighted pydoc navigation"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

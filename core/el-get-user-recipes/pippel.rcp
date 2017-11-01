@@ -1,8 +1,0 @@
-(:name pippel
-:auto-generated t
-:type elpa
-:description "Frontend to python package manager pip"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (s dash)
-:minimum-emacs-version (25 1)
-)

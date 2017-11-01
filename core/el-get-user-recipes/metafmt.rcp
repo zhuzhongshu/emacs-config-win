@@ -1,6 +1,0 @@
-(:name metafmt
-:auto-generated t
-:type elpa
-:description "Run metafmt on buffers when saving them"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

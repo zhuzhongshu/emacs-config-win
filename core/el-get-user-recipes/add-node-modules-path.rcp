@@ -1,6 +1,0 @@
-(:name add-node-modules-path
-:auto-generated t
-:type elpa
-:description "Add node_modules to your exec-path"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

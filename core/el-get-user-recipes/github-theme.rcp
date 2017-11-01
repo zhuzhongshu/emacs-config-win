@@ -1,6 +1,0 @@
-(:name github-theme
-:auto-generated t
-:type elpa
-:description "The GitHub color theme for Emacs."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

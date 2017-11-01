@@ -1,7 +1,0 @@
-(:name whitaker
-:auto-generated t
-:type elpa
-:description "Comint interface for Whitaker's Words"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dash)
-)

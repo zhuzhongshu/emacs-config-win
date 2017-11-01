@@ -1,7 +1,0 @@
-(:name flycheck-hdevtools
-:auto-generated t
-:type elpa
-:description "A flycheck checker for Haskell using hdevtools"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (flycheck dash)
-)

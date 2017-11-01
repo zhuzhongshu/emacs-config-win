@@ -1,6 +1,7 @@
 #忽略日志文件和emacs自动保存文件
 *~
 *.elc
+*.rcp
 url/
 ac-dict/
 desktops/

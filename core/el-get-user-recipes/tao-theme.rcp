@@ -1,6 +1,0 @@
-(:name tao-theme
-:auto-generated t
-:type elpa
-:description "This package provides two parametrized uncoloured color themes for Emacs: tao-yin and tao-yang."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

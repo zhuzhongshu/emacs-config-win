@@ -1,7 +1,0 @@
-(:name ebdb-i18n-chn
-:auto-generated t
-:type elpa
-:description "China-specific internationalization support for EBDB"
-:repo ("gnu" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
-:depends (pyim ebdb)
-)

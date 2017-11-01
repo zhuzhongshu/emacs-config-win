@@ -1,7 +1,0 @@
-(:name julia-shell
-:auto-generated t
-:type elpa
-:description "Major mode for an inferior Julia shell"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (julia-mode)
-)

@@ -1,7 +1,0 @@
-(:name fuff
-:auto-generated t
-:type elpa
-:description "Find files with findutils, recursively"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (seq)
-)

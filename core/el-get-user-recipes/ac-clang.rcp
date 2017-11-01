@@ -1,8 +1,0 @@
-(:name ac-clang
-:auto-generated t
-:type elpa
-:description "Auto Completion source by libclang for GNU Emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib auto-complete pos-tip yasnippet)
-:minimum-emacs-version (24)
-)

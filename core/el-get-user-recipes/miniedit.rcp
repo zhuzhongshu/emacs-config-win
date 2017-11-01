@@ -1,6 +1,0 @@
-(:name miniedit
-:auto-generated t
-:type elpa
-:description "Enhanced editing for minibuffer fields."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

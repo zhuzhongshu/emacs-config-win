@@ -1,6 +1,0 @@
-(:name sackspace
-:auto-generated t
-:type elpa
-:description "A better backspace"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

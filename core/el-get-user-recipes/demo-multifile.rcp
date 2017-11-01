@@ -1,6 +1,0 @@
-(:name demo-multifile
-:auto-generated t
-:type elpa
-:description "a demo multifile package."
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-)

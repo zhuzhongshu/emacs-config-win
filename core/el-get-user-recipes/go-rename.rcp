@@ -1,7 +1,0 @@
-(:name go-rename
-:auto-generated t
-:type elpa
-:description "Integration of the 'gorename' tool into Emacs."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (go-mode)
-)

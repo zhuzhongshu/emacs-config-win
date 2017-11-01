@@ -1,7 +1,0 @@
-(:name weechat-alert
-:auto-generated t
-:type elpa
-:description "Weechat notifier using alerts"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (weechat cl-lib alert)
-)

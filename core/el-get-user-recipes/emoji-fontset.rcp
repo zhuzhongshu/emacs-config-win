@@ -1,6 +1,0 @@
-(:name emoji-fontset
-:auto-generated t
-:type elpa
-:description "Set font face for Emoji."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

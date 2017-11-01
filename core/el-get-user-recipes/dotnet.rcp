@@ -1,6 +1,0 @@
-(:name dotnet
-:auto-generated t
-:type elpa
-:description "Interact with dotnet CLI tool"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

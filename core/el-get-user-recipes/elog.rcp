@@ -1,7 +1,0 @@
-(:name elog
-:auto-generated t
-:type elpa
-:description "logging library extended from logito"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (eieio)
-)

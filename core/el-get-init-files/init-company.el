@@ -75,13 +75,13 @@
   (define-key company-active-map (kbd "<tab>") #'company-other-backend)
   )
 ;;;;company-irony配置，记得要编译irony的server
-(add-hook 'irony-mode-hook 'company-irony-setup-begin-commands)
-(setq irony-additional-clang-options  '("-Ic:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v8.0/include"))
-(add-hook 'c-mode-common-hook
-          (lambda ()
-            (set (make-local-variable 'company-backends)  (quote (company-irony
-                                                                  company-yasnippet
-                                                                  company-files)))))
+;; (add-hook 'irony-mode-hook 'company-irony-setup-begin-commands)
+;; (setq irony-additional-clang-options  '("-Ic:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v8.0/include"))
+;; (add-hook 'c-mode-common-hook
+;;           (lambda ()
+;;             (set (make-local-variable 'company-backends)  (quote (company-irony
+;;                                                                   company-yasnippet
+;;                                                                   company-files)))))
 
 (provide 'init-company)
 ;;; init-company.el ends here

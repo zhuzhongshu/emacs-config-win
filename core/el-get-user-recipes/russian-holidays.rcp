@@ -1,6 +1,0 @@
-(:name russian-holidays
-:auto-generated t
-:type elpa
-:description "Russian holidays for the calendar"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

@@ -1,6 +1,0 @@
-(:name indent-guide
-:auto-generated t
-:type elpa
-:description "show vertical lines to guide indentation"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

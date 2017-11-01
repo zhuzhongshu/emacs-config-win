@@ -1,6 +1,0 @@
-(:name shen-mode
-:auto-generated t
-:type elpa
-:description "A major mode for editing shen source code"
-:repo ("gnu" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
-)

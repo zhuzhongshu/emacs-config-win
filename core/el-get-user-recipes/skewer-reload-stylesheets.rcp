@@ -1,7 +1,0 @@
-(:name skewer-reload-stylesheets
-:auto-generated t
-:type elpa
-:description "live-edit CSS, SCSS, Less, and friends."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (skewer-mode)
-)

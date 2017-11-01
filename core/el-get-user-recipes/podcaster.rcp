@@ -1,7 +1,0 @@
-(:name podcaster
-:auto-generated t
-:type elpa
-:description "Podcast client"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-)

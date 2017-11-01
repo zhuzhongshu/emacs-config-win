@@ -1,7 +1,0 @@
-(:name gl-conf-mode
-:auto-generated t
-:type elpa
-:description "Mode for editing gitolite config files"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 3)
-)

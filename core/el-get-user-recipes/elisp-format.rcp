@@ -1,6 +1,0 @@
-(:name elisp-format
-:auto-generated t
-:type elpa
-:description "Format elisp code"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

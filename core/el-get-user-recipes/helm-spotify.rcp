@@ -1,7 +1,0 @@
-(:name helm-spotify
-:auto-generated t
-:type elpa
-:description "Control Spotify with Helm."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (helm multi)
-)

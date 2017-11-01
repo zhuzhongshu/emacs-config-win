@@ -1,6 +1,0 @@
-(:name c0-mode
-:auto-generated t
-:type elpa
-:description "Major mode for editing C0 files"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

@@ -1,7 +1,0 @@
-(:name ducpel
-:auto-generated t
-:type elpa
-:description "Logic game with sokoban elements"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-)

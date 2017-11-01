@@ -1,7 +1,0 @@
-(:name ob-dao
-:auto-generated t
-:type elpa
-:description "Org Babel Functions for Dao"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (org)
-)

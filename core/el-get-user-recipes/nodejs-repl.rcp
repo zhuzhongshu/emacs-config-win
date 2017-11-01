@@ -1,6 +1,0 @@
-(:name nodejs-repl
-:auto-generated t
-:type elpa
-:description "Run Node.js REPL"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

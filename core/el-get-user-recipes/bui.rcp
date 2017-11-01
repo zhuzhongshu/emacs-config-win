@@ -1,8 +1,0 @@
-(:name bui
-:auto-generated t
-:type elpa
-:description "Buffer interface library"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dash)
-:minimum-emacs-version (24 3)
-)

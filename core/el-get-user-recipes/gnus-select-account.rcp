@@ -1,6 +1,0 @@
-(:name gnus-select-account
-:auto-generated t
-:type elpa
-:description "Select an account before writing a mail in gnus"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

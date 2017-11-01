@@ -1,7 +1,0 @@
-(:name neato-graph-bar
-:auto-generated t
-:type elpa
-:description "Neat-o graph bars CPU/memory etc."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 3)
-)

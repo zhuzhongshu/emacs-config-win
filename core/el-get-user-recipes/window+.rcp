@@ -1,6 +1,0 @@
-(:name window+
-:auto-generated t
-:type elpa
-:description "Extensions to `window.el'."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

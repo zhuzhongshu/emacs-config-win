@@ -1,7 +1,0 @@
-(:name ruby-compilation
-:auto-generated t
-:type elpa
-:description "run a ruby process in a compilation buffer"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (inf-ruby)
-)

@@ -1,6 +1,0 @@
-(:name flyspell-correct
-:auto-generated t
-:type elpa
-:description "correcting words with flyspell via custom interface"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

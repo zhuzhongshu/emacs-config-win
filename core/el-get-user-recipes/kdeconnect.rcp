@@ -1,6 +1,0 @@
-(:name kdeconnect
-:auto-generated t
-:type elpa
-:description "An interface for KDE Connect"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

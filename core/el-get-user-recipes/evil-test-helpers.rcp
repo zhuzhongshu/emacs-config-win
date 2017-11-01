@@ -1,7 +1,0 @@
-(:name evil-test-helpers
-:auto-generated t
-:type elpa
-:description "unit test helpers for Evil"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (evil)
-)

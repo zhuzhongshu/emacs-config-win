@@ -1,8 +1,0 @@
-(:name skewer-mode
-:auto-generated t
-:type elpa
-:description "live browser JavaScript, CSS, and HTML interaction"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (simple-httpd js2-mode)
-:minimum-emacs-version (24)
-)

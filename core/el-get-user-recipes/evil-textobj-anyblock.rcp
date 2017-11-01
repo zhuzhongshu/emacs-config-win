@@ -1,7 +1,0 @@
-(:name evil-textobj-anyblock
-:auto-generated t
-:type elpa
-:description "Textobject for the closest user-defined blocks."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib evil)
-)

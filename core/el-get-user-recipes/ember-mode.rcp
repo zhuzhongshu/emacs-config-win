@@ -1,7 +1,0 @@
-(:name ember-mode
-:auto-generated t
-:type elpa
-:description "Ember navigation mode for emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-)

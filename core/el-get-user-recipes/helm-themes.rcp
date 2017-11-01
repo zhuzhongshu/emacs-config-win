@@ -1,8 +1,0 @@
-(:name helm-themes
-:auto-generated t
-:type elpa
-:description "Color theme selection with helm interface"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (helm-core)
-:minimum-emacs-version (24 4)
-)

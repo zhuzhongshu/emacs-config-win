@@ -1,8 +1,0 @@
-(:name paste-of-code
-:auto-generated t
-:type elpa
-:description "paste code on https://paste.ofcode.org"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (request)
-:minimum-emacs-version (24 3)
-)

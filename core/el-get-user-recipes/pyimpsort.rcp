@@ -1,7 +1,0 @@
-(:name pyimpsort
-:auto-generated t
-:type elpa
-:description "Sort python imports."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 3)
-)

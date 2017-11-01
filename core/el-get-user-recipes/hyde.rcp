@@ -1,6 +1,0 @@
-(:name hyde
-:auto-generated t
-:type elpa
-:description "Major mode to help create and manage Jekyll blogs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

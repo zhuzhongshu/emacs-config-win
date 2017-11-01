@@ -1,7 +1,0 @@
-(:name exwm-x
-:auto-generated t
-:type elpa
-:description "A derivative wm based on EXWM (emacs x window manager)"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib exwm switch-window swiper bind-key counsel ivy)
-)

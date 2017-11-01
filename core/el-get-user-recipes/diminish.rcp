@@ -1,6 +1,0 @@
-(:name diminish
-:auto-generated t
-:type elpa
-:description "Diminished modes are minor modes with no modeline display"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

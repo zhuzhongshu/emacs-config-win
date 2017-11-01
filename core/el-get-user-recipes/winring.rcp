@@ -1,6 +1,0 @@
-(:name winring
-:auto-generated t
-:type elpa
-:description "Window configuration rings"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

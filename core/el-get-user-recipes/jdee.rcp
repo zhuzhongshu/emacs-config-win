@@ -1,8 +1,0 @@
-(:name jdee
-:auto-generated t
-:type elpa
-:description "Java Development Environment for Emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (flycheck memoize dash)
-:minimum-emacs-version (24 3)
-)

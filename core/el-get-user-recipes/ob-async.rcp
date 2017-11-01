@@ -1,8 +1,0 @@
-(:name ob-async
-:auto-generated t
-:type elpa
-:description "Asynchronous org-babel src block execution"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (async org)
-:minimum-emacs-version (24 4)
-)

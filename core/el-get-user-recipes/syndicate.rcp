@@ -1,7 +1,0 @@
-(:name syndicate
-:auto-generated t
-:type elpa
-:description "evil keybindings for org-mode"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (evil)
-)

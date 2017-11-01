@@ -1,8 +1,0 @@
-(:name emacs-daily-events
-:auto-generated t
-:type elpa
-:description "An Emacs package to notify you on specified daily occurring events"
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-:depends (cl-lib emacs-visual-notifications)
-:minimum-emacs-version (24)
-)

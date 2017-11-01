@@ -1,6 +1,0 @@
-(:name linum-relative
-:auto-generated t
-:type elpa
-:description "display relative line number in emacs."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

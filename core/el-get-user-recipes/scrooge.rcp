@@ -1,8 +1,0 @@
-(:name scrooge
-:auto-generated t
-:type elpa
-:description "Major mode for Twitter Scrooge files"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (thrift)
-:minimum-emacs-version (24)
-)

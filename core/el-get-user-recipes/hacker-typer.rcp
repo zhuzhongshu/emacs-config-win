@@ -1,7 +1,0 @@
-(:name hacker-typer
-:auto-generated t
-:type elpa
-:description "Pretend to write code like a pro"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24)
-)

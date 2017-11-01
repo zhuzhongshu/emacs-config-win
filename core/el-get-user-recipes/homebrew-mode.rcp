@@ -1,8 +1,0 @@
-(:name homebrew-mode
-:auto-generated t
-:type elpa
-:description "minor mode for editing Homebrew formulae"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (inf-ruby dash)
-:minimum-emacs-version (24 4)
-)

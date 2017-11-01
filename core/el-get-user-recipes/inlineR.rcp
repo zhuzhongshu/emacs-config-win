@@ -1,6 +1,0 @@
-(:name inlineR
-:auto-generated t
-:type elpa
-:description "insert Tag for inline image of R graphics"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

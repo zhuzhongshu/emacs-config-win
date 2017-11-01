@@ -1,6 +1,0 @@
-(:name config-general-mode
-:auto-generated t
-:type elpa
-:description "Config::General config file mode"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

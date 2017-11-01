@@ -1,7 +1,0 @@
-(:name evil-rsi
-:auto-generated t
-:type elpa
-:description "Use emacs motion keys in evil, inspired by vim-rsi"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (evil)
-)

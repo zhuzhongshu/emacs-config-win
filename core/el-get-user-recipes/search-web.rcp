@@ -1,6 +1,0 @@
-(:name search-web
-:auto-generated t
-:type elpa
-:description "Post web search queries using `browse-url'."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

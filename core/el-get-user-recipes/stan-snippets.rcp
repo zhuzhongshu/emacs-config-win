@@ -1,7 +1,0 @@
-(:name stan-snippets
-:auto-generated t
-:type elpa
-:description "Yasnippets for Stan"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (stan-mode yasnippet)
-)

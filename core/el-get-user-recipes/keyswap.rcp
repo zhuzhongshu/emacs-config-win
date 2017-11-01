@@ -1,7 +1,0 @@
-(:name keyswap
-:auto-generated t
-:type elpa
-:description "swap bindings between key pairs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 3)
-)

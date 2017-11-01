@@ -1,7 +1,0 @@
-(:name blgrep
-:auto-generated t
-:type elpa
-:description "Block grep"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (clmemo)
-)

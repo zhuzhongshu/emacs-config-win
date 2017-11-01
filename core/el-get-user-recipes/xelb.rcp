@@ -1,8 +1,0 @@
-(:name xelb
-:auto-generated t
-:type elpa
-:description "X protocol Emacs Lisp Binding"
-:repo ("gnu" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
-:depends (cl-generic)
-:minimum-emacs-version (24 4)
-)

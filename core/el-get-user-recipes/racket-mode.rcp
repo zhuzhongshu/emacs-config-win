@@ -1,8 +1,0 @@
-(:name racket-mode
-:auto-generated t
-:type elpa
-:description "Major mode for Racket language."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (faceup s)
-:minimum-emacs-version (24 3)
-)

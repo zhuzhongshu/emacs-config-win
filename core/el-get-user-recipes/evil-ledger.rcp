@@ -1,8 +1,0 @@
-(:name evil-ledger
-:auto-generated t
-:type elpa
-:description "Make `ledger-mode' more `evil'."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (evil)
-:minimum-emacs-version (24 4)
-)

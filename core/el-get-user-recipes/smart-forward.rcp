@@ -1,7 +1,0 @@
-(:name smart-forward
-:auto-generated t
-:type elpa
-:description "Semantic navigation"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (expand-region)
-)

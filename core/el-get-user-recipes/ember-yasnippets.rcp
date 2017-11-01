@@ -1,7 +1,0 @@
-(:name ember-yasnippets
-:auto-generated t
-:type elpa
-:description "Snippets for Ember.js development"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (yasnippet)
-)

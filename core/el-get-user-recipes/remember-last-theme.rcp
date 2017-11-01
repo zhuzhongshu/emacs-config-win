@@ -1,7 +1,0 @@
-(:name remember-last-theme
-:auto-generated t
-:type elpa
-:description "Remember the last used theme between sessions."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 4)
-)

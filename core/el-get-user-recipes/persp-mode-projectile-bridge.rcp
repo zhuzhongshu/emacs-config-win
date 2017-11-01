@@ -1,7 +1,0 @@
-(:name persp-mode-projectile-bridge
-:auto-generated t
-:type elpa
-:description "persp-mode + projectile integration."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (persp-mode projectile cl-lib)
-)

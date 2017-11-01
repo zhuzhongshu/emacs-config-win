@@ -1,7 +1,0 @@
-(:name swift3-mode
-:auto-generated t
-:type elpa
-:description "Major-mode for Apple's Swift programming language."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 4)
-)

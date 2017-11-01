@@ -1,7 +1,0 @@
-(:name apiwrap
-:auto-generated t
-:type elpa
-:description "api-wrapping macros"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (25)
-)

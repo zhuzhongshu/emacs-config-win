@@ -1,8 +1,0 @@
-(:name atomic-chrome
-:auto-generated t
-:type elpa
-:description "Edit Chrome text area with Emacs using Atomic Chrome"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (let-alist websocket)
-:minimum-emacs-version (24 3)
-)

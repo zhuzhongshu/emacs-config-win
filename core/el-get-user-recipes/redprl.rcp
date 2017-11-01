@@ -1,7 +1,0 @@
-(:name redprl
-:auto-generated t
-:type elpa
-:description "Major mode for editing RedPRL proofs and interacting with RedPRL"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 3)
-)

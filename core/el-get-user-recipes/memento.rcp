@@ -1,6 +1,0 @@
-(:name memento
-:auto-generated t
-:type elpa
-:description "maintaining daily journals when the day ends."
-:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
-)

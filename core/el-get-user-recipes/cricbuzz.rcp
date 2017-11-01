@@ -1,7 +1,0 @@
-(:name cricbuzz
-:auto-generated t
-:type elpa
-:description "Cricket scores from cricbuzz in emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (enlive dash s)
-)

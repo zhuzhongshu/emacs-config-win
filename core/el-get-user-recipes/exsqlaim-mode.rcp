@@ -1,7 +1,0 @@
-(:name exsqlaim-mode
-:auto-generated t
-:type elpa
-:description "Use variables inside sql queries"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (s)
-)

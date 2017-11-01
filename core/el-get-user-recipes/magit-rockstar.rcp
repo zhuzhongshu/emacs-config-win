@@ -1,7 +1,0 @@
-(:name magit-rockstar
-:auto-generated t
-:type elpa
-:description "commit like a rockstar"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dash magit)
-)

@@ -1,8 +1,0 @@
-(:name concurrent
-:auto-generated t
-:type elpa
-:description "Concurrent utility functions for emacs lisp"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (deferred)
-:minimum-emacs-version (24 3)
-)

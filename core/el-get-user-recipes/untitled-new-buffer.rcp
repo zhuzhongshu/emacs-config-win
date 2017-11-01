@@ -1,8 +1,0 @@
-(:name untitled-new-buffer
-:auto-generated t
-:type elpa
-:description "Open untitled new buffer like other text editors."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (magic-filetype)
-:minimum-emacs-version (24 4)
-)

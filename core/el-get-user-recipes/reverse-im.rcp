@@ -1,7 +1,0 @@
-(:name reverse-im
-:auto-generated t
-:type elpa
-:description "Reverse mapping for keyboard layouts other than english."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 4)
-)

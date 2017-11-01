@@ -1,7 +1,0 @@
-(:name beacon
-:auto-generated t
-:type elpa
-:description "Highlight the cursor whenever the window scrolls"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (seq)
-)

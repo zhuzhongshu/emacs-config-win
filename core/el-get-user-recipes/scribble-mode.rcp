@@ -1,7 +1,0 @@
-(:name scribble-mode
-:auto-generated t
-:type elpa
-:description "Major mode for editing Scribble documents"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24)
-)

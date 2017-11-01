@@ -1,6 +1,0 @@
-(:name diredful
-:auto-generated t
-:type elpa
-:description "colorful file names in dired buffers"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

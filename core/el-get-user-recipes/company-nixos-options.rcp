@@ -1,7 +1,0 @@
-(:name company-nixos-options
-:auto-generated t
-:type elpa
-:description "Company Backend for nixos-options"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (company nixos-options cl-lib)
-)

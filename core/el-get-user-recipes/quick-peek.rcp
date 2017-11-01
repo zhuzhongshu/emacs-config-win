@@ -1,7 +1,0 @@
-(:name quick-peek
-:auto-generated t
-:type elpa
-:description "Inline quick-peek windows"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 3)
-)

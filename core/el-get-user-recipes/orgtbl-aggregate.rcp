@@ -1,6 +1,0 @@
-(:name orgtbl-aggregate
-:auto-generated t
-:type elpa
-:description "Create an aggregated Org table from another one"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

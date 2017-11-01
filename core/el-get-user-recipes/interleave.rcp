@@ -1,6 +1,0 @@
-(:name interleave
-:auto-generated t
-:type elpa
-:description "Interleaving text books since 2015"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

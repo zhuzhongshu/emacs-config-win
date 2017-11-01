@@ -1,7 +1,0 @@
-(:name zerodark-theme
-:auto-generated t
-:type elpa
-:description "A dark, medium contrast theme for Emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (all-the-icons magit flycheck)
-)

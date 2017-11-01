@@ -1,6 +1,0 @@
-(:name eziam-theme
-:auto-generated t
-:type elpa
-:description "A mostly monochrome theme, inspired by Tao and Leuven, with dark and light versions."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

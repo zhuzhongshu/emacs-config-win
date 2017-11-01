@@ -1,7 +1,0 @@
-(:name go-dlv
-:auto-generated t
-:type elpa
-:description "Go Delve - Debug Go programs interactively with the GUD."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (go-mode)
-)

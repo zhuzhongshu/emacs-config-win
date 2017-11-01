@@ -1,7 +1,0 @@
-(:name helm-dired-history
-:auto-generated t
-:type elpa
-:description "Show dired history with helm.el support."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (helm cl-lib)
-)

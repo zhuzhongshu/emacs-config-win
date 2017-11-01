@@ -1,8 +1,0 @@
-(:name char-menu
-:auto-generated t
-:type elpa
-:description "Create your own menu for fast insertion of arbitrary symbols"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (avy-menu)
-:minimum-emacs-version (24 3)
-)

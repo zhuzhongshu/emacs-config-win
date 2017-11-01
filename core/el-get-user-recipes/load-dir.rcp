@@ -1,7 +1,0 @@
-(:name load-dir
-:auto-generated t
-:type elpa
-:description "Load all Emacs Lisp files in a given directory"
-:repo ("gnu" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
-:depends (cl-lib)
-)

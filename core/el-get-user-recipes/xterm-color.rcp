@@ -1,7 +1,0 @@
-(:name xterm-color
-:auto-generated t
-:type elpa
-:description "ANSI & XTERM 256 color support"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-)

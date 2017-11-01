@@ -1,7 +1,0 @@
-(:name tinysegmenter
-:auto-generated t
-:type elpa
-:description "Super compact Japanese tokenizer in Javascript ported to emacs lisp"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-)

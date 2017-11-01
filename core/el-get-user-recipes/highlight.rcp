@@ -1,6 +1,0 @@
-(:name highlight
-:auto-generated t
-:type elpa
-:description "Highlighting commands."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

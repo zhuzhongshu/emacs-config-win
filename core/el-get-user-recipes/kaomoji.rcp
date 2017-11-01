@@ -1,8 +1,0 @@
-(:name kaomoji
-:auto-generated t
-:type elpa
-:description "Input kaomoji superb easily"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (helm-core)
-:minimum-emacs-version (24 3)
-)

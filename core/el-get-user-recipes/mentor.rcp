@@ -1,7 +1,0 @@
-(:name mentor
-:auto-generated t
-:type elpa
-:description "Frontend for the rTorrent bittorrent client"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (xml-rpc seq cl-lib)
-)

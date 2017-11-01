@@ -1,6 +1,0 @@
-(:name n3-mode
-:auto-generated t
-:type elpa
-:description "mode for Notation 3"
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-)

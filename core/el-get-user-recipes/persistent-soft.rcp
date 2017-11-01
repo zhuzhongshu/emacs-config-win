@@ -1,7 +1,0 @@
-(:name persistent-soft
-:auto-generated t
-:type elpa
-:description "Persistent storage, returning nil on failure"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (pcache list-utils)
-)

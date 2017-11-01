@@ -1,7 +1,0 @@
-(:name niclein
-:auto-generated t
-:type elpa
-:description "Nic's lein and clojure integration"
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-:depends (shadchen smartparens)
-)

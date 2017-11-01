@@ -1,7 +1,0 @@
-(:name litable
-:auto-generated t
-:type elpa
-:description "dynamic evaluation replacement with emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dash)
-)

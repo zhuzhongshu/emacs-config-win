@@ -1,8 +1,0 @@
-(:name helm-charinfo
-:auto-generated t
-:type elpa
-:description "A helm source for character information"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (helm cl-lib)
-:minimum-emacs-version (24)
-)

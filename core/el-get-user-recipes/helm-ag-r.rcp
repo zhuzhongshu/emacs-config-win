@@ -1,7 +1,0 @@
-(:name helm-ag-r
-:auto-generated t
-:type elpa
-:description "Search something by ag and display by helm"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (helm)
-)

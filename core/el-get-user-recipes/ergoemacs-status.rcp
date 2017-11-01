@@ -1,7 +1,0 @@
-(:name ergoemacs-status
-:auto-generated t
-:type elpa
-:description "Adaptive Status Bar / Mode Line"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (powerline mode-icons)
-)

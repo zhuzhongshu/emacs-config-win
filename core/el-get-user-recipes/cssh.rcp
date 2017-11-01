@@ -1,6 +1,0 @@
-(:name cssh
-:auto-generated t
-:type elpa
-:description "clusterssh implementation for emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

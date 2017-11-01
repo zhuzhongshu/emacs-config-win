@@ -1,8 +1,0 @@
-(:name x509-mode
-:auto-generated t
-:type elpa
-:description "View certificates, CRLs and keys using OpenSSL."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-:minimum-emacs-version (24 1)
-)

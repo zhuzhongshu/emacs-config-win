@@ -1,7 +1,0 @@
-(:name helm-rb
-:auto-generated t
-:type elpa
-:description "Search Ruby's method by ag and display helm"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (helm helm-ag-r)
-)

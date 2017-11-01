@@ -1,6 +1,0 @@
-(:name scad-mode
-:auto-generated t
-:type elpa
-:description "A major mode for editing OpenSCAD code"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

@@ -1,7 +1,0 @@
-(:name wanderlust
-:auto-generated t
-:type elpa
-:description "Yet Another Message Interface on Emacsen"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (semi)
-)

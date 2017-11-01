@@ -1,7 +1,0 @@
-(:name ansible-doc
-:auto-generated t
-:type elpa
-:description "Ansible documentation Minor Mode"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 3)
-)

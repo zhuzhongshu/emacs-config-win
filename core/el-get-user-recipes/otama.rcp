@@ -1,6 +1,0 @@
-(:name otama
-:auto-generated t
-:type elpa
-:description "Org-table Manipulator"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

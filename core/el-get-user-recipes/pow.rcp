@@ -1,8 +1,0 @@
-(:name pow
-:auto-generated t
-:type elpa
-:description "pow (http://pow.cx/) manager for emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-:minimum-emacs-version (24)
-)

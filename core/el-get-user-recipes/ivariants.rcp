@@ -1,8 +1,0 @@
-(:name ivariants
-:auto-generated t
-:type elpa
-:description "Ideographic variants editor and browser"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (ivs-edit)
-:minimum-emacs-version (24 3)
-)

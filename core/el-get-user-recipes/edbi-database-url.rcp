@@ -1,8 +1,0 @@
-(:name edbi-database-url
-:auto-generated t
-:type elpa
-:description "Run edbi with database url"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (edbi)
-:minimum-emacs-version (24)
-)

@@ -1,6 +1,0 @@
-(:name hl-sexp
-:auto-generated t
-:type elpa
-:description "highlight the current sexp"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

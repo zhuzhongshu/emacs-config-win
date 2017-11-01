@@ -1,6 +1,0 @@
-(:name sequential-command
-:auto-generated t
-:type elpa
-:description "Many commands into one command"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

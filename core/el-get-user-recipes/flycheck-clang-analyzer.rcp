@@ -1,8 +1,0 @@
-(:name flycheck-clang-analyzer
-:auto-generated t
-:type elpa
-:description "Integrate Clang Analyzer with flycheck"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (flycheck)
-:minimum-emacs-version (24 4)
-)

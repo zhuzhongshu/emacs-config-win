@@ -1,6 +1,0 @@
-(:name faff-theme
-:auto-generated t
-:type elpa
-:description "Light Emacs color theme on ivory3 background"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

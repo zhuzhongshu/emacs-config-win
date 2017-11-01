@@ -1,6 +1,0 @@
-(:name org-tree-slide
-:auto-generated t
-:type elpa
-:description "A presentation tool for org-mode"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

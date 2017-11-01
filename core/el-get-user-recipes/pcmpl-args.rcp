@@ -1,6 +1,0 @@
-(:name pcmpl-args
-:auto-generated t
-:type elpa
-:description "Enhanced shell command completion"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

@@ -1,8 +1,0 @@
-(:name f3
-:auto-generated t
-:type elpa
-:description "The Fantastic File Finder: a helm interface for searching files really fast"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (helm cl-lib)
-:minimum-emacs-version (24)
-)

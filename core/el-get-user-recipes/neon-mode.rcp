@@ -1,6 +1,0 @@
-(:name neon-mode
-:auto-generated t
-:type elpa
-:description "Simple major mode for editing neon files"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

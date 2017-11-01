@@ -1,6 +1,0 @@
-(:name evil-nerd-commenter
-:auto-generated t
-:type elpa
-:description "Comment/uncomment lines efficiently. Like Nerd Commenter in Vim"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

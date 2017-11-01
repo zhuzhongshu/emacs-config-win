@@ -1,8 +1,0 @@
-(:name js2-highlight-vars
-:auto-generated t
-:type elpa
-:description "highlight occurrences of the variable under cursor"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (js2-mode)
-:minimum-emacs-version (24 4)
-)

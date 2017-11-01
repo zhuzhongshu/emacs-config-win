@@ -1,8 +1,0 @@
-(:name flx-isearch
-:auto-generated t
-:type elpa
-:description "Fuzzy incremental searching for emacs"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (flx cl-lib)
-:minimum-emacs-version (24)
-)

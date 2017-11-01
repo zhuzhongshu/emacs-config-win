@@ -1,7 +1,0 @@
-(:name el-spice
-:auto-generated t
-:type elpa
-:description "Extra spice for emacs lisp programming"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (thingatpt+)
-)

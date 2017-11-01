@@ -1,6 +1,0 @@
-(:name lcs
-:auto-generated t
-:type elpa
-:description "find out the longest common sequence"
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-)

@@ -1,6 +1,0 @@
-(:name dired-nav-enhance
-:auto-generated t
-:type elpa
-:description "Enhanced navigation for dired buffers"
-:repo ("marmalade" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-)

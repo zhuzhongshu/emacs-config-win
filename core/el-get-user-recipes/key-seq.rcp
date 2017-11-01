@@ -1,7 +1,0 @@
-(:name key-seq
-:auto-generated t
-:type elpa
-:description "map pairs of sequentially pressed keys to commands"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (key-chord)
-)

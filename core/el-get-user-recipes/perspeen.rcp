@@ -1,8 +1,0 @@
-(:name perspeen
-:auto-generated t
-:type elpa
-:description "An package for multi-workspace"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (powerline)
-:minimum-emacs-version (25 0)
-)

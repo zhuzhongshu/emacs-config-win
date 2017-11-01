@@ -1,8 +1,0 @@
-(:name ox-epub
-:auto-generated t
-:type elpa
-:description "Export org mode projects to EPUB"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (org)
-:minimum-emacs-version (24 3)
-)

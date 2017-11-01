@@ -1,6 +1,0 @@
-(:name nimbus-theme
-:auto-generated t
-:type elpa
-:description "An awesome dark theme"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

@@ -1,7 +1,0 @@
-(:name imenus
-:auto-generated t
-:type elpa
-:description "Imenu for multiple buffers and without subgroups"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (cl-lib)
-)

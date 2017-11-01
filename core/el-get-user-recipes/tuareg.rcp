@@ -1,7 +1,0 @@
-(:name tuareg
-:auto-generated t
-:type elpa
-:description "OCaml mode for Emacs."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (caml)
-)

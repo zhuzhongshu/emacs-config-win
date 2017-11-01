@@ -1,7 +1,0 @@
-(:name blog-minimal
-:auto-generated t
-:type elpa
-:description "a very simple static site generator based on org mode"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (ht simple-httpd mustache s org)
-)

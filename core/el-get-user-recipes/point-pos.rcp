@@ -1,6 +1,0 @@
-(:name point-pos
-:auto-generated t
-:type elpa
-:description "Save and restore point positions"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

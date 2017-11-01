@@ -1,8 +1,0 @@
-(:name composer
-:auto-generated t
-:type elpa
-:description "Interface to PHP Composer"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (s f request seq)
-:minimum-emacs-version (24)
-)

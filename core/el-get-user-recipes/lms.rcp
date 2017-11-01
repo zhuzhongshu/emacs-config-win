@@ -1,7 +1,0 @@
-(:name lms
-:auto-generated t
-:type elpa
-:description "Squeezebox / Logitech Media Server frontend"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (25 1)
-)

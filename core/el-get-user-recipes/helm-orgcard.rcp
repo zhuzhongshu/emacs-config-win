@@ -1,7 +1,0 @@
-(:name helm-orgcard
-:auto-generated t
-:type elpa
-:description "browse the orgcard by helm"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (helm-core)
-)

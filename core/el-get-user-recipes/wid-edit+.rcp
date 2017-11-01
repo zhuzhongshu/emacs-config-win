@@ -1,6 +1,0 @@
-(:name wid-edit+
-:auto-generated t
-:type elpa
-:description "Extensions to standard library `wid-edit.el'."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-)

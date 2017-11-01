@@ -1,7 +1,0 @@
-(:name bnfc
-:auto-generated t
-:type elpa
-:description "Define context-free grammars for the BNFC tool"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (24 3)
-)

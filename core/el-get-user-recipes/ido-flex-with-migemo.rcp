@@ -1,8 +1,0 @@
-(:name ido-flex-with-migemo
-:auto-generated t
-:type elpa
-:description "use ido with flex and migemo"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (flx-ido migemo)
-:minimum-emacs-version (24 4)
-)

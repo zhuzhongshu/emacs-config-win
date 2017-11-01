@@ -1,8 +1,0 @@
-(:name evil-colemak-minimal
-:auto-generated t
-:type elpa
-:description "Minimal Colemak key bindings for evil-mode"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (evil)
-:minimum-emacs-version (24)
-)

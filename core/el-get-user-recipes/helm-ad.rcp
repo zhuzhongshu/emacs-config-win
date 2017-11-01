@@ -1,7 +1,0 @@
-(:name helm-ad
-:auto-generated t
-:type elpa
-:description "helm source for Active Directory"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (dash helm)
-)

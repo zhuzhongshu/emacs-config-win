@@ -1,7 +1,0 @@
-(:name edbi-minor-mode
-:auto-generated t
-:type elpa
-:description "Use edbi with regular SQL files."
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:depends (edbi)
-)

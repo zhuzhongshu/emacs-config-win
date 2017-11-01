@@ -1,7 +1,0 @@
-(:name julia-repl
-:auto-generated t
-:type elpa
-:description "A minor mode for a Julia REPL"
-:repo ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-:minimum-emacs-version (25)
-)

@@ -1,6 +1,0 @@
-(:name rcirc-menu
-:auto-generated t
-:type elpa
-:description "A menu of all your rcirc connections"
-:repo ("gnu" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
-)
