@@ -6,6 +6,7 @@
 (elpy-use-ipython)
 
 
+(setq elpy-shell-echo-output nil)
 (setq python-executable-path "")
 (setq elpy-rpc-python-command
       (concat python-executable-path "python"));;设置python后台程序为python3
@@ -26,15 +27,15 @@
 
 (setq elpy-modules '(elpy-module-eldoc
                      elpy-module-company ;;补全用company-ycmd
-                     elpy-module-flymake ;;语法检查用flycheck
+                     ;; elpy-module-flymake ;;语法检查用flycheck
                      elpy-module-yasnippet  ;;elpy自己提供了一些snippet
                      elpy-module-pyvenv
                      elpy-module-highlight-indentation
                      elpy-module-sane-defaults))
 
-(setq elpy-rpc-backend "jedi")
+(setq elpy-rpc-backend "rope")
 (define-key elpy-mode-map (kbd "<C-return>") nil);;执行当前语句的命令跟标记冲突，重新绑定
-(define-key elpy-mode-map (kbd "C-x C-e") 'elpy-shell-send-current-statement);;执行当前语句
+(define-key elpy-mode-map (kbd "C-x C-e") 'elpy-shell-send-statement-and-step);;执行当前语句
 (define-key elpy-mode-map (kbd "<f10>")'elpy-format-code);;格式化代码，与clang-format一致
 (define-key elpy-mode-map (kbd "C-c C-f") nil)
 

@@ -1318,6 +1318,11 @@ Takes and optional `FRAME' as reference."
        ((,class (:foreground ,solarized-cyan
                              :weight bold))))
 
+     ;;eval-sexp-fu-flash
+     `(eval-sexp-fu-flash
+       ((,class (:background ,monokai-grey+2
+                             :foreground ,monokai-bg))))
+     
      ;; fic
      `(fic-author-face
        ((,class (:background ,monokai-bg

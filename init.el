@@ -105,6 +105,7 @@
        dash
        dashboard
        ;; dired+
+       eval-sexp-fu
        s
        f
        deferred
@@ -127,9 +128,9 @@
        flycheck-ycmd
        ;; flycheck-irony
        fuzzy
-       ggtags
+       ;;ggtags
        gnuplot-mode
-       helm-core
+       ;helm-core
        helm
        helm-ag
        helm-cscope
@@ -141,9 +142,13 @@
        htmlize
        hydra
        ido-vertical-mode
-       ;; irony
-       ;; company-irony
+       irony
+       json-mode
+       company-irony
        langtool
+       ;; lsp-mode
+       ;; company-lsp
+       ;; lsp-python
        magit
        multi-term
        org-bullets

@@ -14,6 +14,7 @@
 (global-set-key [(control x) (control \\)] 'uncomment-region)   ;;反注释选中区域，快捷绑定为C-x C-\， 注意反斜线要用\\表示
 (global-set-key [(control x) (control /)] 'comment-dwim-2)
 (global-set-key [(control x) (control a)] 'revert-buffer)
+(global-set-key [(control x) (control n)] 'nil) ;原来被绑定到一个很讨厌的命令上
 (global-set-key (kbd "C-\\") 'delete-whitespace-rectangle)
 ;;以下几个命令解决在大写状态下光标移动快捷键同时做标记的bug,并没有实际意义
 ;;目前并不清楚这个bug的起因是什么

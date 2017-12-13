@@ -18,5 +18,9 @@
 
 (global-ycmd-mode)
 
+
+(require 'flycheck-ycmd)
+(flycheck-ycmd-setup)
+
 (provide 'init-ycmd)
 ;;; init-ycmd.el ends here

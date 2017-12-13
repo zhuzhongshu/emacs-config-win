@@ -83,5 +83,11 @@
 ;;                                                                   company-yasnippet
 ;;                                                                   company-files)))))
 
+
+
+
+;; (require 'company-lsp)
+;; (push 'company-lsp company-backends)
+
 (provide 'init-company)
 ;;; init-company.el ends here
