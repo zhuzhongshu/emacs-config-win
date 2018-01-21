@@ -1,4 +1,6 @@
+(require 'hydra)
 
+(global-set-key (kbd "C-x C-x ") nil)
 (defhydra hydra-replace (:color blue :hint nil)
 "
 ^^^^^^^^-----------------------------------------------------------------
@@ -9,7 +11,7 @@ _R_: query replace regexp
   ("R" query-replace-regexp )
   ("q" nil "quit"))
   
-(global-set-key (kbd "C-c C-c r") 'hydra-replace/body)
+(global-set-key (kbd "C-x C-x r") 'hydra-replace/body)
 
 (defhydra hydra-buffer (:color blue :hint nil)
 "
@@ -22,7 +24,7 @@ _c_: change coding system and save
   ("R" revert-buffer-with-coding-system )
   ("c" convert-coding-system-and-save )
   ("q" nil "quit"))
-(global-set-key (kbd "C-c C-c b") 'hydra-buffer/body)
+(global-set-key (kbd "C-x C-x b") 'hydra-buffer/body)
 
 
 (defhydra hydra-edit (:color blue :hint nil)
@@ -43,7 +45,7 @@ _c_: change coding system and save
   ("y" yank :color red)
   ("q" nil "quit"))
 
-(global-set-key (kbd "C-c C-c e") 'hydra-edit/body)
+(global-set-key (kbd "C-x C-x e") 'hydra-edit/body)
 (defhydra hydra-flycheck (:color blue :hint nil)
 "
 _s_: select checker     
@@ -52,7 +54,7 @@ _t_: toggle on/off
   ("s" flycheck-select-checker :exit t)
   ("t" flycheck-mode :exit t)
   ("q" nil "quit"))
-(global-set-key (kbd "C-c C-c f") 'hydra-flycheck/body)
+(global-set-key (kbd "C-x C-x f") 'hydra-flycheck/body)
 
 
 
@@ -71,7 +73,7 @@ _o_: octave
   ("o" zzs-octave)
   ("q" nil "quit"))
   
-(global-set-key (kbd "C-c C-c c") 'hydra-comint/body)
+(global-set-key (kbd "C-x C-x t") 'hydra-comint/body)
 
 
 (defhydra hydra-helm (:color blue
@@ -81,7 +83,7 @@ _r_: show register
 "
   ("r" helm-register  :exit t)
   ("q" nil "quit"))
-(global-set-key (kbd "C-c C-c h") 'hydra-helm/body)
+(global-set-key (kbd "C-x C-x h") 'hydra-helm/body)
 
 
 
@@ -91,6 +93,7 @@ _r_: show register
                     (min (1- (point-max)) (point))
                     'org-last-args)))
          (nth 2 args))))
+
 (defhydra hydra-org-agenda-view (:hint none)
   "
 _d_: ?d? day        _g_: time grid=?g?  _a_: arch-trees
@@ -123,3 +126,56 @@ _y_: ?y? year       _q_: quit           _L__l__c_: log = ?l?"
 
 ;; Recommended binding:
 (define-key org-agenda-mode-map "v" 'hydra-org-agenda-view/body)
+
+
+
+
+(defhydra hydra-ediff (:color blue :hint nil)
+  "
+^Buffers           Files           VC                     Ediff regions
+----------------------------------------------------------------------
+_b_uffers           _f_iles (_=_)       _r_evisions              _l_inewise
+_B_uffers (3-way)   _F_iles (3-way)                          _w_ordwise
+                  _c_urrent file
+"
+  ("b" ediff-buffers)
+  ("B" ediff-buffers3)
+  ("=" ediff-files)
+  ("f" ediff-files)
+  ("F" ediff-files3)
+  ("c" ediff-current-file)
+  ("r" ediff-revision)
+  ("l" ediff-regions-linewise)
+  ("w" ediff-regions-wordwise))
+
+(global-set-key (kbd "C-x C-x d") 'hydra-ediff/body)
+
+
+
+
+(defhydra hydra-ggtags (:color blue :hint nil)
+"
+
+^Tags^               ^Find^             ^Actions^          
+^^^^^^^^-----------------------------------------------------------------
+_c_: create          _=_: dwim          _p_: previous mark 
+_u_: update          _d_: definition    _n_: next mark     
+_D_: delete          _r_: reference     ^ ^
+^ ^                  _f_: file          ^ ^       
+^ ^                  _o_: other         ^ ^
+"
+  ("c" ggtags-create-tags)
+  ("u" ggtags-update-tags)
+  ("D" ggtags-delete-tags)  
+  ("=" ggtags-find-tag-dwim)
+  ("d" ggtags-find-definition)
+  ("r" ggtags-find-reference)
+  ("f" ggtags-find-file)
+  ("o" ggtags-find-other-symbol)
+  ("p" ggtags-prev-mark)
+  ("n" ggtags-next-mark)
+  
+  )
+
+(global-set-key (kbd "C-x C-x g") 'hydra-ggtags/body)
+
