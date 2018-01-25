@@ -153,7 +153,8 @@ _B_uffers (3-way)   _F_iles (3-way)                          _w_ordwise
 
 
 
-(defhydra hydra-ggtags (:color blue :hint nil)
+
+(defhydra hydra-ggtags (:color red :hint nil)
 "
 
 ^Tags^               ^Find^             ^Actions^          
@@ -178,4 +179,5 @@ _D_: delete          _r_: reference     ^ ^
   )
 
 (global-set-key (kbd "C-x C-x g") 'hydra-ggtags/body)
+
 

@@ -24,6 +24,7 @@
      (ffap-alternate-file)
      (tmm-menubar)
      (find-file . ido))))
+ '(helm-imenu-delimiter "|")
  '(helm-display-source-at-screen-top nil))
 
 (provide 'init-helm)

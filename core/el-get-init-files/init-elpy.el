@@ -21,6 +21,7 @@
 ;;==========================
 
 (setq python-shell-interpreter-args "--simple-prompt --pprint")
+;; (setq python-shell-interpreter-args "--TerminalIPythonApp.interactive_shell_class=rlipython.TerminalInteractiveShell")
 
 (add-to-list 'python-shell-completion-native-disabled-interpreters "ipython")
 (add-to-list 'python-shell-completion-native-disabled-interpreters "jupyter")
@@ -33,7 +34,7 @@
                      elpy-module-highlight-indentation
                      elpy-module-sane-defaults))
 
-(setq elpy-rpc-backend "rope")
+(setq elpy-rpc-backend "jedi")
 (define-key elpy-mode-map (kbd "<C-return>") nil);;执行当前语句的命令跟标记冲突，重新绑定
 (define-key elpy-mode-map (kbd "C-x C-e") 'elpy-shell-send-statement-and-step);;执行当前语句
 (define-key elpy-mode-map (kbd "<f10>")'elpy-format-code);;格式化代码，与clang-format一致
