@@ -64,10 +64,10 @@ Also affects 'linum-mode' background."
   "Create the monolized theme.
 Takes and optional `FRAME' as reference."
   (let* ((class '((class color) (min-colors 89)))
-         ;; Accented colors 
+         ;; Accented colors
          (yellow           (if (in-terminal) "#CDC673" "#BDB35E"))
          (orange           (if (in-terminal) "#FF8C00" "#E88A1C"))
-         (red              (if (in-terminal) "#FF1493" "#E32368")) 
+         (red              (if (in-terminal) "#FF1493" "#E32368"))
          (magenta          (if (in-terminal) "#D700D7" "#E857DC"))
          (violet           (if (in-terminal) "#AF87FF" "#8D69CF"))
          (blue             (if (in-terminal) "#5FD7FF" "#5BC2D6"))
@@ -112,7 +112,7 @@ Takes and optional `FRAME' as reference."
          (monokai-grey+3 "#4c4745")
          (monokai-grey+5 "#232526")
          (monokai-grey+6 "#171717")
-         
+
          ;; Adaptive higher/lower contrast accented colors
          (monokai-fg-hc    (if (in-terminal) "#171A0B" "#141414"))
          (monokai-fg-lc    (if (in-terminal) "#141414" "#171A0B"))
@@ -140,7 +140,7 @@ Takes and optional `FRAME' as reference."
          (solarized-magenta "#D33682")
          (solarized-violet "#777DD9")
          (solarized-blue "#268BD2")
-         (solarized-blue2 "#14BDCC")         
+         (solarized-blue2 "#14BDCC")
          (solarized-cyan "#2AA198")
          (solarized-green "#859900")
          (solarized-pink "#CC7AA3")
@@ -444,7 +444,7 @@ Takes and optional `FRAME' as reference."
        ((,class (:inherit shadow))))
 
      ;; ein
-     
+
      ;; grep
      `(grep-context-face
        ((,class (:foreground ,monokai-fg))))
@@ -472,24 +472,24 @@ Takes and optional `FRAME' as reference."
                              :background ,monokai-bg
                              :bold t))))
      ;; faces used by swiper
-      `(swiper-match-face-1
-        ((,class (:foreground ,monokai-bg
-                      :background ,solarized-pink
-                      :underline t))))
+     `(swiper-match-face-1
+       ((,class (:foreground ,monokai-bg
+                             :background ,solarized-pink
+                             :underline t))))
 
-      `(swiper-match-face-2
-        ((,class (:foreground ,monokai-bg
-                      :background ,yellow
-                      :underline nil))))
-      `(swiper-match-face-3
-        ((,class (:foreground ,monokai-bg
-                      :background ,cyan-d                                                            
-                      :underline nil))))
+     `(swiper-match-face-2
+       ((,class (:foreground ,monokai-bg
+                             :background ,yellow
+                             :underline nil))))
+     `(swiper-match-face-3
+       ((,class (:foreground ,monokai-bg
+                             :background ,cyan-d
+                             :underline nil))))
 
-      `(swiper-match-face-4
-        ((,class (:foreground ,monokai-bg
-                  :background ,violet
-                      :underline nil))))
+     `(swiper-match-face-4
+       ((,class (:foreground ,monokai-bg
+                             :background ,violet
+                             :underline nil))))
 
      ;; man
      `(Man-overstrike
@@ -637,7 +637,7 @@ Takes and optional `FRAME' as reference."
                              :foreground ,blue
                              :bold t))))
 
-     
+
      ;; ace-jump-mode
      `(ace-jump-face-background
        ((,class (:foreground ,monokai-comments
@@ -918,7 +918,7 @@ Takes and optional `FRAME' as reference."
      `(comint-highlight-prompt
        ((t (:inherit minibuffer-prompt
                      :weight bold))))
-     
+
      ;; company-mode
      `(company-tooltip
        ((,class (:background ,monokai-grey+5
@@ -955,11 +955,11 @@ Takes and optional `FRAME' as reference."
                              :foreground ,monokai-grey-2
                              :underline t))))
      `(company-template-field
-              ((,class (:background ,monokai-grey+2
+       ((,class (:background ,monokai-grey+2
                              :foreground ,monokai-fg
                              :underline nil))))
-       ;; ((t (
-       ;;      :inherit region))))
+     ;; ((t (
+     ;;      :inherit region))))
      `(company-scrollbar-bg
        ((,class (:background ,"#9E9A91"))))
 
@@ -1322,7 +1322,7 @@ Takes and optional `FRAME' as reference."
      `(eval-sexp-fu-flash
        ((,class (:background ,monokai-grey+2
                              :foreground ,monokai-bg))))
-     
+
      ;; fic
      `(fic-author-face
        ((,class (:background ,monokai-bg
@@ -1877,24 +1877,24 @@ Takes and optional `FRAME' as reference."
      `(helm-bibtex-title-face
        ((,class
          :foreground ,solarized-blue2
-                :background ,monokai-bg
-                :bold nil
-                :underline t)))
+         :background ,monokai-bg
+         :bold nil
+         :underline t)))
      `(helm-bibtex-author-face
        ((,class
          :foreground ,solarized-green
-         ;; :foreground ,"#CC147F"      
-                :background ,monokai-bg
-                :underline nil)))
+         ;; :foreground ,"#CC147F"
+         :background ,monokai-bg
+         :underline nil)))
      `(helm-bibtex-journal-face
        ((,class
          :foreground ,solarized-magenta
          ;; :foreground ,"#00FF85"
-                :Background ,monokai-bg)))
+         :Background ,monokai-bg)))
      `(helm-bibtex-year-face
        ((,class
          :foreground ,solarized-ivory
-                :background ,monokai-bg)))
+         :background ,monokai-bg)))
 
      ;; hi-lock-mode
      `(hi-yellow
@@ -1969,7 +1969,7 @@ Takes and optional `FRAME' as reference."
 
      `(ido-only-match
        ((,class (:background ,solarized-magenta
-                 :foreground ,monokai-bg
+                             :foreground ,monokai-bg
                              :weight bold))))
      `(ido-subdir
        ((,class (:foreground ,solarized-yellow))))
@@ -1985,6 +1985,27 @@ Takes and optional `FRAME' as reference."
 
      `(ido-virtual
        ((,class (:foreground ,cyan))))
+
+
+     ;; imenu-list
+     ;;
+
+     `(imenu-list-entry-face-0
+       ((,class (
+                 :foreground ,orange))))
+
+     `(imenu-list-entry-face-1
+       ((,class (
+                 :foreground ,green))))
+
+     `(imenu-list-entry-face-2
+       ((,class (
+                 :height ,monolized-height-plus-2
+                         :foreground ,blue))))
+
+     `(imenu-list-entry-face-3
+       ((,class (
+                 :foreground ,solarized-pink))))
 
      `(jabber-activity-face
        ((,class (:weight bold
@@ -2861,8 +2882,8 @@ Takes and optional `FRAME' as reference."
 
      `(powerline-active2
        ((,class (:background , monokai-hl-line
-                             :foreground ,solarized-pink
-                             :bold t))))
+                               :foreground ,solarized-pink
+                               :bold t))))
 
      `(powerline-inactive1
        ((,class (:background ,gray-d
@@ -2873,7 +2894,7 @@ Takes and optional `FRAME' as reference."
        ((,class (:background ,monokai-grey+6
                              :foreground ,solarized-pink
                              :bold t))))
-     
+
 
      ;; rainbow-delimiters
      `(rainbow-delimiters-depth-1-face
@@ -3014,7 +3035,7 @@ Takes and optional `FRAME' as reference."
      `(sh-heredoc
        ((,class (:foreground ,yellow :weight bold))))
 
-     
+
      ;; `(sml/filename
      ;;   ((,class (:foreground ,solarized-magenta :weight bold))))
      ;; `(sml/time
@@ -3107,14 +3128,14 @@ Takes and optional `FRAME' as reference."
 
      ;;spaceline
 
-     
+
      `(spaceline-flycheck-error
        ((,class (:foreground ,red))))
      `(spaceline-flycheck-warning
        ((,class (:foreground ,yellow))))
      `(spaceline-flycheck-info
        ((,class (:foreground ,blue))))
-     
+
      ;; speedbar
      `(speedbar-button-face
        ((,class (:inherit ,s-variable-pitch
@@ -3278,7 +3299,7 @@ Takes and optional `FRAME' as reference."
      '(term-default-bg-color
        ((t (:inherit term-color-black))))
 
-     ;; tooltip. 
+     ;; tooltip.
      `(tooltip
        ((,class (:background ,solarized-ivory
                              :foreground ,monokai-grey+5
@@ -3336,11 +3357,11 @@ Takes and optional `FRAME' as reference."
                              :foreground ,green-hc))))
      ;; avy-mode
      `( vimish-fold-overlay
-       ((,class (:background ,monokai-bg
-                             :foreground ,solarized-green
-                             :bold nil))))
-     
-    
+        ((,class (:background ,monokai-bg
+                              :foreground ,solarized-green
+                              :bold nil))))
+
+
      ;; w3m
      `(w3m-anchor
        ((,class (:inherit link))))
