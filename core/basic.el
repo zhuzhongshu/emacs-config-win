@@ -74,14 +74,40 @@
 (setq electric-indent-mode nil)                ;;开启缩进功能，用enter键也能取得C-j的效果
 (setq electric-pair-mode nil);;系统本身内置的智能自动补全括号,用smartparens代替
 ;;============================================================================================================
-;;                                            Tag Folding
+;;                                            hide show mode
 ;;============================================================================================================
-(add-hook 'c-mode-hook 'hs-minor-mode)
-(add-hook 'c++-mode-hook 'hs-minor-mode)
-(global-set-key [(control <)] 'hs-hide-block)                   ;;以下四个为代码折叠快捷键
-(global-set-key [(control >)] 'hs-show-block)
-(global-set-key [(control x) (control <)] 'hs-hide-all)
-(global-set-key [(control x) (control >)] 'hs-show-all)
+(require 'hs-setup)
+;; (add-hook 'c-mode-common-hook   'hs-minor-mode)
+
+;; (add-hook 'emacs-lisp-mode-hook 'hs-minor-mode)
+;; (add-hook 'java-mode-hook       'hs-minor-mode)
+;; (add-hook 'lisp-mode-hook       'hs-minor-mode)
+;; (add-hook 'perl-mode-hook       'hs-minor-mode)
+;; (add-hook 'sh-mode-hook         'hs-minor-mode)
+;; (add-hook 'python-mode-hook 'hs-minor-mode)
+
+
+;; (defun toggle-selective-display (column)
+;;   (interactive "P")
+;;   (set-selective-display
+;;    (or column
+;;        (unless selective-display
+;;          (1+ (current-column))))))
+
+;; (defun toggle-hiding (column)
+;;   (interactive "P")
+;;   (if hs-minor-mode
+;;       (if (condition-case nil
+;;               (hs-toggle-hiding)
+;;             (error t))
+;;           (hs-show-all))
+;;     (toggle-selective-display column)))
+
+;; (global-set-key [(control <)] 'hs-toggle-hiding)                   ;;以下四个为代码折叠快捷键
+;; ;; (global-set-key [(control >)] 'hs-show-block)
+
+;; (global-set-key [(control <)] 'hs-hide-all)
+;; (global-set-key [(control >)] 'hs-show-all)
 ;;============================================================================================================
 ;;                                            hippie-expand
 ;;============================================================================================================
@@ -155,9 +181,6 @@
 
 
 
-
-
-
 (defun sql-connect-preset (name)  
   "Connect to a predefined SQL connection listed in `sql-connection-alist'"  
   (eval `(let ,(cdr (assoc name sql-connection-alist))  
@@ -198,7 +221,7 @@
 (if (eq system-type 'gnu/linux)
     (require 'math-setup))
 ;;============================================================================================================
-;;                                              Math
+;;                                              Org
 ;;============================================================================================================
 (require 'org-setup)
 
