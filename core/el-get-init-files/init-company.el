@@ -11,6 +11,7 @@
  ;; 由于在C++中启用输入::,.和->自动补全需要启用idle-delay并且要在company-begin-commands里设置self-insert-command。
  ;; 但是这样就会导致输入指定个字符后自动开始补全，所以要把它设置的特别大......
  '(company-minimum-prefix-length 999)
+ '(company-begin-commands nil)
  '(company-show-numbers t)
  '(company-tooltip-align-annotations t)
  '(company-tooltip-minimum-width 50)
@@ -74,9 +75,20 @@
   (define-key company-active-map (kbd "C-M-s") #'company-search-candidates)
   (define-key company-active-map (kbd "<tab>") #'company-other-backend)
   )
+
+
+
+
+(add-hook 'LaTeX-mode-hook (lambda ()
+                           (setq-local company-backends
+                                       (append '(company-math-symbols-latex company-latex-commands)
+                                               company-backends))))
+
+
+
 ;;;;company-irony配置，记得要编译irony的server
 ;; (add-hook 'irony-mode-hook 'company-irony-setup-begin-commands)
-;; (setq irony-additional-clang-options  '("-Ic:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v8.0/include"))
+;; ;; (setq irony-additional-clang-options  '("-Ic:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v8.0/include"))
 ;; (add-hook 'c-mode-common-hook
 ;;           (lambda ()
 ;;             (set (make-local-variable 'company-backends)  (quote (company-irony

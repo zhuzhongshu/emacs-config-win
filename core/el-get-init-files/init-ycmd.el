@@ -17,12 +17,18 @@
 ;; (setq ycmd-python-binary-path  (concat python-executable-path "python3"))
 
 (setq ycmd-force-semantic-completion t)
-
+(setq company-ycmd-enable-fuzzy-matching t)
 (global-ycmd-mode)
+(add-hook 'c-mode-common-hook 'eldoc-ycmd-mode)
 
-
+;; flycheck-ycmd支持
 (require 'flycheck-ycmd)
 (flycheck-ycmd-setup)
+
+
+;; ycmd-eldoc支持
+(require 'ycmd-eldoc)
+(add-hook 'ycmd-mode-hook 'ycmd-eldoc-setup)
 
 (provide 'init-ycmd)
 ;;; init-ycmd.el ends here

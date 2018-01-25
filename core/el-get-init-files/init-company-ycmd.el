@@ -6,15 +6,11 @@
 (setq ycmd-min-num-chars-for-completion 999)
 (add-hook 'c-mode-common-hook
           (lambda ()
-            (set (make-local-variable 'company-backends)  (quote (company-ycmd
-                                                                  company-yasnippet
+            (set (make-local-variable 'company-backends)  (quote (company-yasnippet
+                                                                  company-ycmd
                                                                   company-files
                                                                   )))))
 
-(add-hook 'LaTeX-mode-hook (lambda ()
-                           (setq-local company-backends
-                                       (append '(company-math-symbols-latex company-latex-commands)
-                                               company-backends))))
 ;; 将下面的代码替换company-template中的同样定义来改变快捷键的绑定
 (setq company-template-nav-map
   (let ((keymap (make-sparse-keymap)))
