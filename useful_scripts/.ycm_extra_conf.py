@@ -60,7 +60,7 @@ flags = [
     '-I',
     "/usr/include/eigen3",
     '-I',
-    '/home/simplex/zzsweet/src/dengta/server/trunk/framework/frame/include/',
+    '/usr/local/tars/cpp/include',
 ]
 
 # Clang automatically sets the '-std=' flag to 'c++14' for MSVC 2015 or later,

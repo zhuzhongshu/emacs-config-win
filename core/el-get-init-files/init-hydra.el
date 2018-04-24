@@ -181,3 +181,24 @@ _D_: delete          _r_: reference     ^ ^
 (global-set-key (kbd "C-x C-x g") 'hydra-ggtags/body)
 
 
+(defhydra hydra-ycmd (:color red :hint nil)
+"
+_g_: goto           _d_: declaration        _D_: definition    
+_r_: reference      _i_: include            _I_: imprecise
+_q_: quit
+"
+  ("g" ycmd-goto)
+  ("d" ycmd-goto-declaration)
+  ("D" ycmd-goto-definition)  
+  ("r" ycmd-goto-reference)
+  ("i" ycmd-goto-include)
+  ("I" ycmd-goto-imprecise)
+  ("q" (message "Abort") :exit t)
+  )
+
+(add-hook 'ycmd-mode-hook (lambda ()
+                              (local-set-key (kbd "C-x C-x y") 'hydra-ycmd/body)))
+
+
+
+

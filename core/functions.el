@@ -128,6 +128,9 @@
                                       (local-set-key (kbd "C-l") 'clear-shell)))
 (add-hook 'comint-mode-hook(lambda ()
                              (local-set-key (kbd "C-l") 'clear-shell)))
+(add-hook 'term-mode-hook(lambda ()
+                             (local-set-key (kbd "C-l") 'clear-shell)))
+
 ;;multi-term中的键绑定需要用它提供的alist
 
 (defun zzs-replace-eq-braket ()

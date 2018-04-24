@@ -19,7 +19,7 @@
 (setq ycmd-force-semantic-completion t)
 (setq company-ycmd-enable-fuzzy-matching t)
 (global-ycmd-mode)
-(add-hook 'c-mode-common-hook 'eldoc-ycmd-mode)
+(add-hook 'c-mode-common-hook 'ycmd-eldoc-mode)
 
 ;; flycheck-ycmd支持
 (require 'flycheck-ycmd)
