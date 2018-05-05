@@ -209,7 +209,7 @@
   (multi-term)
   (company-mode -1)
   (if (> (length bufname) 0)
-      (rename-buffer (concat "*eshell-" bufname "*") t)));;如果bufname已经存在，则自动在名称后面加上<number>用以区分
+      (rename-buffer (concat "*term-" bufname "*") t)));;如果bufname已经存在，则自动在名称后面加上<number>用以区分
   
 ;; (global-set-key [(control c) (control t)] 'zzs-multi-term)
 
