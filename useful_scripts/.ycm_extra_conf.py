@@ -117,8 +117,8 @@ def GetCompilationInfoForFile(filename):
 
 
 def FlagsForFile(filename, **kwargs):
-    ## 把/home/tafjce目录下的头文件路径加入flags
-    headers=subprocess.getoutput("find /home/tafjce/ -type f -name *.h").split("\n")
+    ## 把/home/tarsproto目录下的头文件路径加入flags
+    headers=subprocess.getoutput("find /home/tarsproto/ -type f -name *.h").split("\n")
     include_paths=set([os.path.split(header)[0] for header in headers])
     for include_path in include_paths:
         flags.append('-I')
