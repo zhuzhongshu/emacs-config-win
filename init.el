@@ -46,9 +46,9 @@
 (unless (require 'el-get nil 'noerror)
   ;;只有el-get没有安装的时候才会执行函数体
   (with-current-buffer
-      (url-retrieve-synchronously
-       "https://raw.github.com/dimitri/el-get/master/el-get-install.el")
-    (let (el-get-master-branch
+     (url-retrieve-synchronously
+       "https://raw.githubusercontent.com/dimitri/el-get/master/el-get-install.el")
+     (let (el-get-master-branch
           ;; do not build recipes from emacswiki due to poor quality and documentation
           el-get-install-skip-emacswiki-recipes)
       (goto-char (point-max))
@@ -98,6 +98,7 @@
        auctex-latexmk
        auto-compile
        async
+       atom-one-dark-theme
        ;; bookmark+
        cuda-mode
        comment-dwim-2
@@ -152,6 +153,7 @@
        ;; company-lsp
        ;; lsp-python
        magit
+       modern-cpp-font-lock       
        multi-term
        org-bullets
        org-download
@@ -167,6 +169,7 @@
        helm-projectile
        rainbow-delimiters
        ;; ranger
+       shell-pop
        smartparens
        smex
        sqlup-mode
@@ -196,3 +199,81 @@ yasnippet))
 (desktop-save-mode -1)
 (provide 'init)
 ;;; init.el ends here
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(company-auto-complete nil)
+ '(company-auto-complete-chars (quote ignore))
+ '(company-backends
+   (quote
+    (company-capf company-ispell company-yasnippet company-files company-elisp company-css company-eclim company-semantic company-xcode company-ropemacs company-cmake company-bbdb
+                  (company-dabbrev-code company-gtags company-etags company-keywords)
+                  company-oddmuse company-dabbrev)))
+ '(company-begin-commands nil)
+ '(company-frontends
+   (quote
+    (company-pseudo-tooltip-unless-just-one-frontend company-preview-if-just-one-frontend company-quickhelp-frontend)))
+ '(company-idle-delay 0)
+ '(company-minimum-prefix-length 999)
+ '(company-require-match t)
+ '(company-show-numbers t)
+ '(company-tooltip-align-annotations t)
+ '(company-tooltip-minimum-width 50)
+ '(company-tooltip-offset-display (quote scrollbar))
+ '(custom-safe-themes
+   (quote
+    ("6dd2b995238b4943431af56c5c9c0c825258c2de87b6c936ee88d6bb1e577cb9" default)))
+ '(flycheck-display-errors-function (function flycheck-pos-tip-error-messages))
+ '(helm-M-x-fuzzy-match t)
+ '(helm-boring-buffer-regexp-list
+   (quote
+    ("\\` " "\\*helm" "\\*helm-mode" "\\*Echo Area" "\\*Minibuf" "\\*Messages")))
+ '(helm-buffer-max-length 30)
+ '(helm-buffers-fuzzy-matching t)
+ '(helm-completing-read-handlers-alist
+   (quote
+    ((describe-function . helm-completing-read-symbols)
+     (describe-variable . helm-completing-read-symbols)
+     (debug-on-entry . helm-completing-read-symbols)
+     (find-function . helm-completing-read-symbols)
+     (find-tag . helm-completing-read-with-cands-in-buffer)
+     (ffap-alternate-file)
+     (tmm-menubar)
+     (find-file . ido))))
+ '(helm-display-source-at-screen-top nil)
+ '(helm-imenu-delimiter "|")
+ '(helm-locate-fuzzy-match t)
+ '(org-latex-default-packages-alist
+   (quote
+    (("" "fontspec" t)
+     ("top=1in, bottom=1in, left=1.25in, right=1.25in" "geometry" t)
+     ("" "minted" t)
+     ("UTF8, heading=true" "ctex" t)
+     ("AUTO" "inputenc" t)
+     ("" "fixltx2e" nil)
+     ("" "graphicx" t)
+     ("" "xcolor" t)
+     ("" "bm" t)
+     ("" "longtable" nil)
+     ("" "float" nil)
+     ("" "wrapfig" nil)
+     ("" "rotating" nil)
+     ("normalem" "ulem" t)
+     ("" "amsmath" t)
+     ("" "textcomp" t)
+     ("" "marvosym" t)
+     ("" "wasysym" t)
+     ("" "amssymb" t)
+     ("" "hyperref" nil)
+     "\\tolerance=1000")))
+ '(package-selected-packages
+   (quote
+    (atom-one-dark-theme yafolding window-numbering vimish-fold swiper sqlup-mode sphinx-doc spaceline smex smartparens rainbow-delimiters python-docstring popwin package outshine outline-magic origami org-download org-bullets ob-ipython multi-term magit lsp-python langtool json-mode irony-eldoc imenu-list ido-vertical-mode hydra htmlize helm-tramp helm-swoop helm-projectile helm-gtags helm-dash helm-cscope helm-ag gnuplot-mode ggtags fuzzy flycheck-ycmd flycheck-pos-tip flx-ido eval-sexp-fu elpy dashboard cython-mode cuda-mode company-ycmd company-quickhelp company-lsp company-irony comment-dwim-2 cnfonts cmake-mode clang-format bookmark+ avy auto-compile auctex-latexmk))))
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )
