@@ -11,6 +11,8 @@
                                                                   company-files
                                                                   )))))
 
+
+(setq company-ycmd-insert-arguments nil)
 ;; 将下面的代码替换company-template中的同样定义来改变快捷键的绑定
 (setq company-template-nav-map
   (let ((keymap (make-sparse-keymap)))
