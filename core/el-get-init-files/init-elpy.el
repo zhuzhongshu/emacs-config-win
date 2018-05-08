@@ -3,7 +3,8 @@
 ;;============================================================================================================
 (elpy-enable);;对所有python文件都开启elpy模式，该函数自动将elpy-mode加入了python-mode-hook，还做了其他设置
 
-(elpy-use-ipython)
+(setq python-shell-interpreter "ipython"
+      python-shell-interpreter-args "-i --simple-prompt")
 
 
 (setq elpy-shell-echo-output nil)
@@ -20,7 +21,6 @@
 ;;在导入的时候报错。处理方法是按照需要建立相应版本库的软链接即可
 ;;==========================
 
-(setq python-shell-interpreter-args "--simple-prompt --pprint")
 ;; (setq python-shell-interpreter-args "--TerminalIPythonApp.interactive_shell_class=rlipython.TerminalInteractiveShell")
 
 (add-to-list 'python-shell-completion-native-disabled-interpreters "ipython")
