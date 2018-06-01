@@ -78,7 +78,8 @@
 
 
 ;;以下是.latexmkrc文件中的代码，实现用xelatex编译，okular预览pdf
-;; $pdflatex = "xelatex %O %S";
+;; 增加了-shell-escape选项，以支持org导出pdf时的代码高亮
+;; $pdflatex = "xelatex -shell-escape %O %S" ;
 ;; $pdf_mode = 1;
 ;; $postscript_mode = $dvi_mode = 0;
 ;; $preview_mode = 1;
