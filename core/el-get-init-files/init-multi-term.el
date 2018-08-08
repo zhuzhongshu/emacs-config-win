@@ -28,8 +28,7 @@
                  ;; '( "C-a" . move-beginning-of-line)
                  ;; '( "C-k" . kill-line)
                  '( "M-e" . forward-sentence)
-                 '( "M-v" . scroll-down-command)
-                 '("C-l" . clear-shell)))
+                 '( "M-v" . scroll-down-command)))
 
 (set-term-bind-key-alist keys)
 

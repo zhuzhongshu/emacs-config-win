@@ -1,6 +1,6 @@
 (require 'spaceline-config)
 
-(setq powerline-default-separator "wave")
+(setq powerline-default-separator "arrow")
 (setq spaceline-window-numbers-unicode nil)
 (setq spaceline-workspace-numbers-unicode nil)
 (setq spaceline-minor-modes-separator "-")

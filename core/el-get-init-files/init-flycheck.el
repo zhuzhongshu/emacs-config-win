@@ -1,7 +1,8 @@
-(require 'flycheck-pos-tip)
+;; (require 'flycheck-pos-tip)
+;; (with-eval-after-load 'flycheck
+;;   (flycheck-pos-tip-mode))
+
 (add-hook 'after-init-hook #'global-flycheck-mode);;自动开启fly-check mode
-(with-eval-after-load 'flycheck
-  (flycheck-pos-tip-mode))
 
 ;;(setq flycheck-highlighting-mode (quote lines));;高亮模式，默认是symbols
 (setq flycheck-clang-language-standard "c++11");;设置clang -std="c++11"
