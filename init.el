@@ -134,6 +134,7 @@
        fuzzy
        ggtags
        gnuplot-mode
+       go-mode
        ;helm-core
        helm
        helm-ag
