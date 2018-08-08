@@ -27,7 +27,6 @@
                          ("marmalade" . "https://elpa.emacs-china.org/marmalade/")))
 
 (package-initialize)
-
 (let ((minver "23.3"))
   (when (version<= emacs-version "23.1")
     (error "Your Emacs is too old -- this config requires v%s or higher" minver)))
@@ -103,9 +102,11 @@
        cuda-mode
        comment-dwim-2
        cmake-mode
+       cypher-mode
        dash
        dashboard
        ;; dired+
+       dockerfile-mode
        eval-sexp-fu
        s
        f
@@ -118,16 +119,18 @@
        company
        company-quickhelp
        cython-mode
-       ycmd
-       company-ycmd
+       ;; ycmd
+       ;; company-ycmd
        ;; ein
        elpy
        ;; find-file-in-project
        flx-ido
        flycheck
-       flycheck-pos-tip
-       flycheck-ycmd
+       ;; flycheck-pos-tip
+       flycheck-posframe
+       ;; flycheck-ycmd
        ;; flycheck-irony
+       format-all
        fuzzy
        ggtags
        gnuplot-mode
@@ -144,14 +147,16 @@
        hydra
        ido-vertical-mode
        imenu-list
-       irony
-       irony-eldoc
-       company-irony
+       ;; irony
+       ;; irony-eldoc
+       ;; company-irony
        json-mode
        langtool
-       ;; lsp-mode
-       ;; company-lsp
+       lsp-mode
+       company-lsp
        ;; lsp-python
+       lsp-ui
+       cquery
        magit
        modern-cpp-font-lock       
        multi-term
@@ -165,8 +170,8 @@
        popwin
        ;; powerline
        python-docstring
-       projectile
-       helm-projectile
+       ;; projectile
+       ;; helm-projectile
        rainbow-delimiters
        ;; ranger
        shell-pop
@@ -176,10 +181,13 @@
        swiper
        sphinx-doc
        vimish-fold
+       vmd-mode
+       web-mode
        window-numbering
-       ;; spaceline
+       spaceline
        ;; xcscope
        ;yafolding
+       yaml-mode
 yasnippet))
 (el-get 'sync required-packages)
 
@@ -195,7 +203,7 @@ yasnippet))
 ;;开启emacs服务器功能
 (server-start)
 ;;加载spaceline
-;; (spaceline-spacemacs-theme)
+(spaceline-spacemacs-theme)
 (desktop-save-mode -1)
 (provide 'init)
 ;;; init.el ends here
@@ -222,9 +230,6 @@ yasnippet))
  '(company-tooltip-align-annotations t)
  '(company-tooltip-minimum-width 50)
  '(company-tooltip-offset-display (quote scrollbar))
- '(custom-safe-themes
-   (quote
-    ("6dd2b995238b4943431af56c5c9c0c825258c2de87b6c936ee88d6bb1e577cb9" default)))
  '(flycheck-display-errors-function (function flycheck-pos-tip-error-messages))
  '(helm-M-x-fuzzy-match t)
  '(helm-boring-buffer-regexp-list
@@ -270,7 +275,7 @@ yasnippet))
      "\\tolerance=1000")))
  '(package-selected-packages
    (quote
-    (atom-one-dark-theme yafolding window-numbering vimish-fold swiper sqlup-mode sphinx-doc spaceline smex smartparens rainbow-delimiters python-docstring popwin package outshine outline-magic origami org-download org-bullets ob-ipython multi-term magit lsp-python langtool json-mode irony-eldoc imenu-list ido-vertical-mode hydra htmlize helm-tramp helm-swoop helm-projectile helm-gtags helm-dash helm-cscope helm-ag gnuplot-mode ggtags fuzzy flycheck-ycmd flycheck-pos-tip flx-ido eval-sexp-fu elpy dashboard cython-mode cuda-mode company-ycmd company-quickhelp company-lsp company-irony comment-dwim-2 cnfonts cmake-mode clang-format bookmark+ avy auto-compile auctex-latexmk))))
+    (lsp-mode json-snatcher json-reformat ivy highlight-indentation highlight deferred dash company async yaml-mode window-numbering web-mode vmd-mode vimish-fold swiper sqlup-mode sphinx-doc spaceline smex smartparens shell-pop rainbow-delimiters python-docstring popwin package outline-magic org-download org-bullets ob-ipython multi-term modern-cpp-font-lock magit lsp-ui lsp-python langtool json-mode irony-eldoc imenu-list ido-vertical-mode hydra htmlize helm-swoop helm-projectile helm-dash helm-ag gnuplot-mode ggtags fuzzy format-all flycheck-ycmd flycheck-posframe flycheck-pos-tip flx-ido eval-sexp-fu elpy dashboard cython-mode cypher-mode cuda-mode cquery company-ycmd company-quickhelp company-lsp company-irony comment-dwim-2 cnfonts cmake-mode clang-format avy auto-compile auctex-latexmk atom-one-dark-theme))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
