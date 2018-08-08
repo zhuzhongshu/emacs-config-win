@@ -1,10 +1,16 @@
 ;;============================================================================================================
 ;;                                            elpy
 ;;============================================================================================================
+(require 'elpy)
 (elpy-enable);;对所有python文件都开启elpy模式，该函数自动将elpy-mode加入了python-mode-hook，还做了其他设置
 
 (setq python-shell-interpreter "ipython"
       python-shell-interpreter-args "-i --simple-prompt")
+;; (setq python-shell-interpreter "jupyter"
+;;       python-shell-interpreter-args "console --simple-prompt"
+;;       python-shell-prompt-detect-failure-warning nil)
+;; (add-to-list 'python-shell-completion-native-disabled-interpreters
+;;              "jupyter")
 
 
 (setq elpy-shell-echo-output nil)
@@ -28,7 +34,7 @@
 
 (setq elpy-modules '(elpy-module-eldoc
                      elpy-module-company ;;补全用company-ycmd
-                     ;; elpy-module-flymake ;;语法检查用flycheck
+                     elpy-module-flymake ;;语法检查用flycheck
                      elpy-module-yasnippet  ;;elpy自己提供了一些snippet
                      elpy-module-pyvenv
                      elpy-module-highlight-indentation
@@ -37,8 +43,11 @@
 (setq elpy-rpc-backend "jedi")
 (define-key elpy-mode-map (kbd "<C-return>") nil);;执行当前语句的命令跟标记冲突，重新绑定
 (define-key elpy-mode-map (kbd "C-x C-e") 'elpy-shell-send-statement-and-step);;执行当前语句
-(define-key elpy-mode-map (kbd "<f10>")'elpy-format-code);;格式化代码，与clang-format一致
+(define-key elpy-mode-map (kbd "C-c C-l") 'elpy-shell-set-local-shell);;执行当前语句
+;;格式化用format-all代替了
+;; (define-key elpy-mode-map (kbd "<f10>")'elpy-format-code);;格式化代码，与clang-format一致
 (define-key elpy-mode-map (kbd "C-c C-f") nil)
+(define-key elpy-mode-map (kbd "C-c C-k") nil)
 
 
 (add-hook 'python-mode-hook 'python-docstring-mode)

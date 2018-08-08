@@ -29,7 +29,7 @@
 (column-number-mode t);;在mode-line处显示列号
 (line-number-mode t);;在mode-line处显示行号
 (setq linum-format "%3i");;设置左侧行号格式，在格式化字符串内加空格可以体现在行号上，如" %3i% "
-(setq c-default-style "ellemtel");;设置缩进格式为ellemtel
+(setq c-default-style "stroustrup");;设置格式为stroustrup
 ;; 字体设置
 (prefer-coding-system 'utf-8)
 (set-language-environment 'UTF-8)
