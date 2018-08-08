@@ -145,6 +145,29 @@ Takes and optional `FRAME' as reference."
          (solarized-green "#859900")
          (solarized-pink "#CC7AA3")
          (solarized-ivory "#B8B5AE")
+         ;;atom-color
+
+         (atom-one-dark-fg        "#ABB2BF")
+         (atom-one-dark-bg        "#282C34")
+         (atom-one-dark-bg-1      "#121417")
+         (atom-one-dark-bg-hl     "#2C323C")
+         (atom-one-dark-gutter     "#4B5363")
+         (atom-one-dark-mono-1     "#ABB2BF")
+         (atom-one-dark-mono-2     "#828997")
+         (atom-one-dark-mono-3     "#5C6370")
+         (atom-one-dark-cyan      "#56B6C2")
+         (atom-one-dark-blue      "#61AFEF")
+         (atom-one-dark-purple    "#C678DD")
+         (atom-one-dark-green     "#98C379")
+         (atom-one-dark-red-1     "#E06C75")
+         (atom-one-dark-red-2     "#BE5046")
+         (atom-one-dark-orange-1  "#D19A66")
+         (atom-one-dark-orange-2  "#E5C07B")
+         (atom-one-dark-gray       "#3E4451")
+         (atom-one-dark-silver     "#9DA5B4")
+         (atom-one-dark-black   "#21252B")
+
+
          ;; customize based face properties
          (s-variable-pitch (if monolized-use-variable-pitch
                                'variable-pitch 'default))
@@ -922,7 +945,7 @@ Takes and optional `FRAME' as reference."
      ;; company-mode
      `(company-tooltip
        ((,class (:background ,monokai-grey+5
-                             :foreground ,solarized-cyan))))
+                             :foreground ,atom-one-dark-orange-1))))
      `(company-tooltip-annotation
        ((t (:inherit company-tooltip
                      :foreground ,solarized-green))))
@@ -934,13 +957,16 @@ Takes and optional `FRAME' as reference."
        ((,class (:background ,solarized-magenta
                              :foreground ,monokai-bg))))
 
+     ;; `(company-tooltip-common
+     ;;   ((t (:inherit company-tooltip
+     ;;                 :foreground ,solarized-cyan
+     ;;                 :underline (:color foreground-color :style line)))))
      `(company-tooltip-common
        ((t (:inherit company-tooltip
-                     :foreground ,orange
-                     :underline (:color foreground-color :style wave)))))
+                     :foreground ,solarized-cyan))))
+
      `(company-tooltip-common-selection
-       ((t (:inherit company-tooltip-selection
-                     :underline (:color foreground-color :style wave)))))
+       ((t (:inherit company-tooltip-selection))))
 
      `(company-tooltip-mouse
        ((,class (:background ,solarized-cyan
@@ -1381,6 +1407,7 @@ Takes and optional `FRAME' as reference."
                              :underline t))))
 
      ;; flycheck
+
      `(flycheck-error
        ((,(append '((supports :underline (:style wave))) class)
          (:underline (:style wave :color ,red)
@@ -1422,6 +1449,20 @@ Takes and optional `FRAME' as reference."
        ((,class (:foreground ,blue-hc
                              :background ,blue-lc
                              :weight bold))))
+
+     `(flycheck-posframe-error-face
+       ((,class (:foreground ,red-hc
+                             :weight bold))))
+     
+     `(flycheck-posframe-warning-face
+       ((,class (:foreground ,orange-hc
+                             :weight bold))))
+
+     `(flycheck-posframe-info-face
+       ((,class (:foreground ,blue-hc
+                             :weight bold))))
+     
+
 
      ;; flyspell
      `(flyspell-duplicate
@@ -2118,6 +2159,14 @@ Takes and optional `FRAME' as reference."
        ((,class (:foreground ,monokai-emph
                              :background ,s-fringe-bg))))
 
+
+
+     ;;lsp
+     `(lsp-ui-doc-background
+       ((,class (:background ,monokai-bg
+                             ))))
+
+
      ;; lusty-explorer
      `(lusty-directory-face
        ((,class (:inherit dired-directory))))
@@ -2130,6 +2179,8 @@ Takes and optional `FRAME' as reference."
      `(lusty-slash-face
        ((,class (:foreground ,cyan
                              :weight bold))))
+
+
 
      ;; magit
      `(magit-section-title
