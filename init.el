@@ -123,6 +123,7 @@
        ;; company-ycmd
        ;; ein
        elpy
+       ;; eglot
        ;; find-file-in-project
        flx-ido
        flycheck
@@ -135,6 +136,7 @@
        ggtags
        gnuplot-mode
        go-mode
+       flycheck-gometalinter
        ;helm-core
        helm
        helm-ag
@@ -144,6 +146,7 @@
        ;;helm-bibtex
        helm-swoop
        ;; helm-tramp
+       highlight-indent-guides
        htmlize
        hydra
        ido-vertical-mode
@@ -152,6 +155,7 @@
        ;; irony-eldoc
        ;; company-irony
        json-mode
+       ;; jsonrpc
        langtool
        lsp-mode
        company-lsp
@@ -185,7 +189,7 @@
        vmd-mode
        web-mode
        window-numbering
-       spaceline
+       ;; spaceline
        ;; xcscope
        ;yafolding
        yaml-mode
@@ -204,10 +208,12 @@ yasnippet))
 ;;开启emacs服务器功能
 (server-start)
 ;;加载spaceline
-(spaceline-spacemacs-theme)
+;; (spaceline-spacemacs-theme)
 (desktop-save-mode -1)
 (provide 'init)
 ;;; init.el ends here
+
+
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -251,6 +257,7 @@ yasnippet))
  '(helm-display-source-at-screen-top nil)
  '(helm-imenu-delimiter "|")
  '(helm-locate-fuzzy-match t)
+ '(lsp-ui-sideline-show-flycheck nil)
  '(org-latex-default-packages-alist
    (quote
     (("" "fontspec" t)
@@ -276,7 +283,7 @@ yasnippet))
      "\\tolerance=1000")))
  '(package-selected-packages
    (quote
-    (lsp-mode json-snatcher json-reformat ivy highlight-indentation highlight deferred dash company async yaml-mode window-numbering web-mode vmd-mode vimish-fold swiper sqlup-mode sphinx-doc spaceline smex smartparens shell-pop rainbow-delimiters python-docstring popwin package outline-magic org-download org-bullets ob-ipython multi-term modern-cpp-font-lock magit lsp-ui lsp-python langtool json-mode irony-eldoc imenu-list ido-vertical-mode hydra htmlize helm-swoop helm-projectile helm-dash helm-ag gnuplot-mode ggtags fuzzy format-all flycheck-ycmd flycheck-posframe flycheck-pos-tip flx-ido eval-sexp-fu elpy dashboard cython-mode cypher-mode cuda-mode cquery company-ycmd company-quickhelp company-lsp company-irony comment-dwim-2 cnfonts cmake-mode clang-format avy auto-compile auctex-latexmk atom-one-dark-theme))))
+    (jsonrpc yaml-mode window-numbering web-mode vmd-mode vimish-fold swiper sqlup-mode sphinx-doc spaceline smex smartparens shell-pop request-deferred rainbow-delimiters python-docstring popwin package outline-magic org-download org-bullets ob-ipython multi-term modern-cpp-font-lock magit lsp-ui langtool json-mode imenu-list ido-vertical-mode hydra htmlize highlight-indent-guides helm-swoop helm-dash helm-ag go-mode gnuplot-mode ggtags fuzzy format-all flycheck-posframe flycheck-gometalinter flx-ido eval-sexp-fu elpy dockerfile-mode dashboard cython-mode cypher-mode cuda-mode cquery company-quickhelp company-lsp comment-dwim-2 cnfonts cmake-mode clang-format avy auto-compile auctex-latexmk atom-one-dark-theme))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

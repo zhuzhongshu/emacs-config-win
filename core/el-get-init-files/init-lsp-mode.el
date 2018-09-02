@@ -10,19 +10,20 @@
 (define-key lsp-ui-mode-map [remap xref-find-definitions] #'lsp-ui-peek-find-definitions)
 (define-key lsp-ui-mode-map [remap xref-find-references] #'lsp-ui-peek-find-references)
 (setq lsp-ui-sideline-show-code-actions nil)
+(setq lsp-ui-sideline-show-flycheck nil)
 
 ;;++++++++++++++++++++lsp-ui-doc++++++++++++++++++++
 (setq lsp-ui-doc-header t)
 (setq lsp-ui-doc-max-width 100)
 (setq lsp-ui-doc-max-height 50)
-(setq lsp-ui-doc-position 'at-point)
+;; (setq lsp-ui-doc-position 'top)
 
 
 (require 'lsp-imenu)
 (add-hook 'lsp-after-open-hook 'lsp-enable-imenu)
 
 (require 'lsp-ui-peek)
-(add-hook 'lsp-after-open-hook 'lsp-enable-peek)
+;; (add-hook 'lsp-after-open-hook 'lsp-enable-peek)
 
 ;;++++++++++++++++++++company-lsp++++++++++++++++++++
 (require 'company-lsp)
@@ -86,25 +87,26 @@
 
 
 ;;++++++++++++++++++++go++++++++++++++++++++
-;; (defgroup lsp-go nil
-;;   "lsp-go settings"
-;;   :group 'tools)
+(defgroup lsp-go nil
+  "lsp-go settings"
+  :group 'tools)
 
-;; (defcustom lsp-go-executable-path (executable-find "go-langserver")
-;;   "Path to the go-langserver executable."
-;;   :type 'string
-;;   :group 'lsp-go)
+(defcustom lsp-go-executable-path (executable-find "go-langserver")
+  "Path to the go-langserver executable."
+  :type 'string
+  :group 'lsp-go)
 
-;; (lsp-define-stdio-client lsp-go "go" #'(lambda () default-directory)
-;; 			 `(,lsp-go-executable-path "-mode=stdio" "-gocodecompletion")
-;; 			 :ignore-regexps
-;; 			 '("^langserver-go: reading on stdin, writing on stdout$"))
+(lsp-define-stdio-client lsp-go "go" #'(lambda () default-directory)
+			 `(,lsp-go-executable-path "-mode=stdio" "-gocodecompletion","-format-tool=gofmt")
+			 :ignore-regexps
+			 '("^langserver-go: reading on stdin, writing on stdout$"))
 
-;; (add-hook 'go-mode-hook
-;;           (lambda ()
-;;             (set (make-local-variable 'company-backends)  (quote (company-lsp
-;;                                                                   company-yasnippet
-;;                                                                   company-files)))))
-
-
-;; (add-hook 'go-mode-hook #'lsp-go-enable)
+(add-hook 'go-mode-hook #'lsp-go-enable)
+(add-hook 'go-mode-hook
+          (lambda ()
+            (set (make-local-variable 'company-backends)  (quote (company-lsp
+                                                                  company-yasnippet
+                                                                  company-files)))
+            (setq lsp-ui-flycheck-enable nil)
+            (setq flycheck-checker 'gometalinter)
+            (setq-default flycheck-disabled-checkers '(lsp-ui))))
