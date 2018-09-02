@@ -6,8 +6,9 @@
 ;;f7 ispell-word 单词拼写检查
 ;;f8 languagetool 语法检查
 ;;f9 iwb 缩进整个buffer
-;;f10 fullscreen 全屏
-;;f11 clang-format 格式化c代码，只在c-mode下有效
+;;f10 格式化代码
+;;f11 fullscreen 全屏
+
 
 (global-set-key [(control return)] 'set-mark-command)         ;;与C-@功能一样，设置选择文本的起点
 (global-set-key [(control x) (control /)] 'comment-region)    ;;注释选中区域，快捷绑定为C-x C-/
