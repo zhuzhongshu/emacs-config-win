@@ -1,0 +1,10 @@
+%clang
+%c -std=gnu11
+%cpp -std=c++11
+-pthread
+
+# Includes
+-I/usr/include/eigen3
+-I/usr/local/tars/cpp/include
+-I/home/tarsproto/
+# -I space_is_not_allowed
