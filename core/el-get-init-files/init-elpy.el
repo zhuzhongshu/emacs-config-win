@@ -37,7 +37,7 @@
                      elpy-module-flymake ;;语法检查用flycheck
                      elpy-module-yasnippet  ;;elpy自己提供了一些snippet
                      elpy-module-pyvenv
-                     elpy-module-highlight-indentation
+                     ;; elpy-module-highlight-indentation
                      elpy-module-sane-defaults))
 
 (setq elpy-rpc-backend "jedi")
