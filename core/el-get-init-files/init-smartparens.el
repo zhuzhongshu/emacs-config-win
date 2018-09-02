@@ -85,6 +85,7 @@
     (indent-according-to-mode)))
 (sp-local-pair 'c-mode "{" nil :post-handlers '(:add my-open-block-c-mode))
 (sp-local-pair 'c++-mode "{" nil :post-handlers '(:add my-open-block-c-mode))
+(sp-local-pair 'go-mode "{" nil :post-handlers '(:add my-open-block-c-mode))
 
 
 (provide 'init-smartparens)
