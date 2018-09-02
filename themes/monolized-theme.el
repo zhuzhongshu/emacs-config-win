@@ -1461,7 +1461,11 @@ Takes and optional `FRAME' as reference."
      `(flycheck-posframe-info-face
        ((,class (:foreground ,blue-hc
                              :weight bold))))
-     
+
+     `(flycheck-posframe-background-face
+       ((,class (:background ,monokai-grey+5
+                             ))))
+
 
 
      ;; flyspell
