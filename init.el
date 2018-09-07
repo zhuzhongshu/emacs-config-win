@@ -128,6 +128,7 @@
        flx-ido
        flycheck
        ;; flycheck-pos-tip
+       flycheck-yamllint
        flycheck-posframe
        ;; flycheck-ycmd
        ;; flycheck-irony
