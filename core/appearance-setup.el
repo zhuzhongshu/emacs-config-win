@@ -5,7 +5,8 @@
 (menu-bar-mode -1)                      ;开启菜单栏
 (display-time-mode 1)                   ;启用时间显示
 (auto-fill-mode 1)                      ;开启自动分行模式
-(auto-image-file-mode t) 
+(auto-image-file-mode t)
+(setq-default tab-width 4)
 (setq-default fill-column 120)          ;可以使用M-q来对选中的段落手动分行，每行最多120个字符
 (setq-default word-wrap t)              ;开启word-wrap模式
 (setq cua-enable-cua-keys nil)          ;cua-mode时不覆盖原始emacs的键绑定

@@ -107,6 +107,8 @@
        dashboard
        ;; dired+
        dockerfile-mode
+       doom-modeline
+       duplicate-thing
        eval-sexp-fu
        s
        f
@@ -176,10 +178,8 @@
        popwin
        ;; powerline
        python-docstring
-       ;; projectile
-       ;; helm-projectile
        rainbow-delimiters
-       ;; ranger
+       rg
        shell-pop
        smartparens
        smex
@@ -190,9 +190,7 @@
        vmd-mode
        web-mode
        window-numbering
-       ;; spaceline
-       ;; xcscope
-       ;yafolding
+       windsize
        yaml-mode
 yasnippet))
 (el-get 'sync required-packages)
@@ -284,7 +282,7 @@ yasnippet))
      "\\tolerance=1000")))
  '(package-selected-packages
    (quote
-    (jsonrpc yaml-mode window-numbering web-mode vmd-mode vimish-fold swiper sqlup-mode sphinx-doc spaceline smex smartparens shell-pop request-deferred rainbow-delimiters python-docstring popwin package outline-magic org-download org-bullets ob-ipython multi-term modern-cpp-font-lock magit lsp-ui langtool json-mode imenu-list ido-vertical-mode hydra htmlize highlight-indent-guides helm-swoop helm-dash helm-ag go-mode gnuplot-mode ggtags fuzzy format-all flycheck-posframe flycheck-gometalinter flx-ido eval-sexp-fu elpy dockerfile-mode dashboard cython-mode cypher-mode cuda-mode cquery company-quickhelp company-lsp comment-dwim-2 cnfonts cmake-mode clang-format avy auto-compile auctex-latexmk atom-one-dark-theme))))
+    (lsp-mode ivy highlight dash company jsonrpc yaml-mode window-numbering web-mode vmd-mode vimish-fold swiper sqlup-mode sphinx-doc spaceline smex smartparens shell-pop request-deferred rainbow-delimiters python-docstring popwin package outline-magic org-download org-bullets ob-ipython multi-term modern-cpp-font-lock magit lsp-ui langtool json-mode imenu-list ido-vertical-mode hydra htmlize highlight-indent-guides helm-swoop helm-dash helm-ag go-mode gnuplot-mode ggtags fuzzy format-all flycheck-posframe flycheck-gometalinter flx-ido eval-sexp-fu elpy dockerfile-mode dashboard cython-mode cypher-mode cuda-mode cquery company-quickhelp company-lsp comment-dwim-2 cnfonts cmake-mode clang-format avy auto-compile auctex-latexmk atom-one-dark-theme))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

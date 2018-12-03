@@ -13,3 +13,12 @@ irony/
 ycmd/
 eshell/
 vimish-fold/
+ido.last
+recentf
+tramp
+#*
+eclipse_java_lsp_server/
+ede-projects.el
+games/
+projectile-bookmarks.eld
+projectile.cache

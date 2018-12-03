@@ -32,6 +32,7 @@
           (shell-pop shell-group-num))))))
 
 (global-set-key (kbd "<f12>") 'shell-pop-with-buffer-group)
+(global-set-key (kbd "C-<f12>") 'add-to-shell-group)
 
 
 

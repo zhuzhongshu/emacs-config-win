@@ -91,7 +91,8 @@
   "lsp-go settings"
   :group 'tools)
 
-(defcustom lsp-go-executable-path (executable-find "go-langserver")
+
+(defcustom lsp-go-executable-path  "/home/simplex/go/bin/go-langserver"
   "Path to the go-langserver executable."
   :type 'string
   :group 'lsp-go)
@@ -109,4 +110,5 @@
                                                                   company-files)))
             (setq lsp-ui-flycheck-enable nil)
             (setq flycheck-checker 'gometalinter)
-            (setq-default flycheck-disabled-checkers '(lsp-ui))))
+            (setq-default flycheck-disabled-checkers '(lsp-ui))
+            ))

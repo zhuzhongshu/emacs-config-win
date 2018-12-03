@@ -43,7 +43,7 @@
 (setq elpy-rpc-backend "jedi")
 (define-key elpy-mode-map (kbd "<C-return>") nil);;执行当前语句的命令跟标记冲突，重新绑定
 (define-key elpy-mode-map (kbd "C-x C-e") 'elpy-shell-send-statement-and-step);;执行当前语句
-(define-key elpy-mode-map (kbd "C-c C-l") 'elpy-shell-set-local-shell);;执行当前语句
+(define-key elpy-mode-map (kbd "C-c C-l") 'elpy-shell-set-local-shell);;设置本地shell 
 ;;格式化用format-all代替了
 ;; (define-key elpy-mode-map (kbd "<f10>")'elpy-format-code);;格式化代码，与clang-format一致
 (define-key elpy-mode-map (kbd "C-c C-f") nil)
