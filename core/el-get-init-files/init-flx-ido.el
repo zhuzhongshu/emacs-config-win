@@ -1,6 +1,6 @@
 (setq ido-save-directory-list-file "~/.emacs.d/ido.last")
 (ido-mode 1)
-(ido-everywhere 1)
+;; (ido-everywhere 1)
 (flx-ido-mode 1)
 (setq ido-use-virtual-buffers "auto")
 (setq ido-work-directory-match-only nil)
